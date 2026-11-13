@@ -1,0 +1,1735 @@
+{
+ "segment": "英语一 2005–2010",
+ "agent": "A",
+ "entries": [
+  {
+   "id": "a001",
+   "type": "expression",
+   "headword": "all too human",
+   "phonetic": "/tuː/",
+   "pos": "adj. phrase",
+   "meaning": "太人性了、人之常情；all too + adj. 表示「实在太……（常含无奈或惋惜）」",
+   "note": "all too 并非「全部太」，而是强化语气且多带贬抑或遗憾，all too familiar / all too common 可直接迁移到写作；原文下句仿造 it is all too monkey，用类比制造幽默。",
+   "quote": "Such behaviour is regarded as \"all too human,\" with the underlying assumption that other animals would not be capable of this finely developed sense of grievance.",
+   "quote_zh": "这种行为被看作「人之常情」，其潜在假定是：其他动物不可能具备这种高度发达的不公平感。",
+   "source": "2005 英语一 阅读 Text 1",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a002",
+   "type": "expression",
+   "headword": "be out to do sth",
+   "phonetic": "/aʊt/",
+   "pos": "v. phrase",
+   "meaning": "一心要、蓄意要做（多指坏事）；be out to destroy 即「存心要毁掉」",
+   "note": "out to 后接动词原形表意图而非方向，常用于指控对方动机，比 intend to 更具敌意色彩；写作中可用于批驳对立立场。",
+   "quote": "That the antismoking lobby was out to destroy our way of life and the government should stay out of the way?",
+   "quote_zh": "反吸烟游说团体一心要毁掉我们的生活方式，而政府则不该插手？",
+   "source": "2005 英语一 阅读 Text 2",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "科学与技术",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a003",
+   "type": "expression",
+   "headword": "stay out of the way",
+   "phonetic": "/weɪ/",
+   "pos": "v. phrase",
+   "meaning": "不插手、不干预、置身事外",
+   "note": "与 out to destroy 同句对举，写出「政府应袖手旁观」的怀疑论立场；keep / stay out of the way 可用于议论政府或机构边界。",
+   "quote": "That the antismoking lobby was out to destroy our way of life and the government should stay out of the way?",
+   "quote_zh": "反吸烟游说团体一心要毁掉我们的生活方式，而政府则不该插手？",
+   "source": "2005 英语一 阅读 Text 2",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "科学与技术",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "a004",
+   "type": "expression",
+   "headword": "paralysis by analysis",
+   "phonetic": "/pəˈræləsɪs/",
+   "pos": "n. phrase",
+   "meaning": "「分析导致的瘫痪」：因一味研究、迟迟不决而贻误行动",
+   "note": "押头韵的抽象名词短语，a classic case of 是引出典型例证的万能框架；写作中批评「只研究不行动」可直接套用。",
+   "quote": "Instead of a plan of action, they continue to press for more research -- a classic case of \"paralysis by analysis.\"",
+   "quote_zh": "他们拿不出行动计划，反而不断要求更多研究——这是「分析致瘫」的典型案例。",
+   "source": "2005 英语一 阅读 Text 2",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "写作可迁移",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a005",
+   "type": "expression",
+   "headword": "spell the death of",
+   "phonetic": "/spel/",
+   "pos": "v. phrase",
+   "meaning": "宣告……的消亡、招致……的终结",
+   "note": "spell 此处意为「招致、意味着」，宾语多为灾祸类名词（disaster / doom / the end of）；比 lead to 更书面、更具宿命感。",
+   "quote": "But the cult of the authentic and the personal, \"doing our own thing,\" has spelt the death of formal speech, writing, poetry and music.",
+   "quote_zh": "然而，对「真实」与「个性」的推崇，即「各行其是」，已经宣告了正式演讲、写作、诗歌和音乐的消亡。",
+   "source": "2005 英语一 阅读 Text 4",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "写作可迁移",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a006",
+   "type": "expression",
+   "headword": "no more ... than ...",
+   "phonetic": "/ðæn/",
+   "pos": "conj. structure",
+   "meaning": "与……一样不……；两者都不（否定两者）",
+   "note": "极易误读为比较级「不比……更」，实为双重否定：whom 的消失「和古英语格词尾的消失一样不值得惋惜」。长难句高频结构。",
+   "quote": "Mr. McWhorter's academic speciality is language history and change, and he sees the gradual disappearance of \"whom,\" for example, to be natural and no more regrettable than the loss of the case-endings of Old English.",
+   "quote_zh": "麦克沃特先生的学术专长是语言史与语言演变，他认为「whom」一词的逐渐消失是自然现象，与古英语格词尾的消失一样不值得惋惜。",
+   "source": "2005 英语一 阅读 Text 4",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "长难句",
+    "易错义"
+   ]
+  },
+  {
+   "id": "a007",
+   "type": "expression",
+   "headword": "an array of",
+   "phonetic": "/əˈreɪ/",
+   "pos": "n. phrase",
+   "meaning": "一系列、一大批（强调数量多且排列有序）",
+   "note": "an array of examples / data / measures 是学术写作高频量化短语，比 a lot of 正式得多；注意与 a range of（范围）区分。",
+   "quote": "Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable.",
+   "quote_zh": "麦克沃特先生以一系列来自高雅与通俗文化的有趣例证加以说明，他所记录的这一趋势清晰无误。",
+   "source": "2005 英语一 阅读 Text 4",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "历史与语言",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a008",
+   "type": "expression",
+   "headword": "marvel at",
+   "phonetic": "/ˈmɑːvl/",
+   "pos": "v. phrase",
+   "meaning": "对……感到惊叹（含不可思议之意）",
+   "note": "marvel at the fact that ... 是「对某事实不胜惊诧」的高级框架，常用来引出今昔反差；比 be surprised at 更书面。",
+   "quote": "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies.",
+   "quote_zh": "今天读到这样的书，不禁令人惊叹：这些学识渊博的内容竟曾被认为适合刊登在面向大众的日报上。",
+   "source": "2010 英语一 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a009",
+   "type": "expression",
+   "headword": "in headlong retreat",
+   "phonetic": "/ˈhedlɒŋ/",
+   "pos": "n. phrase",
+   "meaning": "迅速（且不可逆转地）衰退、仓促败退",
+   "note": "headlong 意为「轻率而迅猛地」，in retreat 表「处于退却中」；该短语形容传统/行业的整体式微，是全文收束的点睛之笔。",
+   "quote": "Moreover, the amateur tradition in music criticism has been in headlong retreat.",
+   "quote_zh": "此外，音乐评论中的业余传统也一直在迅速衰退。",
+   "source": "2010 英语一 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "抽象名词",
+    "态度词"
+   ]
+  },
+  {
+   "id": "a010",
+   "type": "expression",
+   "headword": "cater to",
+   "phonetic": "/ˈkeɪtə(r)/",
+   "pos": "v. phrase",
+   "meaning": "迎合、满足（某群体的需求/品味）",
+   "note": "cater to / cater for 后接人群或需求，常含「投其所好」的轻微贬义；catering to a knowledgeable elite 与「人人可进」形成对照。",
+   "quote": "Instead of intimate shops catering to \"a knowledgeable elite,\" these were stores \"anyone could enter, regardless of class or background.\"",
+   "quote_zh": "它们不再是迎合知识精英的小型专门商店，而是「不分阶层与背景、人人都可以进入」的百货商店。",
+   "source": "2006 英语一 阅读 Text 1",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a011",
+   "type": "expression",
+   "headword": "regardless of",
+   "phonetic": "/rɪˈɡɑːdləs/",
+   "pos": "prep. phrase",
+   "meaning": "不论、无视、不受……影响",
+   "note": "让步状语高频搭配，后接名词或 wh- 从句；regardless of class or background 精准点出大众消费的「去阶层化」。",
+   "quote": "Instead of intimate shops catering to \"a knowledgeable elite,\" these were stores \"anyone could enter, regardless of class or background.\"",
+   "quote_zh": "它们不再是迎合知识精英的小型专门商店，而是「不分阶层与背景、人人都可以进入」的百货商店。",
+   "source": "2006 英语一 阅读 Text 1",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "a012",
+   "type": "expression",
+   "headword": "immune to",
+   "phonetic": "/ɪˈmjuːn/",
+   "pos": "adj. phrase",
+   "meaning": "对……免疫、不受……影响",
+   "note": "由医学义引申到社会文化：immune to the nation's assimilative power 指「不受同化力影响」；be immune to criticism / pressure 是写作常用迁移。",
+   "quote": "some Americans fear that immigrants living within the United States remain somehow immune to the nation's assimilative power.",
+   "quote_zh": "一些美国人担心，生活在美国境内的移民不知何故仍不受这个国家同化力的影响。",
+   "source": "2006 英语一 阅读 Text 1",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a013",
+   "type": "expression",
+   "headword": "live off",
+   "phonetic": "/ɒf/",
+   "pos": "v. phrase",
+   "meaning": "靠……过活、以……为生计来源",
+   "note": "live off the tourists / live off the land / live off one's savings；与 live on（以……为主食/靠……维持）近义但更强调「依赖某来源抽取收益」。",
+   "quote": "And there are the townsfolk who largely live off the tourists who come, not to see the plays, but to look at Anne Hathaway's Cottage, Shakespeare's birthplace and the other sights.",
+   "quote_zh": "另一支则是镇上居民，他们主要靠游客为生——这些游客不是来看戏，而是来参观安妮·海瑟薇小屋、莎士比亚故居等景点。",
+   "source": "2006 英语一 阅读 Text 2",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "传媒与文化",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a014",
+   "type": "expression",
+   "headword": "take into account",
+   "phonetic": "/əˈkaʊnt/",
+   "pos": "v. phrase",
+   "meaning": "把……考虑在内、顾及",
+   "note": "正式文书高频搭配，等同于 take account of / take ... into consideration；原文说未来管理必须把这一定位基线纳入考量。",
+   "quote": "Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account.",
+   "quote_zh": "迈尔斯博士和沃姆博士认为，他们的研究给出了正确的基线，未来的管理举措必须将其考虑在内。",
+   "source": "2006 英语一 阅读 Text 3",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a015",
+   "type": "expression",
+   "headword": "be susceptible to",
+   "phonetic": "/səˈseptəbl/",
+   "pos": "adj. phrase",
+   "meaning": "易受……影响、易患（某种疾病或问题）",
+   "note": "考研写作与阅读双高频：be susceptible to disease / stress / bias；后接名词或动名词，不接不定式，注意与 be vulnerable to 的语体差别。",
+   "quote": "Women are particularly susceptible to developing depression and anxiety disorders in response to stress compared to men.",
+   "quote_zh": "与男性相比，女性在应对压力时尤其容易患上抑郁症和焦虑症。",
+   "source": "2008 英语一 阅读 Text 1",
+   "year": 2008,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2008
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a016",
+   "type": "expression",
+   "headword": "in response to",
+   "phonetic": "/rɪˈspɒns/",
+   "pos": "prep. phrase",
+   "meaning": "作为对……的反应、响应",
+   "note": "因果/反应类逻辑连接，可迁移为 in response to public concern / market demand；注意与 in reaction to 相比更中性、更书面。",
+   "quote": "Women are particularly susceptible to developing depression and anxiety disorders in response to stress compared to men.",
+   "quote_zh": "与男性相比，女性在应对压力时尤其容易患上抑郁症和焦虑症。",
+   "source": "2008 英语一 阅读 Text 1",
+   "year": 2008,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2008
+   ],
+   "tags": [
+    "逻辑连接",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "a017",
+   "type": "expression",
+   "headword": "in the wake of",
+   "phonetic": "/weɪk/",
+   "pos": "prep. phrase",
+   "meaning": "紧随……之后、作为……的余波（多指后果）",
+   "note": "wake 本义「尾流」，引申为「紧随其后」；in the wake of the crisis / the ruling 是新闻与评论写作高频时间—因果框架。",
+   "quote": "The Federal Circuit's action comes in the wake of a series of recent decisions by the Supreme Court that have narrowed the scope of protections for patent holders.",
+   "quote_zh": "联邦巡回法院此举，紧随最高法院近期一系列缩小专利持有人保护范围的判决而来。",
+   "source": "2010 英语一 阅读 Text 2",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a018",
+   "type": "expression",
+   "headword": "take ... for granted",
+   "phonetic": "/ˈɡrɑːntɪd/",
+   "pos": "v. phrase",
+   "meaning": "认为……理所当然、想当然",
+   "note": "被动式 it was taken for granted that ... 是「当时人们理所当然地认为」的高级书面框架，常用于描述旧有观念；写作中可用于今昔对比。",
+   "quote": "In those far-off days, it was taken for granted that the critics of major papers would write in detail and at length about the events they covered.",
+   "quote_zh": "在那些久远的日子里，人们理所当然地认为，大报的评论家会详尽而充分地撰写他们所报道的事件。",
+   "source": "2010 英语一 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "传媒与文化",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a019",
+   "type": "expression",
+   "headword": "give in to",
+   "phonetic": "/ɡɪv/",
+   "pos": "v. phrase",
+   "meaning": "向……让步、屈从于",
+   "note": "give in to pressure / critics / demands 是政策评论常用搭配；原文批评准则制定者让步会招致更多施压，含明显否定态度。",
+   "quote": "But by giving in to critics now they are inviting pressure to make more concessions.",
+   "quote_zh": "但如今向批评者让步，只会招来要求他们作出更多妥协的压力。",
+   "source": "2010 英语一 阅读 Text 4",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "态度词"
+   ]
+  },
+  {
+   "id": "a020",
+   "type": "expression",
+   "headword": "scale back on",
+   "phonetic": "/skeɪl/",
+   "pos": "v. phrase",
+   "meaning": "缩减、削减（规模、数量或范围）",
+   "note": "scale back / scale down 是商业与政策语境高频短语动词，宾语常为 production / spending / patents；比 reduce 更具「按比例回调」的画面感。",
+   "quote": "Now the nation's top patent court appears completely ready to scale back on business-method patents, which have been controversial ever since they were first authorized 10 years ago.",
+   "quote_zh": "如今，该国最高专利法院似乎已完全准备缩减商业方法专利——这类专利自十年前首次获批以来便一直饱受争议。",
+   "source": "2010 英语一 阅读 Text 2",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a021",
+   "type": "word",
+   "headword": "inexorable",
+   "phonetic": "/ɪnˈeksərəbl/",
+   "pos": "adj.",
+   "meaning": "不可阻挡的、不可逆转的（多修饰趋势）",
+   "note": "inexorable + 抽象名词（decline / rise / logic）表趋势不可逆，比 unavoidable 更书面、更强调「无法以人力劝阻」。",
+   "quote": "Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage.",
+   "quote_zh": "在过去二十五年英文报纸发生的种种变化中，影响最为深远的，或许是其艺术报道范围与严肃性不可逆转的衰退。",
+   "source": "2010 英语一 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a022",
+   "type": "word",
+   "headword": "ornament",
+   "phonetic": "/ˈɔːnəmənt/",
+   "pos": "n.",
+   "meaning": "点缀、装饰物；此处喻指「为刊物增色之物」",
+   "note": "由「装饰品」引申为「增光添彩的人或物」：an ornament to the publications / to the profession；写作中可替换 decoration 表抽象价值。",
+   "quote": "at a time when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications in which it appeared.",
+   "quote_zh": "那时新闻纸便宜得要命，而格调高雅的艺术评论被视为其所刊载刊物的点缀。",
+   "source": "2010 英语一 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "抽象名词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "a023",
+   "type": "word",
+   "headword": "deem",
+   "phonetic": "/diːm/",
+   "pos": "v.",
+   "meaning": "认为、视为（正式用语）",
+   "note": "deem + 宾 + (to be) adj./n. 或 be deemed suitable / necessary / appropriate，是法律与评论语体的高频被动式；比 think / consider 更正式。",
+   "quote": "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies.",
+   "quote_zh": "今天读到这样的书，不禁令人惊叹：这些学识渊博的内容竟曾被认为适合刊登在面向大众的日报上。",
+   "source": "2010 英语一 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "传媒与文化",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a024",
+   "type": "word",
+   "headword": "far-reaching",
+   "phonetic": "/ˌfɑːˈriːtʃɪŋ/",
+   "pos": "adj.",
+   "meaning": "影响深远的、波及面广的",
+   "note": "常修饰 consequences / implications / changes；与 the most 连用置于句首做主语补语，是全篇定调的态度词。",
+   "quote": "Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage.",
+   "quote_zh": "在过去二十五年英文报纸发生的种种变化中，影响最为深远的，或许是其艺术报道范围与严肃性不可逆转的衰退。",
+   "source": "2010 英语一 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "传媒与文化",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "态度词"
+   ]
+  },
+  {
+   "id": "a025",
+   "type": "word",
+   "headword": "homogenize",
+   "phonetic": "/həˈmɒdʒənaɪz/",
+   "pos": "v.",
+   "meaning": "使同质化、使趋同（消除差异）",
+   "note": "2006 年词义题正确义为 assimilating；an amazing machine for homogenizing people 把社会比作「同化机器」，同源名词 homogenization 在下段复现。",
+   "quote": "In spite of \"endless talk of difference,\" American society is an amazing machine for homogenizing people.",
+   "quote_zh": "尽管人们没完没了地谈论差异，美国社会却是一台同化人们的神奇机器。",
+   "source": "2006 英语一 阅读 Text 1",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "抽象名词",
+    "态度词"
+   ]
+  },
+  {
+   "id": "a026",
+   "type": "word",
+   "headword": "deference",
+   "phonetic": "/ˈdefərəns/",
+   "pos": "n.",
+   "meaning": "（对权威/长者的）敬重、顺从",
+   "note": "抽象名词，absence of deference 与 casualness 并列勾勒通俗文化的「去等级化」；in deference to 意为「出于对……的尊重」。",
+   "quote": "There is \"the democratizing uniformity of dress and discourse, and the casualness and absence of deference\" characteristic of popular culture.",
+   "quote_zh": "通俗文化的特征正是「着装与言谈的民主化一律，以及随意与不讲究尊卑」。",
+   "source": "2006 英语一 阅读 Text 1",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a027",
+   "type": "word",
+   "headword": "unprecedented",
+   "phonetic": "/ʌnˈpresɪdentɪd/",
+   "pos": "adj.",
+   "meaning": "前所未有的、史无前例的",
+   "note": "neither at unprecedented levels nor resistant to assimilation 用 neither ... nor 并列两个否定判断；unprecedented 常修饰 scale / level / growth。",
+   "quote": "Writing for the National Immigration Forum, Gregory Rodriguez reports that today's immigration is neither at unprecedented levels nor resistant to assimilation.",
+   "quote_zh": "格雷戈里·罗德里格斯在为国家移民论坛撰文时指出，当今的移民既未达到空前规模，也并不抗拒同化。",
+   "source": "2006 英语一 阅读 Text 1",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "a028",
+   "type": "word",
+   "headword": "indignation",
+   "phonetic": "/ˌɪndɪɡˈneɪʃn/",
+   "pos": "n.",
+   "meaning": "义愤、愤慨（因不公而起的愤怒）",
+   "note": "righteous indignation 是固定搭配「义愤」，比 anger 更强调道德正当性；原文说这种情感并非人类独有，为下文 preserve 铺垫。",
+   "quote": "Feelings of righteous indignation, it seems, are not the preserve of people alone.",
+   "quote_zh": "看来，义愤之情并非人类所独有。",
+   "source": "2005 英语一 阅读 Text 1",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "抽象名词",
+    "态度词"
+   ]
+  },
+  {
+   "id": "a029",
+   "type": "word",
+   "headword": "controversialist",
+   "phonetic": "/ˌkɒntrəˈvɜːʃəlɪst/",
+   "pos": "n.",
+   "meaning": "好争论者、屡引争议的人物",
+   "note": "-ist 表「惯于做某事的人」；与 linguist 并列做同位语，of mixed liberal and conservative views 进一步说明其立场难以归类。",
+   "quote": "John McWhorter, a linguist and controversialist of mixed liberal and conservative views, sees the triumph of 1960s counter-culture as responsible for the decline of formal English.",
+   "quote_zh": "语言学家、兼有自由与保守两派观点而屡引争议的约翰·麦克沃特认为，二十世纪六十年代反主流文化的得势是正式英语衰落的根源。",
+   "source": "2005 英语一 阅读 Text 4",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a030",
+   "type": "word",
+   "headword": "spontaneity",
+   "phonetic": "/ˌspɒntəˈneɪəti/",
+   "pos": "n.",
+   "meaning": "自发性、随性自然（不加雕琢）",
+   "note": "与 craft（刻意技艺）对举：talking is triumphing over speaking, spontaneity over craft，用省略结构形成两组对照，是全文论点的凝练表达。",
+   "quote": "In both oral and written English, talking is triumphing over speaking, spontaneity over craft.",
+   "quote_zh": "在英语口语与书面语中，「闲谈」正在战胜「正式言说」，「随性」正在取代「匠艺」。",
+   "source": "2005 英语一 阅读 Text 4",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a031",
+   "type": "word",
+   "headword": "prudent",
+   "phonetic": "/ˈpruːdnt/",
+   "pos": "adj.",
+   "meaning": "审慎的、有远见的（尤指规避风险）",
+   "note": "态度词，a prudent people would take out an insurance policy now 用「买保险」比喻未雨绸缪；a prudent approach / prudent investment 可迁移到写作。",
+   "quote": "With the risks obvious and growing, a prudent people would take out an insurance policy now.",
+   "quote_zh": "风险既明显又在加剧，审慎的民族现在就该买一份「保险」。",
+   "source": "2005 英语一 阅读 Text 2",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "态度词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "a032",
+   "type": "word",
+   "headword": "startling",
+   "phonetic": "/ˈstɑːtlɪŋ/",
+   "pos": "adj.",
+   "meaning": "令人震惊的、出人意料的",
+   "note": "make a startling assertion 意为「提出一个惊人的论断」；-ing 形容词表「令人……的」，与 surprised（感到……）方向相反，勿混。",
+   "quote": "Their work makes a rather startling assertion: the trait we commonly call talent is highly overrated.",
+   "quote_zh": "他们的研究提出了一个相当惊人的论断：我们通常称之为「天赋」的特质被严重高估了。",
+   "source": "2007 英语一 阅读 Text 1",
+   "year": 2007,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "教育与人才",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2007
+   ],
+   "tags": [
+    "态度词"
+   ]
+  },
+  {
+   "id": "a033",
+   "type": "word",
+   "headword": "vulnerability",
+   "phonetic": "/ˌvʌlnərəˈbɪləti/",
+   "pos": "n.",
+   "meaning": "脆弱点、易受攻击之处（安全语境）",
+   "note": "IT 语境中指系统「漏洞」，由「脆弱」义引申；in search of potential vulnerabilities 与 intricate 同句，是数据泄露报道的核心术语。",
+   "quote": "have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+   "quote_zh": "使得管理者们匆忙细查其错综复杂的 IT 系统与业务流程，搜寻潜在漏洞。",
+   "source": "2007 英语一 阅读 Text 4",
+   "year": 2007,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2007
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a034",
+   "type": "word",
+   "headword": "intricate",
+   "phonetic": "/ˈɪntrɪkət/",
+   "pos": "adj.",
+   "meaning": "错综复杂的、精细繁复的",
+   "note": "修饰 systems / processes / patterns，强调结构交错难解；比 complex 更偏「细节盘根错节」，注意重音在首音节。",
+   "quote": "have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+   "quote_zh": "使得管理者们匆忙细查其错综复杂的 IT 系统与业务流程，搜寻潜在漏洞。",
+   "source": "2007 英语一 阅读 Text 4",
+   "year": 2007,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2007
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "a035",
+   "type": "word",
+   "headword": "redundancy",
+   "phonetic": "/rɪˈdʌndənsi/",
+   "pos": "n.",
+   "meaning": "冗余（备份）、冗余配置",
+   "note": "工程与数据治理术语，与 security、recovery 并列为三项投入；日常义「裁员/累赘」与本处技术义差别明显，需按语境判断。",
+   "quote": "Setting the proper investment level for security, redundancy, and recovery is a management issue, not a technical one.",
+   "quote_zh": "为安全、冗余与恢复设定恰当的投资水平，是管理问题，而非技术问题。",
+   "source": "2007 英语一 阅读 Text 4",
+   "year": 2007,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2007
+   ],
+   "tags": [
+    "抽象名词",
+    "易错义"
+   ]
+  },
+  {
+   "id": "a036",
+   "type": "word",
+   "headword": "clientele",
+   "phonetic": "/ˌkliːənˈtel/",
+   "pos": "n.",
+   "meaning": "（商店、剧院的）顾客群、常客（集合名词）",
+   "note": "源自法语，重音在末音节；Stratford's most attractive clientele 指「最招人喜爱的那批观众」，比 customers 更强调稳定客群。",
+   "quote": "It would be a shame to raise prices too much because it would drive away the young people who are Stratford's most attractive clientele.",
+   "quote_zh": "大幅提价会很可惜，因为那会赶走年轻人——他们是斯特拉特福最富吸引力的观众群。",
+   "source": "2006 英语一 阅读 Text 2",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a037",
+   "type": "word",
+   "headword": "insipid",
+   "phonetic": "/ɪnˈsɪpɪd/",
+   "pos": "adj.",
+   "meaning": "乏味的、淡而无味的（多指艺术或言辞缺乏力度）",
+   "note": "与 phony、boring 三级递进（worst of all 引出最重项），精准写出艺术家对「幸福」的轻蔑态度，是态度词链的关键一环。",
+   "quote": "But somewhere in the 19th century, more artists began seeing happiness as insipid, phony or, worst of all, boring as we went from Wordsworth's daffodils to Baudelaire's flowers of evil.",
+   "quote_zh": "但在十九世纪某个时候，越来越多的艺术家开始把幸福视为乏味、虚假，或最糟糕的——无聊，正如我们从华兹华斯的水仙走向波德莱尔的恶之花。",
+   "source": "2006 英语一 阅读 Text 4",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "态度词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a038",
+   "type": "word",
+   "headword": "antithetical",
+   "phonetic": "/ˌæntɪˈθetɪkl/",
+   "pos": "adj.",
+   "meaning": "对立的、截然相反的（与 to 连用）",
+   "note": "be antithetical to 是「与……格格不入」的正式表达；名词 antithesis（对立面）同源，写作中可替换 contradictory to。",
+   "quote": "So it seems antithetical to talk about habits in the same context as creativity and innovation.",
+   "quote_zh": "因此，把习惯与创造力、创新放在同一语境下谈论，似乎自相矛盾。",
+   "source": "2009 英语一 阅读 Text 1",
+   "year": 2009,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2009
+   ],
+   "tags": [
+    "写作可迁移",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a039",
+   "type": "word",
+   "headword": "skeptical",
+   "phonetic": "/ˈskeptɪkl/",
+   "pos": "adj.",
+   "meaning": "持怀疑态度的、不轻信的",
+   "note": "态度词，本卷三处可回溯：2006 Text4「art became more skeptical of happiness」、2009 Text2「some observers are skeptical」、2010 Text4「investors are skeptical」；be skeptical of/about 均可用。",
+   "quote": "You could argue that art became more skeptical of happiness because modern times have seen such misery.",
+   "quote_zh": "你大可争辩说，艺术之所以对幸福愈发怀疑，是因为现代见证了太多苦难。",
+   "source": "2006 英语一 阅读 Text 4",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "传媒与文化",
+   "difficulty": 2,
+   "freq": 3,
+   "years_seen": [
+    2006,
+    2009,
+    2010
+   ],
+   "tags": [
+    "态度词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a040",
+   "type": "word",
+   "headword": "lopsided",
+   "phonetic": "/ˌlɒpˈsaɪdɪd/",
+   "pos": "adj.",
+   "meaning": "失衡的、一边倒的（偏向某一侧）",
+   "note": "hopelessly lopsided 收束全篇，批判「纯以经济自利为基础」的保护体系天然偏斜；可迁移为 a lopsided view / distribution。",
+   "quote": "To sum up: a system of conservation based solely on economic self-interest is hopelessly lopsided.",
+   "quote_zh": "总而言之：一套完全建立在经济私利之上的保护体系，是彻底失衡的。",
+   "source": "2010 英语一 翻译",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "翻译",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "态度词",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a041",
+   "type": "polyseme",
+   "headword": "preserve",
+   "phonetic": "/prɪˈzɜːv/",
+   "pos": "n.",
+   "meaning": "（某人/某群体）独有的领域、专属之物",
+   "note": "not the preserve of people alone = 并非人类独有的专利；the preserve of the elite / specialists 是高频抽象用法，写作中可替换 exclusive domain。",
+   "common_meaning": "v. 保护、保存、腌制",
+   "rare_meaning": "n. 专属领域、独享之物（the preserve of ...）",
+   "quote": "Feelings of righteous indignation, it seems, are not the preserve of people alone.",
+   "quote_zh": "看来，义愤之情并非人类所独有。",
+   "source": "2005 英语一 阅读 Text 1",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a042",
+   "type": "polyseme",
+   "headword": "game",
+   "phonetic": "/ɡeɪm/",
+   "pos": "n.",
+   "meaning": "猎物、野味（被猎捕的鸟兽，集合名词、无复数）",
+   "note": "2006 Text3「the large, slow-growing animals were easy game」同义复现（easy game = 易得手的猎物）；preserve the health of game 意为「维持猎物种群的健康」，不可误译作「游戏」。",
+   "common_meaning": "游戏、比赛、一局",
+   "rare_meaning": "猎物、野味（集合名词）",
+   "quote": "these creatures preserve the health of game by killing the physically weak",
+   "quote_zh": "这些生物通过猎杀体弱者来维持猎物种群的健康",
+   "source": "2010 英语一 翻译",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "翻译",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2006,
+    2010
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a043",
+   "type": "polyseme",
+   "headword": "subject",
+   "phonetic": "/səbˈdʒekt/",
+   "pos": "v.",
+   "meaning": "使遭受、使经受、使臣服（subject sb to sth）",
+   "note": "2009 Text2「may be patented and not subject to peer review or outside evaluation」为形容词 be subject to（受……约束/须经……），与本处同源；动词重音在后，名词/形容词重音在前。",
+   "common_meaning": "n. 主题、科目、主语",
+   "rare_meaning": "v. 使遭受/使服从；adj. be subject to 受制于、须经",
+   "quote": "His argument is that the unusual history of these people has subjected them to unique evolutionary pressures that have resulted in this paradoxical state of affairs.",
+   "quote_zh": "他的论点是，这群人不同寻常的历史使他们承受了独特的进化压力，从而造就了这一看似矛盾的状况。",
+   "source": "2008 英语一 完形",
+   "year": 2008,
+   "paper": "英语一",
+   "section": "完形",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2008,
+    2009
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a044",
+   "type": "polyseme",
+   "headword": "weather",
+   "phonetic": "/ˈweðə(r)/",
+   "pos": "v.",
+   "meaning": "渡过（难关）、经受住（危机）",
+   "note": "weather bad times / weather the storm / weather a recession 为固定迁移；由「经受风雨」引申，切勿按「天气」名词理解。",
+   "common_meaning": "n. 天气、气象",
+   "rare_meaning": "v. 安全渡过、挺过（困难时期）",
+   "quote": "the safety net offered by unemployment insurance or disability insurance to help families weather bad times.",
+   "quote_zh": "由失业保险或伤残保险提供的安全网，帮助家庭渡过艰难时期。",
+   "source": "2007 英语一 阅读 Text 3",
+   "year": 2007,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2007
+   ],
+   "tags": [
+    "易错义",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "a045",
+   "type": "polyseme",
+   "headword": "address",
+   "phonetic": "/əˈdres/",
+   "pos": "v.",
+   "meaning": "处理、应对、设法解决（问题/需求）",
+   "note": "address the needs / issue / concern 是政策文书高频义；2006 完形第 17 空还原为 comprehensive programs that address the many needs of the homeless，不可理解为「写地址/演说」。",
+   "common_meaning": "n. 地址；v. 向……讲话、发表演说",
+   "rare_meaning": "v. 处理、应对（问题、需求）",
+   "quote": "Boston Globe reporter Chris Reidy notes that the situation will improve only when there are comprehensive programs that address the many needs of the homeless.",
+   "quote_zh": "《波士顿环球报》记者克里斯·里迪指出，只有出现能应对无家可归者诸多需求的综合性项目，状况才会改善。",
+   "source": "2006 英语一 完形",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "完形",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "易错义",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "a046",
+   "type": "polyseme",
+   "headword": "calling",
+   "phonetic": "/ˈkɔːlɪŋ/",
+   "pos": "n.",
+   "meaning": "（视为天职的）使命感、毕生志业",
+   "note": "believe in journalism as a calling 把新闻业当作「天职」而非谋生差事；a calling 常带宗教式热忱，与 career / job 的世俗义形成落差。",
+   "common_meaning": "call 的现在分词/动名词：呼叫、打电话",
+   "rare_meaning": "n. 天职、使命感、神召",
+   "quote": "These men believed in journalism as a calling, and were proud to be published in the daily press.",
+   "quote_zh": "这些人把新闻业视为一种天职，并以能在日报上发表文章为荣。",
+   "source": "2010 英语一 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a047",
+   "type": "polyseme",
+   "headword": "command",
+   "phonetic": "/kəˈmɑːnd/",
+   "pos": "v.",
+   "meaning": "熟练运用、掌握（语言、技巧、资源）",
+   "note": "command the English language with skill and gift 中 command = 运用自如；command a large vocabulary / command respect（赢得）亦属此义，勿只记「命令」。",
+   "common_meaning": "v./n. 命令、指挥、控制",
+   "rare_meaning": "v. 娴熟掌握、运用自如；博得（尊重等）",
+   "quote": "Americans no longer expect public figures, whether in speech or in writing, to command the English language with skill and gift.",
+   "quote_zh": "美国人已不再期待公众人物无论演讲还是写作，都能娴熟而富有天赋地运用英语。",
+   "source": "2005 英语一 阅读 Text 4",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "易错义",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "a048",
+   "type": "polyseme",
+   "headword": "spell",
+   "phonetic": "/spel/",
+   "pos": "v.",
+   "meaning": "招致、意味着（通常为坏结果）；过去式/过去分词 spelt",
+   "note": "spell disaster / doom / the death of ... 为固定负面搭配；与「拼写」义落差极大，是 2005 Text4 首段的核心动词。",
+   "common_meaning": "v. 拼写（字母）；n. 咒语、一段时间",
+   "rare_meaning": "v. 招致、意味着（不祥后果）",
+   "quote": "But the cult of the authentic and the personal, \"doing our own thing,\" has spelt the death of formal speech, writing, poetry and music.",
+   "quote_zh": "然而，对「真实」与「个性」的推崇，即「各行其是」，已经宣告了正式演讲、写作、诗歌和音乐的消亡。",
+   "source": "2005 英语一 阅读 Text 4",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "易错义",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a049",
+   "type": "polyseme",
+   "headword": "rut",
+   "phonetic": "/rʌt/",
+   "pos": "n.",
+   "meaning": "（刻板难改的）老一套、惯例、窠臼",
+   "note": "ruts of procedure are worn into the hippocampus 用「车辙被碾进海马体」比喻习惯固化；in a rut 意为「陷入一成不变的状态」，与「车辙」本义落差明显。",
+   "common_meaning": "n. 车辙、凹槽；（动物）发情期",
+   "rare_meaning": "n. 刻板惯例、墨守成规的套路",
+   "quote": "But don't bother trying to kill off old habits; once those ruts of procedure are worn into the hippocampus, they're there to stay.",
+   "quote_zh": "但别费力气去根除旧习惯；一旦这些程序性的「车辙」被碾进海马体，它们就会留在那里。",
+   "source": "2009 英语一 阅读 Text 1",
+   "year": 2009,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2009
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a050",
+   "type": "polyseme",
+   "headword": "document",
+   "phonetic": "/ˈdɒkjumənt/",
+   "pos": "v.",
+   "meaning": "（用文字/资料）记录、记载、实证",
+   "note": "the trend that Mr. McWhorter documents 中 document 为动词「记录并佐证」；名词「文件」转动词是学术写作常见词性活用。",
+   "common_meaning": "n. 文件、文献、证件",
+   "rare_meaning": "v. 记录、记载、以资料佐证",
+   "quote": "Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable.",
+   "quote_zh": "麦克沃特先生以一系列来自高雅与通俗文化的有趣例证加以说明，他所记录的这一趋势清晰无误。",
+   "source": "2005 英语一 阅读 Text 4",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "a051",
+   "type": "polyseme",
+   "headword": "buy",
+   "phonetic": "/baɪ/",
+   "pos": "v.",
+   "meaning": "相信、接受（某种说法、谎言）；bought 为过去式",
+   "note": "Lots of Americans bought that nonsense 中 buy 的宾语是「说法」而非商品，含「轻信」的批评意味；buy an excuse / buy the idea 同义。",
+   "common_meaning": "v. 购买、买",
+   "rare_meaning": "v. 相信、买账（某说法/借口）",
+   "quote": "Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early graves.",
+   "quote_zh": "许多美国人信了那套胡言，结果三十多年间约有一千万烟民早早进了坟墓。",
+   "source": "2005 英语一 阅读 Text 2",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "a052",
+   "type": "polyseme",
+   "headword": "parachute",
+   "phonetic": "/ˈpærəʃuːt/",
+   "pos": "n.",
+   "meaning": "（经济上的）应急保障、缓冲、安全网",
+   "note": "they have lost the parachute they once had 用「降落伞」比喻「失业时可顶上的后备挣钱者」，与同句 safety net 呼应；属形象化的熟词僻义。",
+   "common_meaning": "n. 降落伞",
+   "rare_meaning": "n. 应急保障、缓冲机制（比喻义）",
+   "quote": "As a result, they have lost the parachute they once had in times of financial setback -- a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick.",
+   "quote_zh": "结果，他们失去了经济拮据时曾有过的「降落伞」——一个后备挣钱者（通常是母亲），一旦主要挣钱者失业或病倒，她便能出去工作。",
+   "source": "2007 英语一 阅读 Text 3",
+   "year": 2007,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2007
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a053",
+   "type": "polyseme",
+   "headword": "fallout",
+   "phonetic": "/ˈfɔːlaʊt/",
+   "pos": "n.",
+   "meaning": "（负面的）后果、余波、后遗症",
+   "note": "由核爆「放射性沉降」引申为「不良后果」；financial fallout / political fallout 对举收束全文，含「连锁波及」之意。",
+   "common_meaning": "n. 放射性沉降物、落尘",
+   "rare_meaning": "n. （不良）后果、余波、连锁影响",
+   "quote": "The financial fallout has begun, and the political fallout may not be far behind.",
+   "quote_zh": "经济上的余波已经显现，政治上的余波恐怕也不远了。",
+   "source": "2007 英语一 阅读 Text 3",
+   "year": 2007,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2007
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a054",
+   "type": "polyseme",
+   "headword": "fetch",
+   "phonetic": "/fetʃ/",
+   "pos": "v.",
+   "meaning": "售得、卖得（某价钱）；(would) fetch a price",
+   "note": "the price ... they would like them to fetch 中 fetch 主语是 assets，意为「能卖出的价钱」；fetch a high price / fetch millions 为拍卖与资产语境固定用法。",
+   "common_meaning": "v. 去取来、拿来；接（人）",
+   "rare_meaning": "v. 售得（某价格）、卖到",
+   "quote": "These rules say they must value some assets at the price a third party would pay, not the price managers and regulators would like them to fetch.",
+   "quote_zh": "这些准则要求银行按第三方愿意支付的价格为某些资产估值，而非管理层和监管者希望它们能卖出的价格。",
+   "source": "2010 英语一 阅读 Text 4",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a055",
+   "type": "polyseme",
+   "headword": "hedge",
+   "phonetic": "/hedʒ/",
+   "pos": "v.",
+   "meaning": "对冲（风险）、以反向操作规避损失",
+   "note": "hedging risk in the energy market = 在能源市场对冲风险；由「树篱（围挡）」引申为「设防规避」，hedge fund（对冲基金）同源。",
+   "common_meaning": "n. 树篱、篱笆；v. 回避正面回答",
+   "rare_meaning": "v. 对冲（金融风险）、套期保值",
+   "quote": "The Bilski case involves a claimed patent on a method for hedging risk in the energy market.",
+   "quote_zh": "比尔斯基案涉及一项声称的专利，即一种在能源市场对冲风险的方法。",
+   "source": "2010 英语一 阅读 Text 2",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a056",
+   "type": "theme",
+   "headword": "assimilation",
+   "phonetic": "/əˌsɪməˈleɪʃn/",
+   "pos": "n.",
+   "meaning": "（移民的）同化、融入主流社会",
+   "note": "2006 Text1 主题核心词，派生链 homogenize → assimilation → assimilative power；three indices of assimilation 后列语言、住房自有率、异族通婚三项指标。",
+   "quote": "Now, consider three indices of assimilation -- language, home ownership and intermarriage.",
+   "quote_zh": "现在来看同化的三项指标——语言、住房自有率和异族通婚。",
+   "source": "2006 英语一 阅读 Text 1",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a057",
+   "type": "theme",
+   "headword": "biomass",
+   "phonetic": "/ˈbaɪəʊmæs/",
+   "pos": "n.",
+   "meaning": "（某一区域内的）生物量",
+   "note": "渔业与生态学核心术语，原文括注 the amount of living biological matter；与 catch sizes（捕获量）、fish stocks（鱼类种群）构成同一主题域词网。",
+   "quote": "Their methods do not attempt to estimate the actual biomass (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time.",
+   "quote_zh": "他们的方法并不试图估算特定海域鱼类物种的实际生物量，而是估算该生物量随时间发生的变化。",
+   "source": "2006 英语一 阅读 Text 3",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a058",
+   "type": "theme",
+   "headword": "sustainable yield",
+   "phonetic": "/səˈsteɪnəbl/",
+   "pos": "n. phrase",
+   "meaning": "可持续产量（不损及种群再生的最大捕捞/采伐量）",
+   "note": "maximum sustainable yield 是渔业管理的固定术语；原文给出阈值「约为原始生物量的 50%」，与 shifting baseline（移位基线）共同构成资源管理主题。",
+   "quote": "That matters because theory suggests that the maximum sustainable yield that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels.",
+   "quote_zh": "这一点很重要，因为理论表明，一个渔场可捕取的最大可持续产量，出现在目标物种生物量约为其原始水平 50% 之时。",
+   "source": "2006 英语一 阅读 Text 3",
+   "year": 2006,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2006
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a059",
+   "type": "theme",
+   "headword": "financial setback",
+   "phonetic": "/ˈsetbæk/",
+   "pos": "n. phrase",
+   "meaning": "财务挫折、经济困顿（收入中断或骤减）",
+   "note": "in times of financial setback 与 pink slip（解雇通知）、bad diagnosis、disappearing spouse 并列为家庭致贫的触发事件；setback 是可数名词「挫折/倒退」。",
+   "quote": "As a result, they have lost the parachute they once had in times of financial setback -- a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick.",
+   "quote_zh": "结果，他们失去了经济拮据时曾有过的「降落伞」——一个后备挣钱者（通常是母亲），一旦主要挣钱者失业或病倒，她便能出去工作。",
+   "source": "2007 英语一 阅读 Text 3",
+   "year": 2007,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2007
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a060",
+   "type": "theme",
+   "headword": "regulator",
+   "phonetic": "/ˈreɡjuleɪtə(r)/",
+   "pos": "n.",
+   "meaning": "监管者、监管机构（人员）",
+   "note": "两处可回溯：2007 Text4「regulators will act if firms fail to provide adequate data security」、2010 Text4「managers and regulators would like them to fetch」；regulatory / regulation 同根，法律与治理域核心词。",
+   "quote": "These rules say they must value some assets at the price a third party would pay, not the price managers and regulators would like them to fetch.",
+   "quote_zh": "这些准则要求银行按第三方愿意支付的价格为某些资产估值，而非管理层和监管者希望它们能卖出的价格。",
+   "source": "2010 英语一 阅读 Text 4",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2007,
+    2010
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a061",
+   "type": "theme",
+   "headword": "asset",
+   "phonetic": "/ˈæset/",
+   "pos": "n.",
+   "meaning": "资产；需受保护的有价值物（含数据等无形物）",
+   "note": "两处可回溯：2007 Text4「Data is becoming an asset which needs to be guarded as much as any other asset」、2010 Text4「they must value some assets ...」；后者派生 toxic assets、mark assets to levels 等银行会计术语。",
+   "quote": "Data is becoming an asset which needs to be guarded as much as any other asset,",
+   "quote_zh": "数据正在成为一项需要像其他任何资产一样加以守护的资产，",
+   "source": "2007 英语一 阅读 Text 4",
+   "year": 2007,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 2,
+   "years_seen": [
+    2007,
+    2010
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a062",
+   "type": "theme",
+   "headword": "patent",
+   "phonetic": "/ˈpætnt/",
+   "pos": "n./v.",
+   "meaning": "专利；授予专利（权）",
+   "note": "2010 Text2 全篇主题词：patents have been granted for business methods、business-method patent filings、a claimed patent；intellectual-property lawyers 同域，注意英式发音 /ˈpætnt/。",
+   "quote": "Over the past decade, thousands of patents have been granted for what are called business methods.",
+   "quote_zh": "过去十年间，成千上万项所谓的「商业方法」获得了专利授权。",
+   "source": "2010 英语一 阅读 Text 2",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "法律与治理",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a063",
+   "type": "theme",
+   "headword": "peer review",
+   "phonetic": "/pɪə(r)/",
+   "pos": "n. phrase",
+   "meaning": "同行评议（学术成果发表前的专家评审）",
+   "note": "两处可回溯：2008 Text2「the traditional form of the peer-review process」、2009 Text2「not subject to peer review or outside evaluation」；学术出版与科研诚信域核心术语。",
+   "quote": "All this could change the traditional form of the peer-review process, at least for the publication of papers.",
+   "quote_zh": "这一切都可能改变同行评议的传统形式，至少在论文发表环节如此。",
+   "source": "2008 英语一 阅读 Text 2",
+   "year": 2008,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2008,
+    2009
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a064",
+   "type": "theme",
+   "headword": "productivity",
+   "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+   "pos": "n.",
+   "meaning": "劳动生产率、生产率",
+   "note": "2009 Text3 教育与经济关系的核心变量：be trained on the job to achieve radically higher productivity；与 standards of living、economic growth、poverty traps 构成发展经济学词网。",
+   "quote": "Japan was, and remains, the global leader in automotive-assembly productivity.",
+   "quote_zh": "日本过去是、现在仍是汽车装配生产率方面的全球领跑者。",
+   "source": "2009 英语一 阅读 Text 3",
+   "year": 2009,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "教育与人才",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2009
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a065",
+   "type": "theme",
+   "headword": "standardized testing",
+   "phonetic": "/ˈstændədaɪzd/",
+   "pos": "n. phrase",
+   "meaning": "标准化考试（统一命题、统一评分的测验）",
+   "note": "2009 Text1 论习惯与创新时的批评对象：highlights analysis and procedure，压制 innovative and collaborative modes of thought；SAT、GRE 属此类。",
+   "quote": "The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought.",
+   "quote_zh": "当下对标准化考试的强调凸显了分析与程序，意味着我们中很少有人会本能地运用创新与协作的思维模式。",
+   "source": "2009 英语一 阅读 Text 1",
+   "year": 2009,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "教育与人才",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2009
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "a066",
+   "type": "theme",
+   "headword": "toxic assets",
+   "phonetic": "/ˈtɒksɪk/",
+   "pos": "n. phrase",
+   "meaning": "有毒资产（价值大幅缩水、难以变现的问题资产）",
+   "note": "2010 Text4 银行会计与金融危机核心术语，与 mark assets to levels、book value、illiquid assets、bad debts 同域；unless banks carry toxic assets ... reviving the banking system will be difficult。",
+   "quote": "And, unless banks carry toxic assets at prices that attract buyers, reviving the banking system will be difficult.",
+   "quote_zh": "而且，除非银行以能吸引买家的价格持有这些有毒资产，否则重振银行体系将十分困难。",
+   "source": "2010 英语一 阅读 Text 4",
+   "year": 2010,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "a067",
+   "type": "theme",
+   "headword": "Puritan",
+   "phonetic": "/ˈpjʊərɪtən/",
+   "pos": "n./adj.",
+   "meaning": "清教徒（的）；十七世纪新英格兰移民的宗教与文化传统",
+   "note": "2009 Text4 主题域锚点，派生 Puritan tradition、theological innovations、carriers of European culture；注意大写，与 puritanical（过分拘谨的）区分。",
+   "quote": "we may consider the original Puritans as carriers of European culture",
+   "quote_zh": "我们不妨把最初的清教徒视作欧洲文化的承载者",
+   "source": "2009 英语一 阅读 Text 4",
+   "year": 2009,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2009
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "a068",
+   "type": "theme",
+   "headword": "limbic system",
+   "phonetic": "/ˈlɪmbɪk/",
+   "pos": "n. phrase",
+   "meaning": "边缘系统（大脑中主管情绪的区域）",
+   "note": "2005 Text3 睡眠与情绪研究的神经科学术语，与 prefrontal cortex（前额叶皮层，主推理）、REM sleep、emotional thermostat 构成医学与健康主题词网。",
+   "quote": "the limbic system (the \"emotional brain\") is especially active, while the prefrontal cortex (the center of intellect and reasoning) is relatively quiet.",
+   "quote_zh": "边缘系统（「情绪脑」）格外活跃，而前额叶皮层（智力与推理的中枢）则相对安静。",
+   "source": "2005 英语一 阅读 Text 3",
+   "year": 2005,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "医学与健康",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2005
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  }
+ ]
+}

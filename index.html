@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>真题语感 · 考研英语近二十年语言精华</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <div class="brand-mark">研</div>
+      <div class="brand-text">
+        <h1>真题语感</h1>
+        <p>考研英语（一 / 二）近二十年真题语言精华</p>
+      </div>
+    </div>
+    <div class="topstats" id="topStats"></div>
+    <div class="top-actions">
+      <label class="global-search">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input type="search" id="globalSearch" placeholder="搜词 / 释义 / 原句 / 出处   （按 / 聚焦）" autocomplete="off">
+        <kbd>/</kbd>
+      </label>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs" aria-label="主导航">
+    <button class="tab active" data-view="library">词条库</button>
+    <button class="tab" data-view="cards">记忆卡 <span class="tab-badge" id="cardBadge"></span></button>
+    <button class="tab" data-view="quiz">语境测验</button>
+    <button class="tab" data-view="corpus">真题原文</button>
+    <button class="tab" data-view="about">关于语料</button>
+  </nav>
+</header>
+
+<main>
+  <!-- ============ 词条库 ============ -->
+  <section class="view active" id="view-library">
+    <aside class="filters" id="filters">
+      <div class="filter-head">
+        <h2>筛选</h2>
+        <button class="link-btn" id="resetFilters">重置</button>
+      </div>
+
+      <div class="filter-block">
+        <h3>语言点类型</h3>
+        <div class="chip-row" id="typeChips"></div>
+      </div>
+
+      <div class="filter-block">
+        <h3>卷别</h3>
+        <div class="chip-row" id="paperChips"></div>
+      </div>
+
+      <div class="filter-block">
+        <h3>主题域</h3>
+        <div class="chip-row scroll-chips" id="topicChips"></div>
+      </div>
+
+      <div class="filter-block">
+        <h3>难度</h3>
+        <div class="chip-row" id="diffChips"></div>
+        <p class="filter-hint">只收录有门槛的内容，已剔除中学阶段完全掌握的词与基础义。</p>
+      </div>
+
+      <div class="filter-block">
+        <h3>年份</h3>
+        <div class="range-row">
+          <select id="yearFrom"></select><span>—</span><select id="yearTo"></select>
+        </div>
+      </div>
+
+      <div class="filter-block">
+        <h3>快捷开关</h3>
+        <label class="switch"><input type="checkbox" id="onlyHigh"><span>仅高频（考频 ≥ 2 次）</span></label>
+        <label class="switch"><input type="checkbox" id="onlyFav"><span>仅收藏</span></label>
+        <label class="switch"><input type="checkbox" id="onlyNew"><span>仅未掌握</span></label>
+        <label class="switch"><input type="checkbox" id="showMeaning"><span>列表直接显示释义</span></label>
+      </div>
+    </aside>
+
+    <div class="results">
+      <div class="toolbar">
+        <div class="toolbar-left">
+          <span class="count"><strong id="resultCount">0</strong> 条语言点</span>
+          <span class="count-sub" id="resultSub"></span>
+        </div>
+        <div class="toolbar-right">
+          <label class="sort-label" for="sortSelect">排序</label>
+          <select id="sortSelect">
+            <option value="freqDesc">按考频 · 高 → 低</option>
+            <option value="freqAsc">按考频 · 低 → 高</option>
+            <option value="diffDesc">按难度 · 高 → 低</option>
+            <option value="yearDesc">按年份 · 新 → 旧</option>
+            <option value="yearAsc">按年份 · 旧 → 新</option>
+            <option value="alpha">按字母 · A → Z</option>
+            <option value="random">随机漫游</option>
+          </select>
+          <button class="icon-btn" id="focusStudy" title="用当前结果开始记忆">用这些词开始记忆 →</button>
+        </div>
+      </div>
+      <p class="sort-note" id="sortNote"></p>
+      <div class="cards" id="cardList"></div>
+      <div class="empty" id="emptyState" hidden>
+        <div class="empty-mark">∅</div>
+        <h3>没有匹配的语言点</h3>
+        <p>试着放宽筛选条件，或清空搜索词。</p>
+        <button class="primary-btn" id="emptyReset">重置筛选</button>
+      </div>
+      <div class="loadmore" id="loadMoreWrap"><button class="ghost-btn" id="loadMore">加载更多</button></div>
+    </div>
+  </section>
+
+  <!-- ============ 记忆卡 ============ -->
+  <section class="view" id="view-cards">
+    <div class="study-shell">
+      <div class="study-head">
+        <div>
+          <h2>抽认卡 · 主动回忆</h2>
+          <p>先想词义，再翻卡；评分后按掌握程度安排复习。进度保存在本机。</p>
+        </div>
+        <div class="study-controls">
+          <label class="switch"><input type="checkbox" id="studyOnlyNew" checked><span>只练未掌握</span></label>
+          <label class="switch"><input type="checkbox" id="studyFavOnly"><span>只练收藏</span></label>
+          <button class="ghost-btn" id="shuffleCards">打乱顺序</button>
+          <button class="ghost-btn" id="resetMastery">清空掌握记录</button>
+        </div>
+      </div>
+      <div class="progress-line"><div id="studyProgress"></div></div>
+      <div class="study-meta"><span id="studyMeta"></span><span id="studyBoxInfo"></span></div>
+      <div class="flip-wrap">
+        <div class="flip-card" id="flipCard" tabindex="0" role="button" aria-label="点击翻卡">
+          <div class="flip-face flip-front">
+            <div class="flip-top"><span class="badge" id="fcType"></span><span class="freq-pill" id="fcFreq"></span></div>
+            <div class="flip-word" id="fcWord"></div>
+            <div class="flip-phon" id="fcPhon"></div>
+            <div class="flip-src" id="fcSrc"></div>
+            <div class="flip-tip">点击卡片 / 按空格，查看释义与真题原句</div>
+          </div>
+          <div class="flip-face flip-back">
+            <div class="flip-top"><span class="badge" id="fbType"></span><span class="freq-pill" id="fbFreq"></span></div>
+            <div class="flip-word small" id="fbWord"></div>
+            <div class="fb-meaning" id="fbMeaning"></div>
+            <div class="fb-poly" id="fbPoly" hidden></div>
+            <blockquote class="quote" id="fbQuote"></blockquote>
+            <div class="fb-note" id="fbNote"></div>
+          </div>
+        </div>
+      </div>
+      <div class="grade-row" id="gradeRow">
+        <button class="grade g0" data-grade="0"><b>1</b> 不认识<span>稍后再来</span></button>
+        <button class="grade g1" data-grade="1"><b>2</b> 模糊<span>短期复习</span></button>
+        <button class="grade g2" data-grade="2"><b>3</b> 认识<span>已掌握</span></button>
+      </div>
+      <div class="study-foot">
+        <button class="ghost-btn" id="skipCard">跳过 →</button>
+        <button class="ghost-btn" id="favCurrent">☆ 收藏当前词条</button>
+        <span id="studyHint">快捷键：空格翻卡 · 1 / 2 / 3 评分</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 测验 ============ -->
+  <section class="view" id="view-quiz">
+    <div class="quiz-shell">
+      <div id="quizIntro" class="quiz-intro">
+        <h2>语境测验</h2>
+        <p>题目全部由真题原句生成：看语境选词义、看词条选僻义、看释义选表达。答完立即给出原句回归。</p>
+        <div class="quiz-options">
+          <label>题量 <select id="quizCount"><option>10</option><option>15</option><option>20</option></select></label>
+          <label class="switch"><input type="checkbox" id="quizHighOnly"><span>只出高频词（考频 ≥ 2）</span></label>
+          <label class="switch"><input type="checkbox" id="quizFavOnly"><span>只出收藏词</span></label>
+        </div>
+        <button class="primary-btn big" id="startQuiz">开始测验 →</button>
+      </div>
+      <div id="quizRun" hidden>
+        <div class="quiz-head">
+          <span id="quizProgress"></span>
+          <span id="quizScore"></span>
+          <button class="link-btn" id="quitQuiz">退出</button>
+        </div>
+        <div class="quiz-panel">
+          <div class="quiz-qtype" id="quizQuestion"></div>
+          <div class="quiz-stem" id="quizStem"></div>
+          <div class="quiz-sub" id="quizSub"></div>
+          <div class="quiz-options-list" id="quizOptions"></div>
+        </div>
+        <div class="quiz-feedback" id="quizFeedback" hidden></div>
+        <button class="primary-btn" id="nextQuestion" hidden>下一题 →</button>
+      </div>
+      <div id="quizResult" hidden></div>
+    </div>
+  </section>
+
+  <!-- ============ 真题原文 ============ -->
+  <section class="view" id="view-corpus">
+    <div class="corpus-shell">
+      <div class="corpus-head">
+        <div>
+          <h2>回归真题原文</h2>
+          <p>每条语言点都可点回原句。这里按年份与卷别汇总本站收录的真题句子。</p>
+        </div>
+        <div class="corpus-filter">
+          <select id="corpusPaper"><option value="">全部卷别</option><option>英语一</option><option>英语二</option></select>
+          <select id="corpusYear"></select>
+          <input type="search" id="corpusSearch" placeholder="在原句中检索…">
+        </div>
+      </div>
+      <div id="corpusList"></div>
+    </div>
+  </section>
+
+  <!-- ============ 关于 ============ -->
+  <section class="view" id="view-about">
+    <div class="about-shell">
+      <h2>关于这套语料</h2>
+      <div class="about-grid" id="aboutStats"></div>
+      <div class="about-cols">
+        <article>
+          <h3>语料口径</h3>
+          <p>英语一 2005–2024、英语二 2010–2025，以阅读理解 Part A 为主，兼收完形、翻译、新题型与写作题干。2025 英语一公开原文来源不足，按「拿不准不收」原则未强行纳入。每一条语言点的 <em>quote</em> 都取自公开真题原文，出处精确到年份、卷别与篇目；无法核实的句子一律不收。近年回忆版与正式版存在差异时，只取多来源一致的片段。</p>
+        </article>
+        <article>
+          <h3>考频怎么算</h3>
+          <p><strong>考频 = 该词条在真题中可回溯的复现次数</strong>，按复现年份与独立出处去重后统计（两者取较大值）。例如 <em>address</em>「处理、应对」在 2006、2012、2014、2016、2018、2020、2021 等年份反复出现，考频记为 7；卡片上的「原句出处」另列出本站已收录原文句子的具体篇目。</p>
+          <p>这是一份<strong>保守统计</strong>：只计能回到原文的出处，未核实的复现不计入。因此多数词条考频为 1，排序时同频条目会依次按出处数、难度、字母序排列。</p>
+        </article>
+        <article>
+          <h3>难度筛选标准</h3>
+          <p>只保留两档：<strong>Ⅱ 有门槛</strong>（抽象名词、学术搭配、易混义项）与 <strong>Ⅲ 高阶易错</strong>（熟词僻义、低频学术词、长难句核心表达）。中学阶段已完全掌握的词与基础义（如 make / take / important 的常用义、a lot of 一类）一律剔除。全部词条带 IPA 音标。</p>
+        </article>
+        <article>
+          <h3>四类语言点</h3>
+          <p><span class="dot d-expression"></span><strong>地道表达</strong>：可迁移到写作的搭配与句式；<span class="dot d-word"></span><strong>重点单词</strong>：高阶难词；<span class="dot d-polyseme"></span><strong>熟词僻义</strong>：常见词在真题里真正的考题义；<span class="dot d-theme"></span><strong>主题词</strong>：按 12 个真题主题域归类复现的高阶术语。同一个熟词若在真题中考过不同僻义（如 <em>subject</em> 的「使遭受」与「受试者」），会按义项拆成独立卡片并标注义项，避免释义与例句错配。</p>
+        </article>
+        <article>
+          <h3>使用建议</h3>
+          <p>先用「按考频 · 高 → 低」把复现次数最多的义项过一遍，再按主题域成组记忆；记忆卡用主动回忆而非被动浏览，测验用来检验能否在原句里认出词义。收藏与掌握度保存在浏览器本地，换设备不会同步。</p>
+        </article>
+        <article>
+          <h3>说明与边界</h3>
+          <p>本站为学习整理工具，真题原文归原出题机构与相应出版物所有；不同辅导资料对个别句子的标点、删改存在差异，若与官方试卷不一致，以官方试卷为准。释义与译文为便于记忆而作的精炼处理，不等同于逐词对照。</p>
+        </article>
+      </div>
+      <div class="about-files">
+        <h3>随站附带的文本底稿</h3>
+        <p><code>真题语料整理.md</code> 汇总了六个分卷的原文语料整理；<code>data/corpus.json</code> 为结构化数据；<code>build.py</code> 可重新合并分卷并重算考频。</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <span>真题语感 · 就近二十年真题文本整理</span>
+  <span id="footerMeta"></span>
+</footer>
+
+<div class="toast" id="toast" hidden></div>
+
+<script src="data/corpus.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

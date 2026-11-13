@@ -1,0 +1,1714 @@
+{
+ "segment": "英语二 2010–2016",
+ "agent": "D",
+ "entries": [
+  {
+   "id": "d001",
+   "type": "expression",
+   "headword": "wreak havoc with",
+   "phonetic": "/riːk/",
+   "pos": "v. phrase",
+   "meaning": "对……造成严重破坏、扰乱",
+   "note": "wreak 常与 havoc / destruction / revenge 搭配，wreak havoc with marriage 写「沟通失衡正在侵蚀婚姻」；比 do harm to 更具破坏性与书面感，可迁移到议论文。",
+   "quote": "This episode crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home. And this pattern is wreaking havoc with marriage.",
+   "quote_zh": "这一幕把一个讽刺性事实点得再清楚不过：美国男人在公开场合往往比女人话多，回到家里却常常说得更少。而这种模式正在严重破坏婚姻。",
+   "source": "2010 英语二 阅读 Text 2",
+   "year": 2010,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d002",
+   "type": "expression",
+   "headword": "on account of",
+   "phonetic": "/əˈkaʊnt/",
+   "pos": "prep. phrase",
+   "meaning": "因为、由于（正式/法律语体）",
+   "note": "后接名词、不接句子；与 because of 同义但更书面，真题用于列举「不得因种族、宗教、性别或国籍而剥夺陪审权」。",
+   "quote": "that no citizen should be denied the right to serve on a jury on account of race, religion, sex, or national origin",
+   "quote_zh": "任何公民都不得因种族、宗教、性别或国籍而被剥夺担任陪审员的权利。",
+   "source": "2010 英语二 阅读 Text 4",
+   "year": 2010,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d003",
+   "type": "expression",
+   "headword": "the letter of the law",
+   "phonetic": "/ˈletə(r)/",
+   "pos": "n. phrase",
+   "meaning": "法律条文的字面（与「精神/良知」相对）",
+   "note": "与 the conscience of the community 对举，指裁决不应只拘泥法条字面；the letter vs the spirit of the law 是法律与伦理写作的经典对照。",
+   "quote": "and that verdicts should represent the conscience of the community and not just the letter of the law.",
+   "quote_zh": "裁决应体现社会的良知，而不只是法律条文的字面。",
+   "source": "2010 英语二 阅读 Text 4",
+   "year": 2010,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "d004",
+   "type": "expression",
+   "headword": "usher in",
+   "phonetic": "/ˈʌʃə(r)/",
+   "pos": "v. phrase",
+   "meaning": "开创、迎来（新时代/新局面）",
+   "note": "usher in a new era of ... 是政策与历史评论的高频框架；原文用现在分词 ushering in 作结果状语，写作中可直接套用。",
+   "quote": "In 1968, the Congress of the United States passed the Jury Selection and Service Act, ushering in a new era of democratic reforms for the jury.",
+   "quote_zh": "1968 年，美国国会通过《陪审团遴选与服务法案》，由此开启了陪审制度民主改革的新纪元。",
+   "source": "2010 英语二 阅读 Text 4",
+   "year": 2010,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d005",
+   "type": "expression",
+   "headword": "lose momentum",
+   "phonetic": "/məˈmentəm/",
+   "pos": "v. phrase",
+   "meaning": "失去势头、增长放缓",
+   "note": "momentum 本为物理「动量」，商业语境指「势头」；lose / gain / gather momentum 可迁移到经济、改革、舆论等话题。",
+   "quote": "The world art market had already been losing momentum for a while after rising vertiginously since 2003.",
+   "quote_zh": "世界艺术品市场自 2003 年急剧攀升之后，早已有一段时间在失去势头。",
+   "source": "2010 英语二 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d006",
+   "type": "expression",
+   "headword": "stay afloat",
+   "phonetic": "/əˈfləʊt/",
+   "pos": "v. phrase",
+   "meaning": "维持经营、不倒闭（字面「浮在水面」）",
+   "note": "由「不沉没」引申为企业在危机中勉强维持；与同句 pushing journalists overboard（裁员）呼应，是报业衰退报道的核心隐喻。",
+   "quote": "It has not been much fun. Many papers stayed afloat by pushing journalists overboard.",
+   "quote_zh": "这过程并不轻松。许多报纸靠把记者「推下船」（裁员）才勉强维持下来。",
+   "source": "2011 英语二 阅读 Text 2",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "写作可迁移",
+    "易错义"
+   ]
+  },
+  {
+   "id": "d007",
+   "type": "expression",
+   "headword": "in combination with",
+   "phonetic": "/ˌkɒmbɪˈneɪʃn/",
+   "pos": "prep. phrase",
+   "meaning": "与……相结合、连同",
+   "note": "与 combined with 近义，但更强调「两个因素合力促成」；原文说明「节制」加上「战后信心」共同使小户型住宅风行。",
+   "quote": "During the Depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made small, efficient housing positively stylish.",
+   "quote_zh": "大萧条与战争期间，美国人学会了少消费度日；这种克制，加上对战后的信心，让小而高效的住宅反而成了时髦。",
+   "source": "2011 英语二 阅读 Text 3",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "d008",
+   "type": "expression",
+   "headword": "with the exception of",
+   "phonetic": "/ɪkˈsepʃn/",
+   "pos": "prep. phrase",
+   "meaning": "除……之外",
+   "note": "正式文书高频让步搭配，后接名词；原文用它限定「除部分高级课程外，家庭作业不得超过成绩的 10%」。",
+   "quote": "Unfortunately, L.A. Unified has produced an inflexible policy which mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade.",
+   "quote_zh": "不幸的是，洛杉矶联合学区出台了一项僵硬的政策，规定除某些高级课程外，家庭作业在学生学业成绩中所占比重不得超过 10%。",
+   "source": "2012 英语二 阅读 Text 1",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "教育与人才",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2012
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "d009",
+   "type": "expression",
+   "headword": "put ... on hold",
+   "phonetic": "/həʊld/",
+   "pos": "v. phrase",
+   "meaning": "暂缓、搁置",
+   "note": "由「保持通话/暂不挂断」引申为「暂停推进」；put the rules on hold 是政策评论常用表达，注意用介词 on。",
+   "quote": "The homework rules should be put on hold while the school board, which is responsible for setting educational policy, looks into the matter and conducts public hearings.",
+   "quote_zh": "在负责制定教育政策的校董会调查此事并举行公开听证期间，这些家庭作业规定应当暂缓执行。",
+   "source": "2012 英语二 阅读 Text 1",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "教育与人才",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2012
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d010",
+   "type": "expression",
+   "headword": "run counter to",
+   "phonetic": "/ˈkaʊntə(r)/",
+   "pos": "v. phrase",
+   "meaning": "与……背道而驰、相抵触",
+   "note": "run counter to my belief in meritocracy 用「与信念相抵触」写出作者对配额制的保留；比 go against / contradict 更书面。",
+   "quote": "I don't like quotas either; they run counter to my belief in meritocracy, government by the capable.",
+   "quote_zh": "我也不喜欢配额；它们与我所信奉的任人唯贤、能者治国相抵触。",
+   "source": "2013 英语二 阅读 Text 4",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "写作可迁移",
+    "态度词"
+   ]
+  },
+  {
+   "id": "d011",
+   "type": "expression",
+   "headword": "be prone to",
+   "phonetic": "/prəʊn/",
+   "pos": "adj. phrase",
+   "meaning": "易于、倾向于（多指不好的倾向）",
+   "note": "后接名词或动名词，亦可接不定式 be prone to do sth；与 be susceptible to 近义但更偏「天生倾向」，写作中可替换 tend to。",
+   "quote": "Scientists have found that although we are prone to snap overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses.",
+   "quote_zh": "科学家发现，尽管我们容易做出仓促的过激反应，但只要稍停片刻、想想自己会如何反应，就能减轻甚至消除这类快速本能反应带来的负面影响。",
+   "source": "2013 英语二 阅读 Text 3",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d012",
+   "type": "expression",
+   "headword": "wear off",
+   "phonetic": "/weə(r)/",
+   "pos": "v. phrase",
+   "meaning": "（感觉、药效、新鲜感）逐渐消退",
+   "note": "主语多为 satisfaction / excitement / effect；原文说物质消费带来的满足感很快 wears off，与后文「体验型消费历久弥珍」形成对照。",
+   "quote": "Yet satisfaction with these material purchases wears off fairly quickly — what was once exciting and new becomes old-hat; regret creeps in.",
+   "quote_zh": "然而，对这些物质性消费的满足感消退得相当快——曾经令人兴奋的新鲜感变得陈旧，悔意随之滋生。",
+   "source": "2014 英语二 阅读 Text 1",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d013",
+   "type": "expression",
+   "headword": "be politically charged",
+   "phonetic": "/tʃɑːdʒd/",
+   "pos": "adj. phrase",
+   "meaning": "带有政治敏感性、被政治化而棘手",
+   "note": "charged 此处意为「充满张力/易引发争议的」，emotionally charged / politically charged 是评论写作高频形容词组，勿按「充电/收费」理解。",
+   "quote": "But perhaps the most significant reason is that the issue has always been so politically charged.",
+   "quote_zh": "但或许最关键的原因在于，这一议题向来高度政治化、异常敏感。",
+   "source": "2014 英语二 阅读 Text 4",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "写作可迁移",
+    "态度词"
+   ]
+  },
+  {
+   "id": "d014",
+   "type": "expression",
+   "headword": "shoulder the blame",
+   "phonetic": "/ˈʃəʊldə(r)/",
+   "pos": "v. phrase",
+   "meaning": "承担（本该由自己承担的）责任/指责",
+   "note": "shoulder 作动词「扛起」，shoulder the blame / responsibility / burden 是高频隐喻搭配；原文说住房行业自己也难辞其咎。",
+   "quote": "Why is that? To some extent the housing sector must shoulder the blame. We have not been good at communicating the real value that housing can contribute to economic growth.",
+   "quote_zh": "何以如此？在某种程度上，住房行业自身难辞其咎——我们一直不善于阐明住房对经济增长的真正价值。",
+   "source": "2014 英语二 阅读 Text 4",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d015",
+   "type": "expression",
+   "headword": "contrary to",
+   "phonetic": "/ˈkɒntrəri/",
+   "pos": "prep. phrase",
+   "meaning": "与……相反、与……相悖",
+   "note": "contrary to most surveys 用「与多数调查相反」制造反差开篇；注意与 in contrast to（单纯对比）区分，contrary to 强调相悖。",
+   "quote": "A new study suggests that contrary to most surveys, people are actually more stressed at home than at work.",
+   "quote_zh": "一项新研究表明，与多数调查的结论相反，人们在家中的压力其实比在职场更大。",
+   "source": "2015 英语二 阅读 Text 1",
+   "year": 2015,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2015
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "d016",
+   "type": "expression",
+   "headword": "infuse ... with",
+   "phonetic": "/ɪnˈfjuːz/",
+   "pos": "v. phrase",
+   "meaning": "给……注入（某种特质或意义）",
+   "note": "infuse work with meaning 是「赋予工作以意义」的高级框架；被动式 be infused with 亦常见，可迁移到文化、教育类写作。",
+   "quote": "These terms are also intended to infuse work with meaning — and, as Khurana points out, increase allegiance to the firm.",
+   "quote_zh": "这些措辞还意在给工作注入意义——正如库拉纳所指出的——并增强员工对公司的忠诚。",
+   "source": "2015 英语二 阅读 Text 3",
+   "year": 2015,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2015
+   ],
+   "tags": [
+    "写作可迁移",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "d017",
+   "type": "expression",
+   "headword": "make ends meet",
+   "phonetic": "/endz/",
+   "pos": "v. phrase",
+   "meaning": "收支相抵、勉强维持生计",
+   "note": "固定习语，ends 不可改；常与 struggle / have a hard time 连用，是就业与民生议题的高频表达。",
+   "quote": "An increase in involuntary part-time work is evidence of weakness in the labor market and it means that many people will be having a very hard time making ends meet.",
+   "quote_zh": "非自愿兼职人数上升是劳动力市场疲软的证据，也意味着许多人将难以维持收支平衡。",
+   "source": "2015 英语二 阅读 Text 4",
+   "year": 2015,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "职场与就业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2015
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d018",
+   "type": "expression",
+   "headword": "in the aftermath of",
+   "phonetic": "/ˈɑːftəmæθ/",
+   "pos": "prep. phrase",
+   "meaning": "在……之后（尤指灾难、危机的余波中）",
+   "note": "aftermath 本义「后果/余波」，in the aftermath of the recession / the war 比单纯 after 更强调创伤性后续影响，是新闻评论高频框架。",
+   "quote": "these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life",
+   "quote_zh": "这些反差表明，在灼痛犹存的大衰退余波中，刚刚起步的年轻人正在重新界定优先级与预期，而这些观念将逐步渗透进美国生活的几乎方方面面。",
+   "source": "2016 英语二 阅读 Text 4",
+   "year": 2016,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2016
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "d019",
+   "type": "expression",
+   "headword": "have it down to an art",
+   "phonetic": "/ɑːt/",
+   "pos": "v. phrase",
+   "meaning": "把某事做得出神入化、驾轻就熟",
+   "note": "have / get sth down to an art 意为「练得如同一门手艺般娴熟」；原文用来夸孩子天生懂得如何获得幸福，含轻松反讽。",
+   "quote": "As adults, it seems that we are constantly pursuing happiness, often with mixed results. Yet children appear to have it down to an art — and for the most part they don't need self-help books or therapy.",
+   "quote_zh": "成年人似乎总在追逐幸福，结果却喜忧参半；而孩子仿佛天生就深谙此道——大多根本不需要自助书或心理治疗。",
+   "source": "2016 英语二 新题型",
+   "year": 2016,
+   "paper": "英语二",
+   "section": "新题型",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2016
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "d020",
+   "type": "expression",
+   "headword": "crack down on",
+   "phonetic": "/kræk/",
+   "pos": "v. phrase",
+   "meaning": "严厉打击、严加管束",
+   "note": "crack down on threats / crime / violations 是监管与法律语境高频短语动词；原文指「濒危」定级会给联邦官员更大的监管执法权。",
+   "quote": "They had pushed the agency to designate the bird as \"endangered,\" a status that gives federal officials greater regulatory power to crack down on threats.",
+   "quote_zh": "他们曾敦促该机构把这种鸟列为「濒危」——这一身份能赋予联邦官员更大的监管权去打击各种威胁。",
+   "source": "2016 英语二 阅读 Text 2",
+   "year": 2016,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2016
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d021",
+   "type": "word",
+   "headword": "safeguard",
+   "phonetic": "/ˈseɪfɡɑːd/",
+   "pos": "v.",
+   "meaning": "保卫、捍卫（使免受威胁）",
+   "note": "safeguard sth against ... 是固定搭配；比 protect 更正式、更强调「制度性防护」，真题用于「保障世界粮食供应」。",
+   "quote": "It is being built to safeguard the world's food supply against nuclear war, climate change, terrorism, rising sea levels, earthquakes and the collapse of electricity supplies.",
+   "quote_zh": "它的建造是为了保护世界粮食供应，使之免遭核战争、气候变化、恐怖主义、海平面上升、地震与电力供应崩溃的威胁。",
+   "source": "2011 英语二 阅读 Text 1",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d022",
+   "type": "word",
+   "headword": "vault",
+   "phonetic": "/vɔːlt/",
+   "pos": "n.",
+   "meaning": "（山体内凿出的）地下种子库、保险库",
+   "note": "常见义为「拱顶、金库、撑杆跳」，真题指深建在砂岩山里的种子储藏库；与同篇 gene bank、seed bank 构成环境与科技主题词网。",
+   "quote": "The $3 million vault will be built deep inside a sandstone mountain on the Norwegian Arctic island of Spitsbergen.",
+   "quote_zh": "这座耗资 300 万美元的地下库将深建于挪威北极地区斯匹次卑尔根岛的一座砂岩山内部。",
+   "source": "2011 英语二 阅读 Text 1",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "d023",
+   "type": "word",
+   "headword": "vulnerable",
+   "phonetic": "/ˈvʌlnərəbl/",
+   "pos": "adj.",
+   "meaning": "脆弱的、易出故障/易受攻击的",
+   "note": "vulnerable electricity supplies 指现有种子库「供电不稳」；be vulnerable to 与 be susceptible to 近义，前者更偏「防御薄弱」。",
+   "quote": "Many have been criticized for poor security, ageing refrigeration systems and vulnerable electricity supplies.",
+   "quote_zh": "许多（现有种子库）因安保薄弱、冷藏设备老化、供电易出故障而饱受批评。",
+   "source": "2011 英语二 阅读 Text 1",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "科学与技术",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d024",
+   "type": "word",
+   "headword": "penetrate",
+   "phonetic": "/ˈpenətreɪt/",
+   "pos": "v.",
+   "meaning": "穿透、渗入（深入某物内部）",
+   "note": "学术动词，宾语常为 barrier / market / mountain；原文说即便全球变暖加速，热量也要数十年才能「穿透」山体库室。",
+   "quote": "But even if some disaster meant that the vault was abandoned, the permanently frozen soil would keep the seeds alive. And even accelerated global warming would take many decades to penetrate the mountain vault.",
+   "quote_zh": "但即便某场灾难使这座库被弃置，永久冻土也能让种子存活；即便全球变暖加速，热量也要数十年才能穿透山体中的库室。",
+   "source": "2011 英语二 阅读 Text 1",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "长难句",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "d025",
+   "type": "word",
+   "headword": "vertiginously",
+   "phonetic": "/vɜːˈtɪdʒɪnəsli/",
+   "pos": "adv.",
+   "meaning": "令人眩晕地、（价格）急剧地",
+   "note": "由 vertigo（眩晕）派生，形容涨势之陡；比 sharply / steeply 更具画面感，是经济评论的高阶副词。",
+   "quote": "The world art market had already been losing momentum for a while after rising vertiginously since 2003.",
+   "quote_zh": "世界艺术品市场自 2003 年急剧攀升之后，早已有一段时间在失去势头。",
+   "source": "2010 英语二 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "态度词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d026",
+   "type": "word",
+   "headword": "crystallize",
+   "phonetic": "/ˈkrɪstəlaɪz/",
+   "pos": "v.",
+   "meaning": "使（抽象事理）具体化、清晰地凸显",
+   "note": "crystallize the irony that ... 用「结晶」比喻把讽刺性事实点明；crystallize an idea / a trend 是书面高频用法。",
+   "quote": "This episode crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home. And this pattern is wreaking havoc with marriage.",
+   "quote_zh": "这一幕把一个讽刺性事实点得再清楚不过：美国男人在公开场合往往比女人话多，回到家里却常常说得更少。而这种模式正在严重破坏婚姻。",
+   "source": "2010 英语二 阅读 Text 2",
+   "year": 2010,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "抽象名词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "d027",
+   "type": "word",
+   "headword": "sojourner",
+   "phonetic": "/ˈsɒdʒɜːnə(r)/",
+   "pos": "n.",
+   "meaning": "旅居者、暂住者（无意久留的人）",
+   "note": "与 settlers（定居者）对举，是 2013 Text 2「候鸟移民」全篇的核心对照词；动词/名词 sojourn（逗留）同源。",
+   "quote": "A century ago, the immigrants from across the Atlantic included settlers and sojourners. Along with the many folks looking to make a permanent home in the United States came those who had no intention to stay",
+   "quote_zh": "一个世纪前，横跨大西洋而来的移民中既有定居者，也有旅居客；与许多想在美国安家的人一同到来的，还有那些根本无意久留的人。",
+   "source": "2013 英语二 阅读 Text 2",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d028",
+   "type": "word",
+   "headword": "straddle",
+   "phonetic": "/ˈstrædl/",
+   "pos": "v.",
+   "meaning": "跨越、兼跨（两套体系/身份之间）",
+   "note": "本义「跨坐、两腿分跨」，真题引申为「同时置身法律、辖区与身份之间」；straddle the divide / two worlds 是高阶隐喻用法。",
+   "quote": "With or without permission, they straddle laws, jurisdictions and identities with ease.",
+   "quote_zh": "无论是否获得许可，他们都能游刃有余地同时周旋于多套法律、辖区与身份之间。",
+   "source": "2013 英语二 阅读 Text 2",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d029",
+   "type": "word",
+   "headword": "counterintuitive",
+   "phonetic": "/ˌkaʊntərɪnˈtjuːɪtɪv/",
+   "pos": "adj.",
+   "meaning": "反直觉的、与常识相悖的",
+   "note": "counter- + intuitive，学术与评论写作常用；原文说「最值得花钱的方式可能反直觉」，为下文「体验优于物质」张本。",
+   "quote": "These two academics use an array of behavioral research to show that the most rewarding ways to spend money can be counterintuitive.",
+   "quote_zh": "这两位学者用大量行为研究表明，最划算的花钱方式可能与直觉相悖。",
+   "source": "2014 英语二 阅读 Text 1",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "态度词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "d030",
+   "type": "word",
+   "headword": "allegiance",
+   "phonetic": "/əˈliːdʒəns/",
+   "pos": "n.",
+   "meaning": "（对组织、事业的）忠诚、拥戴",
+   "note": "抽象名词，比 loyalty 更正式、更带「归属与效忠」色彩；increase allegiance to the firm 是组织行为学高频搭配。",
+   "quote": "These terms are also intended to infuse work with meaning — and, as Khurana points out, increase allegiance to the firm.",
+   "quote_zh": "这些措辞还意在给工作注入意义——正如库拉纳所指出的——并增强员工对公司的忠诚。",
+   "source": "2015 英语二 阅读 Text 3",
+   "year": 2015,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2015
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d031",
+   "type": "word",
+   "headword": "meritocracy",
+   "phonetic": "/ˌmerɪˈtɒkrəsi/",
+   "pos": "n.",
+   "meaning": "任人唯贤、精英治国（按才能选拔的体制）",
+   "note": "merit + -cracy（统治），原文括注 government by the capable；派生 meritocratic，与 quotas（配额）构成全篇对立概念。",
+   "quote": "I don't like quotas either; they run counter to my belief in meritocracy, government by the capable.",
+   "quote_zh": "我也不喜欢配额；它们与我所信奉的任人唯贤、能者治国相抵触。",
+   "source": "2013 英语二 阅读 Text 4",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "抽象名词",
+    "态度词"
+   ]
+  },
+  {
+   "id": "d032",
+   "type": "word",
+   "headword": "thorny",
+   "phonetic": "/ˈθɔːni/",
+   "pos": "adj.",
+   "meaning": "棘手的、难处理的（问题）",
+   "note": "两处可回溯：2012 Text 1「the truly thorny questions about homework」、2016 Text 3「What makes the problem thornier is that...」；thorny issue / question 是固定搭配。",
+   "quote": "At the same time, the policy addresses none of the truly thorny questions about homework.",
+   "quote_zh": "与此同时，这项政策并未触及关于家庭作业真正棘手的那些问题。",
+   "source": "2012 英语二 阅读 Text 1",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "教育与人才",
+   "difficulty": 2,
+   "freq": 2,
+   "years_seen": [
+    2012,
+    2016
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d033",
+   "type": "word",
+   "headword": "pervasive",
+   "phonetic": "/pəˈveɪsɪv/",
+   "pos": "adj.",
+   "meaning": "无处不在的、渗透各处的",
+   "note": "来自动词 pervade，常修饰 influence / presence / problem；比 common 更强调「弥漫性」，是社科评论高阶词。",
+   "quote": "Pretty in pink: adult women do not remember being so obsessed with the colour, yet it is pervasive in our young girls' lives.",
+   "quote_zh": "「粉红俏佳人」：成年女性已不记得自己曾如此迷恋这种颜色，可它在小女孩的生活里却无处不在。",
+   "source": "2012 英语二 阅读 Text 2",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2012
+   ],
+   "tags": [
+    "写作可迁移",
+    "态度词"
+   ]
+  },
+  {
+   "id": "d034",
+   "type": "word",
+   "headword": "intimations",
+   "phonetic": "/ˌɪntɪˈmeɪʃnz/",
+   "pos": "n.",
+   "meaning": "（隐约的）暗示、意味、联想",
+   "note": "intimation 常用复数，with its intimations of ... 意为「带着……的联想」；原文说蓝色因令人联想到圣母、坚贞与忠信而曾象征女性气质。",
+   "quote": "Blue, with its intimations of the Virgin Mary, constancy and faithfulness, symbolised femininity.",
+   "quote_zh": "蓝色因带有圣母玛利亚、坚贞与忠信的意味，曾象征女性气质。",
+   "source": "2012 英语二 阅读 Text 2",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2012
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d035",
+   "type": "word",
+   "headword": "overturn",
+   "phonetic": "/ˌəʊvəˈtɜːn/",
+   "pos": "v.",
+   "meaning": "推翻、撤销（判决、裁定）",
+   "note": "法律语境高阶动词，overturn a decision / ruling / verdict；与同篇 rule（裁定）、appeals court（上诉法院）构成司法主题词网。",
+   "quote": "A federal appeals court overturned the prior decision, ruling that Myriad Genetics could indeed hold patents to two genes that help forecast a woman's risk of breast cancer.",
+   "quote_zh": "一家联邦上诉法院推翻了此前的判决，裁定米里亚德基因公司确实可以持有两项有助于预测女性乳腺癌风险的基因专利。",
+   "source": "2012 英语二 阅读 Text 3",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2012
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d036",
+   "type": "word",
+   "headword": "mean-spirited",
+   "phonetic": "/ˌmiːn ˈspɪrɪtɪd/",
+   "pos": "adj.",
+   "meaning": "刻薄寡恩的、心胸狭隘的",
+   "note": "复合形容词，与 less inclusive 并列写经济长期停滞「使社会更刻薄、更不包容」；是态度词链中的关键一环。",
+   "quote": "lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms",
+   "quote_zh": "长期的经济停滞或衰退几乎总会使社会变得更刻薄、更不包容，并且往往阻断或逆转权利与自由的推进。",
+   "source": "2012 英语二 阅读 Text 4",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2012
+   ],
+   "tags": [
+    "态度词",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "d037",
+   "type": "word",
+   "headword": "cliché",
+   "phonetic": "/ˈkliːʃeɪ/",
+   "pos": "n.",
+   "meaning": "陈词滥调、老生常谈",
+   "note": "法语借词，注意重音与拼写；原文以「人人都太忙已是老生常谈」开篇，随即用 But 转折引出「没时间读书」这一具体抱怨。",
+   "quote": "That everyone's too busy these days is a cliché. But one specific complaint is made especially mournfully: There's never any time to read.",
+   "quote_zh": "「如今人人都太忙」已是老生常谈；但有一种抱怨被说得格外哀怨：永远没有时间读书。",
+   "source": "2016 英语二 阅读 Text 3",
+   "year": 2016,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2016
+   ],
+   "tags": [
+    "态度词"
+   ]
+  },
+  {
+   "id": "d038",
+   "type": "word",
+   "headword": "harbor",
+   "phonetic": "/ˈhɑːbə(r)/",
+   "pos": "v.",
+   "meaning": "怀有、持有（偏见、疑虑、想法）",
+   "note": "熟词活用：由名词「港口/避难所」转为动词「窝藏、怀有」；harbor biases against ... 是社科写作高频搭配。",
+   "quote": "Teachers, employers, and health professionals have been shown to harbor biases against the obese.",
+   "quote_zh": "研究表明，教师、雇主与医疗从业者都对肥胖者怀有偏见。",
+   "source": "2014 英语二 完形",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "完形",
+   "topic": "医学与健康",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "易错义",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d039",
+   "type": "word",
+   "headword": "cheerleader",
+   "phonetic": "/ˈtʃɪəliːdə(r)/",
+   "pos": "n.",
+   "meaning": "（比喻）最坚定的鼓吹者、支持者",
+   "note": "由「啦啦队长」引申为「某项事业最卖力的拥护者」；the project's greatest cheerleaders 指连欧盟最铁杆的支持者都开始唱衰，反讽力度极强。",
+   "quote": "Now even the project's greatest cheerleaders talk of a continent facing a \"Bermuda triangle\" of debt, population decline and lower growth.",
+   "quote_zh": "如今，连这项事业最坚定的鼓吹者都在谈论：这片大陆正面临由债务、人口萎缩与增长放缓构成的「百慕大三角」。",
+   "source": "2011 英语二 阅读 Text 4",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "d040",
+   "type": "word",
+   "headword": "scarcity",
+   "phonetic": "/ˈskeəsəti/",
+   "pos": "n.",
+   "meaning": "稀缺、稀少",
+   "note": "经济心理学核心抽象名词，scarcity enhances the pleasure of most things；与同篇 sparingly（节制地消费）呼应，可迁移到消费与资源类写作。",
+   "quote": "Yet the link between feeling good and spending money on others can be seen among rich and poor people around the world, and scarcity enhances the pleasure of most things for most people.",
+   "quote_zh": "然而，无论贫富，世界各地都能看到「感觉良好」与「为他人花钱」之间的联系；而稀缺会提升多数人对多数事物的愉悦感。",
+   "source": "2014 英语二 阅读 Text 1",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "抽象名词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "d041",
+   "type": "polyseme",
+   "headword": "divide",
+   "phonetic": "/dɪˈvaɪd/",
+   "pos": "v.",
+   "meaning": "除以（数学运算）",
+   "note": "完形第 7 空按标准答案还原为 equals，全句 BMI equals body mass divided by the square of height；表「除以」只用被动 divided by，同篇另有 divided into（划分为）可对照。",
+   "common_meaning": "分开、划分、使产生分歧",
+   "rare_meaning": "（数学）除以；A divided by B 即「A ÷ B」",
+   "quote": "BMI equals body mass divided by the square of height. An adult with a BMI of 18 to 25 is often considered to be normal weight.",
+   "quote_zh": "身体质量指数等于体重除以身高的平方；BMI 在 18 到 25 之间的成年人通常被视为正常体重。",
+   "source": "2014 英语二 完形",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "完形",
+   "topic": "医学与健康",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "d042",
+   "type": "polyseme",
+   "headword": "doctor",
+   "phonetic": "/ˈdɒktə(r)/",
+   "pos": "v.",
+   "meaning": "（对照片、数据、文件）篡改、做手脚、修图美化",
+   "note": "doctored picture 指被「修过图」的照片； doctor 作动词含「伪造/擅自改动」的贬义，doctored figures / doctored evidence 同义，勿按「医生/医治」理解。",
+   "common_meaning": "n. 医生、博士；v. 医治",
+   "rare_meaning": "v. 篡改、伪造；（照片）修图美化",
+   "quote": "Nor was there any evidence that those who self-enhanced the most (that is, the participants who thought the most positively doctored picture were real) were doing so to make up for profound insecurities.",
+   "quote_zh": "也没有任何证据表明，那些自我美化最甚的人（即认为被修得最漂亮的照片就是真实长相的参与者）这样做是为了弥补深深的不安全感。",
+   "source": "2014 英语二 阅读 Text 2",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d043",
+   "type": "polyseme",
+   "headword": "climate",
+   "phonetic": "/ˈklaɪmət/",
+   "pos": "n.",
+   "meaning": "（政策/舆论的）形势、风气、大环境",
+   "note": "与 2011 种子库篇 climate change（本义「气候」）恰成对照；adjust to this changing climate 指「适应正在变化的政策环境」，不可译作「气候变化」。",
+   "common_meaning": "气候、（地区的）气象",
+   "rare_meaning": "形势、风气、舆论/政策大环境",
+   "quote": "The housing sector needs to accept that we are very unlikely to ever return to era of large-scale public grants. We need to adjust to this changing climate.",
+   "quote_zh": "住房行业必须承认，我们极不可能再回到大规模公共拨款的时代；我们必须适应这一正在变化的大环境。",
+   "source": "2014 英语二 阅读 Text 4",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "d044",
+   "type": "polyseme",
+   "headword": "subject",
+   "phonetic": "/ˈsʌbdʒɪkt/",
+   "pos": "n.",
+   "meaning": "（实验的）受试者、被试",
+   "note": "两处可回溯：2014 Text 2「If the subjects quickly chose a falsely flattering image」、2013 Text 3「Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long」；名词/形容词重音在前，动词 subject to 重音在后。",
+   "common_meaning": "主题、科目、主语；（君主国）臣民",
+   "rare_meaning": "（心理学/医学实验的）受试者、实验对象",
+   "quote": "If the subjects quickly chose a falsely flattering image — which most did — they genuinely believed it was really how they looked.",
+   "quote_zh": "如果受试者迅速挑中了那张被美化过的照片——多数人确实如此——他们是真心相信那就是自己真实的模样。",
+   "source": "2014 英语二 阅读 Text 2",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2013,
+    2014
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "d045",
+   "type": "polyseme",
+   "headword": "scheme",
+   "phonetic": "/skiːm/",
+   "pos": "n.",
+   "meaning": "（英式）方案、项目、计划",
+   "note": "两处可回溯且义项有别：2011 Text 1「The scheme won UN approval」＝（种子库）方案；2014 翻译「in the grand scheme of life」＝格局/整体。中国考生易误当作「阴谋、诡计」。",
+   "common_meaning": "（常误作）阴谋、诡计；图表、示意图",
+   "rare_meaning": "（英式）方案、项目、计划；in the grand scheme of ... 在……的整体格局中",
+   "quote": "The scheme won UN approval at a meeting of the Food and Agriculture Organization in Rome in October 2005.",
+   "quote_zh": "2005 年 10 月，该方案在罗马举行的联合国粮农组织会议上获得批准。",
+   "source": "2011 英语二 阅读 Text 1",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2011,
+    2014
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "d046",
+   "type": "polyseme",
+   "headword": "address",
+   "phonetic": "/əˈdres/",
+   "pos": "v.",
+   "meaning": "处理、应对、设法解决（问题/需求）",
+   "note": "两处可回溯：2012 Text 1「This rule is meant to address the difficulty」、2014 Text 4「take some steps to address our urgent housing need」；address the needs / issue / concern 是政策文书高频义。",
+   "common_meaning": "n. 地址、演说；v. 向……讲话、称呼",
+   "rare_meaning": "v. 处理、应对、设法解决（问题、需求）",
+   "quote": "This rule is meant to address the difficulty that students from impoverished or chaotic homes might have in completing their homework.",
+   "quote_zh": "这条规定本意是解决来自贫困或混乱家庭的学生在完成家庭作业时可能遇到的困难。",
+   "source": "2012 英语二 阅读 Text 1",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "教育与人才",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2012,
+    2014
+   ],
+   "tags": [
+    "易错义",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "d047",
+   "type": "polyseme",
+   "headword": "prime",
+   "phonetic": "/praɪm/",
+   "pos": "v.",
+   "meaning": "（事先）刺激、引导、使进入某种反应状态",
+   "note": "心理学「启动效应」术语：prime sb to do sth 意为「事先给某种暗示使其随后更快/更倾向……」；与形容词「首要的、最好的」义落差极大。",
+   "common_meaning": "adj. 首要的、最好的；n. 全盛时期",
+   "rare_meaning": "v. 启动、预先影响（心理启动效应）；使做好准备",
+   "quote": "Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating.",
+   "quote_zh": "多伦多大学的心理学家发现，仅仅看几毫秒快餐标识，就会「启动」我们、使阅读速度加快 20%——尽管阅读与进食几乎毫无关系。",
+   "source": "2013 英语二 阅读 Text 3",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d048",
+   "type": "polyseme",
+   "headword": "mute",
+   "phonetic": "/mjuːt/",
+   "pos": "v.",
+   "meaning": "抑制、缓和、减弱（反应/声音/情绪）",
+   "note": "由形容词「哑的、静音的」转为动词「压低/抑制」；mute our hard-wired reactions by pausing 写「以暂停来抑制本能反应」，是全文点睛句。",
+   "common_meaning": "adj. 哑的、沉默的；n. 弱音器",
+   "rare_meaning": "v. 抑制、减弱、使缓和",
+   "quote": "Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals",
+   "quote_zh": "我们能通过暂停来抑制本能反应，正是这一点把人与动物区分开来。",
+   "source": "2013 英语二 阅读 Text 3",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d049",
+   "type": "polyseme",
+   "headword": "ground",
+   "phonetic": "/ɡraʊnd/",
+   "pos": "v.",
+   "meaning": "使立足于、以……为基础（ground sth in sth）",
+   "note": "由名词「地面」转为动词「把……植根于」；be grounded in evidence / reality 是学术写作高频被动式，勿按「地面/磨碎」理解。",
+   "common_meaning": "n. 地面、场地；v. 搁浅、罚禁足",
+   "rare_meaning": "v. 使立足于、把……建立在……基础上",
+   "quote": "John Gottman, the marriage expert, explains that we quickly \"thin slice\" information reliably only after we ground such snap reactions in \"thick sliced\" long-term study.",
+   "quote_zh": "婚姻研究专家约翰·戈特曼解释说，只有把这类瞬时反应建立在长期「厚切片」研究之上，我们才能可靠地快速「薄切片」地判断信息。",
+   "source": "2013 英语二 阅读 Text 3",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d050",
+   "type": "polyseme",
+   "headword": "shed",
+   "phonetic": "/ʃed/",
+   "pos": "v.",
+   "meaning": "（大规模）裁减、去除、摆脱",
+   "note": "shed workers / jobs / pounds / image 意为「裁掉、减掉、摆脱」；由「脱落、流下」引申，与名词「棚屋」无关，是经济报道高频动词。",
+   "common_meaning": "n. 棚屋、工棚；v. 流出、脱落（叶、泪、皮）",
+   "rare_meaning": "v. 裁减（人员/岗位）、摆脱、去除",
+   "quote": "In the 10 years ending in 2009, [U.S.] factories shed workers so fast that they erased almost all the gains of the previous 70 years",
+   "quote_zh": "在截至 2009 年的十年里，美国工厂裁减员工之快，几乎抹去了此前七十年的全部就业增量。",
+   "source": "2013 英语二 阅读 Text 1",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d051",
+   "type": "polyseme",
+   "headword": "brief",
+   "phonetic": "/briːf/",
+   "pos": "n.",
+   "meaning": "（提交法庭的）案情摘要、诉讼文书",
+   "note": "file a brief 是法律术语「提交书面陈述/辩护状」；由形容词「简短的」转为法律名词，与「简报」义不同，是 2012 Text 3 基因专利案的核心词。",
+   "common_meaning": "adj. 简短的、简洁的；n. 简报、概要",
+   "rare_meaning": "n.（法律）案情摘要、诉讼文书；file a brief 提交书面意见",
+   "quote": "In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule \"is no less a product of nature... than are cotton fibres that have been separated from cotton seeds.\"",
+   "quote_zh": "10 月，司法部就米里亚德案提交了书面意见，主张分离出的 DNA 分子「与从棉籽中分离出的棉纤维一样，都是自然产物」。",
+   "source": "2012 英语二 阅读 Text 3",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2012
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d052",
+   "type": "polyseme",
+   "headword": "packed",
+   "phonetic": "/pækt/",
+   "pos": "adj.",
+   "meaning": "（场所/场次）挤满人的、爆满的",
+   "note": "两处可回溯：2012 Text 3「Each meeting was packed」（会议场场爆满）、2016 Text 1「introductory computer-science classes are packed to the brim」（入门课挤得满满当当）；勿按「打包好的」理解。",
+   "common_meaning": "pack 的过去分词：打包好的、包装好的",
+   "rare_meaning": "adj. 挤满人的、爆满的；packed to the brim 满到边",
+   "quote": "The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents. Each meeting was packed.",
+   "quote_zh": "生物技术创新组织最近召开大会，专门安排了给律师讲解专利格局变化的场次，场场爆满。",
+   "source": "2012 英语二 阅读 Text 3",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2012,
+    2016
+   ],
+   "tags": [
+    "易错义",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d053",
+   "type": "polyseme",
+   "headword": "prize",
+   "phonetic": "/praɪz/",
+   "pos": "v.",
+   "meaning": "珍视、高度重视",
+   "note": "由名词「奖品」转为动词「视为珍贵」；prize the same traditional milestones 写「看重同样的人生里程碑」，prized / highly prized 是常见派生。",
+   "common_meaning": "n. 奖品、奖赏、奖金",
+   "rare_meaning": "v. 珍视、高度重视、视为宝贵",
+   "quote": "Across generational lines, Americans continue to prize many of the same traditional milestones of a successful life, including getting married, having children, owning a home, and retiring in their sixties.",
+   "quote_zh": "跨越代际，美国人依然看重许多同样传统的人生里程碑：结婚、生子、拥有住房，以及在六十多岁时退休。",
+   "source": "2016 英语二 阅读 Text 4",
+   "year": 2016,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2016
+   ],
+   "tags": [
+    "易错义",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "d054",
+   "type": "polyseme",
+   "headword": "afford",
+   "phonetic": "/əˈfɔːd/",
+   "pos": "v.",
+   "meaning": "（正式）提供、给予（视野、机会等）",
+   "note": "the views they afforded 中 afford 主语是「公寓/玻璃墙」，意为「所提供的视野」；afford an opportunity / a view 属此义，勿只记 can't afford（买得起）。",
+   "common_meaning": "（与 can/can't 连用）买得起、负担得起",
+   "rare_meaning": "v. 提供、给予（机会、视野、可能性）",
+   "quote": "But they were popular because of their airy glass walls, the views they afforded and the elegance of the buildings' details and proportions",
+   "quote_zh": "但它们之所以大受欢迎，是因为通透的玻璃墙、由此带来的视野，以及建筑细部与比例上的优雅。",
+   "source": "2011 英语二 阅读 Text 3",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d055",
+   "type": "polyseme",
+   "headword": "buy",
+   "phonetic": "/baɪ/",
+   "pos": "v.",
+   "meaning": "相信、接受（某种说法）；buy into 意为「认同、买账」",
+   "note": "两处可回溯：2015 Text 3「you buy into it」（一边觉得是胡说、一边却买账）、2016 Text 2「Not everyone buys the win-win rhetoric」（并非人人都信这套双赢说辞）；宾语是「说法」而非商品。",
+   "common_meaning": "v. 购买、买",
+   "rare_meaning": "v. 相信、买账（某说法）；buy into 认同、接受",
+   "quote": "As Nunberg said, \"You can get people to think it's nonsense at the same time that you buy into it.\"",
+   "quote_zh": "正如农伯格所说：「你可以让人一边觉得这是胡说八道，一边又照样照单全收。」",
+   "source": "2015 英语二 阅读 Text 3",
+   "year": 2015,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2015,
+    2016
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "d056",
+   "type": "theme",
+   "headword": "bull run",
+   "phonetic": "/bʊl rʌn/",
+   "pos": "n. phrase",
+   "meaning": "牛市、持续上涨的行情",
+   "note": "经济与商业主题域核心术语，与 downturn / slump / contraction 反义；the longest bull run in a century 以「百年最长牛市」定调艺术品市场由盛转衰。",
+   "quote": "The longest bull run in a century of art-market history ended on a dramatic note with a sale of 56 works by Damien Hirst",
+   "quote_zh": "艺术品市场史上百年最长的一轮牛市，以达米恩·赫斯特 56 件作品的一场拍卖戏剧性地收场。",
+   "source": "2010 英语二 阅读 Text 1",
+   "year": 2010,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d057",
+   "type": "theme",
+   "headword": "cross section",
+   "phonetic": "/krɒs ˈsekʃn/",
+   "pos": "n. phrase",
+   "meaning": "（能代表全体的）横断面、代表性样本",
+   "note": "法律与治理主题域术语：a representative cross section of the community 指陪审员须从社区各阶层随机抽取，与 randomly、representative 同域。",
+   "quote": "This law abolished special educational requirements for federal jurors and required them to be selected at random from a cross section of the entire community.",
+   "quote_zh": "该法律废除了对联邦陪审员的特殊学历要求，规定须从整个社区的代表性横断面中随机遴选。",
+   "source": "2010 英语二 阅读 Text 4",
+   "year": 2010,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2010
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d058",
+   "type": "theme",
+   "headword": "seed bank",
+   "phonetic": "/siːd bæŋk/",
+   "pos": "n. phrase",
+   "meaning": "种子库（保存作物种质资源的设施）",
+   "note": "环境与科技主题域锚点，与同篇 gene bank、vault、genetic properties、plant breeding 构成词网；existing seed banks 的安全隐患是全文论点落点。",
+   "quote": "The project comes at a time when there is growing concern about the safety of existing seed banks around the world.",
+   "quote_zh": "这一项目启动之时，世界各地对现有种子库安全性的担忧正与日俱增。",
+   "source": "2011 英语二 阅读 Text 1",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "科学与技术",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "d059",
+   "type": "theme",
+   "headword": "devaluation",
+   "phonetic": "/ˌdiːˌvæljuˈeɪʃn/",
+   "pos": "n.",
+   "meaning": "（货币）贬值",
+   "note": "欧债危机主题域核心术语：共用单一货币「剥夺了缺乏竞争力成员国靠贬值快速脱困的捷径」；与 single currency、converge、Eurobonds 同域。",
+   "quote": "Markets have lost faith that the euro zone's economies, weaker or stronger, will one day converge thanks to the discipline of sharing a single currency, which denies uncompetitive members the quick fix of devaluation.",
+   "quote_zh": "市场已不再相信：无论强弱，欧元区各经济体终会靠共用单一货币的纪律而趋同——因为这一纪律恰恰剥夺了缺乏竞争力的成员国靠贬值速效解困的可能。",
+   "source": "2011 英语二 阅读 Text 4",
+   "year": 2011,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2011
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d060",
+   "type": "theme",
+   "headword": "social fabric",
+   "phonetic": "/ˈsəʊʃl ˈfæbrɪk/",
+   "pos": "n. phrase",
+   "meaning": "社会结构、社会肌理",
+   "note": "fabric 由「织物」引申为「构造/肌理」，reshape our social fabric 是讨论危机如何改变社会的高阶隐喻；社会与人口主题域核心词。",
+   "quote": "We will have to wait and see exactly how these hard times will reshape our social fabric.",
+   "quote_zh": "这些艰难时世究竟会如何重塑我们的社会肌理，我们只能拭目以待。",
+   "source": "2012 英语二 阅读 Text 4",
+   "year": 2012,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2012
+   ],
+   "tags": [
+    "抽象名词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "d061",
+   "type": "theme",
+   "headword": "birds of passage",
+   "phonetic": "/ˈbɜːdz əv ˈpæsɪdʒ/",
+   "pos": "n. phrase",
+   "meaning": "候鸟式移民、来去不定的人（不打算永久定居者）",
+   "note": "2013 Text 2 全篇主题词，源自意大利语 uccelli di passaggio；与 settlers / sojourners、gray areas、multiple paths 构成移民政策词网。",
+   "quote": "Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists are among today's birds of passage.",
+   "quote_zh": "采摘工、小提琴手、建筑工人、创业者、工程师、家庭护理员与物理学家，都属于当今的「候鸟式移民」。",
+   "source": "2013 英语二 阅读 Text 2",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "抽象名词",
+    "态度词"
+   ]
+  },
+  {
+   "id": "d062",
+   "type": "theme",
+   "headword": "glass ceiling",
+   "phonetic": "/ɡlɑːs ˈsiːlɪŋ/",
+   "pos": "n. phrase",
+   "meaning": "玻璃天花板（女性/少数群体晋升的无形障碍）",
+   "note": "职场与就业主题域经典术语，break through the glass ceiling 为固定搭配；与同篇 quotas、legally binding provisions、meritocracy 构成性别平权词网。",
+   "quote": "Quotas get action: they \"open the way to equality and they break through the glass ceiling,\" according to Reding, a result seen in France and other countries with legally binding provisions on placing women in top business positions.",
+   "quote_zh": "配额能促成行动：按雷丁的说法，它们「铺平通往平等之路、打破玻璃天花板」——在法国等对女性进入企业高层设有法律约束条款的国家已见成效。",
+   "source": "2013 英语二 阅读 Text 4",
+   "year": 2013,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2013
+   ],
+   "tags": [
+    "抽象名词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "d063",
+   "type": "theme",
+   "headword": "body mass index (BMI)",
+   "phonetic": "/ˈbɒdi mæs ˈɪndeks/",
+   "pos": "n. phrase",
+   "meaning": "身体质量指数（BMI，体重除以身高平方）",
+   "note": "2014 完形主题域锚点，与 obese / obesity、normal weight、in terms of、divided by 构成医学与健康词网；第 5、6 空按标准答案还原为 concern、in terms of。",
+   "quote": "Of even greater concern is the fact that obesity turns out to be very difficult to define. It is often defined in terms of body mass index, or BMI.",
+   "quote_zh": "更值得关注的是，肥胖其实很难界定；它通常是用「身体质量指数」（BMI）来定义的。",
+   "source": "2014 英语二 完形",
+   "year": 2014,
+   "paper": "英语二",
+   "section": "完形",
+   "topic": "医学与健康",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2014
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d064",
+   "type": "theme",
+   "headword": "lingua franca",
+   "phonetic": "/ˌlɪŋɡwə ˈfræŋkə/",
+   "pos": "n. phrase",
+   "meaning": "通用语、（某群体内部的）共同话语",
+   "note": "历史与语言主题域术语，the lingua franca of corporate America 指「美国企业界的通用话语」；与同篇 office speak、terminology、buzzword 构成职场语言词网。",
+   "quote": "Even in traditional offices, \"the lingua franca of corporate America has gotten much more emotional and much more right-brained than it was 20 years ago,\" said Harvard Business School professor Nancy Koehn.",
+   "quote_zh": "哈佛商学院教授南希·科恩说，即便在传统的办公室里，「美国企业界的通用话语也比二十年前感性得多、右脑化得多」。",
+   "source": "2015 英语二 阅读 Text 3",
+   "year": 2015,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2015
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d065",
+   "type": "theme",
+   "headword": "achievement gap",
+   "phonetic": "/əˈtʃiːvmənt ɡæp/",
+   "pos": "n. phrase",
+   "meaning": "（不同群体间的）学业成就差距",
+   "note": "教育与人才主题域核心术语，reproduce / widen / close an achievement gap 三个动词方向对比鲜明；based on social class 点明差距的阶层根源。",
+   "quote": "This has created \"a paradox\" in that recruiting first-generation students, but then watching many of them fail, means that higher education has \"continued to reproduce and widen, rather than close\" an achievement gap based on social class",
+   "quote_zh": "这造成了一个「悖论」：招收第一代大学生、却又眼看着其中许多人掉队，意味着高等教育「一直在复制并扩大、而非弥合」基于社会阶层的学业成就差距。",
+   "source": "2015 英语二 阅读 Text 2",
+   "year": 2015,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "教育与人才",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2015
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d066",
+   "type": "theme",
+   "headword": "information overload",
+   "phonetic": "/ˌɪnfəˈmeɪʃn ˈəʊvələʊd/",
+   "pos": "n. phrase",
+   "meaning": "信息过载（选择/信息量超出处理能力）",
+   "note": "2016 翻译主题域锚点，与 the sheer volume of available choice、rationally selective、shopping emotionally 构成消费决策词网；可迁移到数字生活类写作。",
+   "quote": "The sheer volume of available choice is enough to send shoppers into a state of information overload.",
+   "quote_zh": "可供选择的商品数量之庞大，足以把购物者推入信息过载的状态。",
+   "source": "2016 英语二 翻译",
+   "year": 2016,
+   "paper": "英语二",
+   "section": "翻译",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2016
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "d067",
+   "type": "theme",
+   "headword": "habitat",
+   "phonetic": "/ˈhæbɪtæt/",
+   "pos": "n.",
+   "meaning": "（物种的）栖息地、生境",
+   "note": "环境与能源主题域核心术语，restore prairie chicken habitat、damage habitat、set aside habitat 同篇复现；与 threatened / endangered、regulatory power、conservation 构成保护生物学词网。",
+   "quote": "In particular, they called for forging closer collaborations with western state governments, which are often uneasy with federal action and with the private landowners who control an estimated 95% of the prairie chicken's habitat.",
+   "quote_zh": "他们特别呼吁与西部各州政府建立更紧密的协作——这些州政府往往对联邦行动心存戒备，而控制着约 95% 草原松鸡栖息地的私有土地所有者亦然。",
+   "source": "2016 英语二 阅读 Text 2",
+   "year": 2016,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2016
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  }
+ ]
+}

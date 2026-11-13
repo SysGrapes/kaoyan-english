@@ -1,0 +1,1760 @@
+{
+ "segment": "英语一 2017–2024",
+ "agent": "C",
+ "entries": [
+  {
+   "id": "c001",
+   "type": "expression",
+   "headword": "in return for",
+   "phonetic": "/rɪˈtɜːn/",
+   "pos": "prep. phrase",
+   "meaning": "作为…的回报／交换",
+   "note": "写作表「以…换取…」，后接名词或动名词；in return 单独作副词表「作为回报」，注意与 in turn（转而）区分。",
+   "quote": "The court did suggest that accepting favors in return for opening doors is “distasteful” and “nasty.”",
+   "quote_zh": "法院确实表示，为人牵线搭桥并收受好处作为回报是「令人反感的」且「肮脏的」。",
+   "source": "2017 英语一 阅读 Text 4",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c002",
+   "type": "expression",
+   "headword": "at issue",
+   "phonetic": "/ˈɪʃuː/",
+   "pos": "prep. phrase",
+   "meaning": "争议焦点／待决问题",
+   "note": "作表语或后置定语，比 in dispute 更书面，写作可引出核心矛盾。另见 2021 英语一 Text 4「At issue before the U.S. Court of Appeals ... was the latest take of the FCC on net neutrality」。",
+   "quote": "At issue is the TMT's planned location on Mauna Kea, a dormant volcano worshiped by some Hawaiians as the piko, that connects the Hawaiian Islands to the heavens.",
+   "quote_zh": "争议焦点是 TMT 拟建在莫纳克亚山上——一座被部分夏威夷人奉为连接群岛与苍穹之「脐带」的休眠火山。",
+   "source": "2017 英语一 阅读 Text 2",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2017,
+    2021
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c003",
+   "type": "expression",
+   "headword": "shed light on",
+   "phonetic": "/ʃed/",
+   "pos": "v. phrase",
+   "meaning": "阐明、使…更易理解",
+   "note": "写作替代 explain，主语常为 study/survey/analysis；light 前可加 some/new/further。",
+   "quote": "A recent annual study of countries and their ability to convert growth into well-being sheds some light on that question.",
+   "quote_zh": "一项关于各国把增长转化为福祉之能力的最新年度研究，为这一问题提供了一些线索。",
+   "source": "2017 英语一 阅读 Text 3",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c004",
+   "type": "expression",
+   "headword": "be translated into",
+   "phonetic": "/trænzˈleɪtɪd/",
+   "pos": "v. phrase (passive)",
+   "meaning": "被转化为／体现为",
+   "note": "熟词转义：不只表「翻译」，真题指「经济增长转化为民生改善」；写作可替换 lead to / result in 的被动式。",
+   "quote": "Across the 163 countries measured, the UK is one of the poorest performers in ensuring that economic growth is translated into meaningful improvements for its citizens.",
+   "quote_zh": "在被衡量的 163 个国家中，英国在确保经济增长转化为民众切实改善方面表现最差之一。",
+   "source": "2017 英语一 阅读 Text 3",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c005",
+   "type": "expression",
+   "headword": "hold sb accountable for",
+   "phonetic": "/əˈkaʊntəbl/",
+   "pos": "v. phrase",
+   "meaning": "使某人对…承担责任",
+   "note": "监管／治理类写作高频：hold + 宾语 + accountable for + 名词；名词形式 accountability。",
+   "quote": "The main purpose of this “clawback” rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions.",
+   "quote_zh": "这项「奖金追回」规则的主要目的，是让银行家为有害的冒险行为担责，并重建公众对金融机构的信任。",
+   "source": "2019 英语一 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c006",
+   "type": "expression",
+   "headword": "at the expense of",
+   "phonetic": "/ɪkˈspens/",
+   "pos": "prep. phrase",
+   "meaning": "以损害…为代价",
+   "note": "写作表取舍的标配，与 at the cost of 近义但更书面；expense 用单数。另见 2021 英语一 Text 4「favoring its own video-streaming service at the expense of Netflix and Apple TV」。",
+   "quote": "“There seems to be a predominance of short-term thinking at the expense of long-term investing,” said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week.",
+   "quote_zh": "美国证券交易委员会委员丹尼尔·加拉格尔本周在一次演讲中说：「短期思维似乎占据了上风，而这是以牺牲长期投资为代价的。」",
+   "source": "2019 英语一 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 2,
+   "years_seen": [
+    2019,
+    2021
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c007",
+   "type": "expression",
+   "headword": "on behalf of",
+   "phonetic": "/bɪˈhɑːf/",
+   "pos": "prep. phrase",
+   "meaning": "代表…／为了…的利益",
+   "note": "正式语体，写作可替换 for；注意与 on the part of（就…而言）区分。",
+   "quote": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders.",
+   "quote_zh": "在公司内部，合理的薪酬设计能激励高管不只考虑自己的任期，而是代表全体利益相关者思考。",
+   "source": "2019 英语一 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "写作可迁移",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c008",
+   "type": "expression",
+   "headword": "do one's utmost",
+   "phonetic": "/ˈʌtməʊst/",
+   "pos": "v. phrase",
+   "meaning": "竭尽全力",
+   "note": "比 try one's best 更书面；utmost 亦可作名词 the utmost，常与 to do 连用。",
+   "quote": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates.",
+   "quote_zh": "近年来这一鲜为人知的做法加速蔓延，因为各高校继续竭尽全力让学生留在学校（并继续缴费）、提高毕业率。",
+   "source": "2019 英语一 阅读 Text 2",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "教育与人才",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c009",
+   "type": "expression",
+   "headword": "in the best interest of",
+   "phonetic": "/ˈɪntrəst/",
+   "pos": "prep. phrase",
+   "meaning": "符合…的最大利益",
+   "note": "写作表立场：it is in the best interest of sb to do；interest 此处为「利益」僻义，非「兴趣」。",
+   "quote": "Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible—or at least appear to be.",
+   "quote_zh": "既然学生和家长指望大学文凭带来工作，培养出尽可能合格的毕业生——或至少看起来合格——就符合学校的最大利益。",
+   "source": "2019 英语一 阅读 Text 2",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "教育与人才",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "写作可迁移",
+    "易错义"
+   ]
+  },
+  {
+   "id": "c010",
+   "type": "expression",
+   "headword": "let alone",
+   "phonetic": "/əˈləʊn/",
+   "pos": "conj. phrase",
+   "meaning": "更不用说／遑论",
+   "note": "用于递进否定，后接与前项同语法形式的成分；比 not to mention 更强调「后者更不可能」。",
+   "quote": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist.",
+   "quote_zh": "斯坦福大学神经科学家大卫·伊格曼说，人类如何思考仍复杂到难以理解，更遑论复制。",
+   "source": "2019 英语一 阅读 Text 3",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "c011",
+   "type": "expression",
+   "headword": "in exchange for",
+   "phonetic": "/ɪksˈtʃeɪndʒ/",
+   "pos": "prep. phrase",
+   "meaning": "作为…的交换",
+   "note": "写作表「以劳动／资源换取…」，常与 provide / offer / be provided 连用。",
+   "quote": "In some ways the scientific publishing model resembles the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places.",
+   "quote_zh": "在某些方面，科学出版模式类似于社交互联网的经济：劳动被免费提供，以换取地位的希望，而巨额利润却由运营市场的少数大公司赚走。",
+   "source": "2020 英语一 阅读 Text 2",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c012",
+   "type": "expression",
+   "headword": "level the playing field",
+   "phonetic": "/ˈlevl/",
+   "pos": "v. phrase",
+   "meaning": "创造公平竞争环境",
+   "note": "商业／政策写作高频比喻，主语常为 policy/regulation；反义 tilt the playing field。",
+   "quote": "Progressives often support diversity mandates as a path to equality and a way to level the playing field.",
+   "quote_zh": "进步派常把多元化强制规定视为通向平等之路、也是创造公平竞争环境的一种方式。",
+   "source": "2020 英语一 阅读 Text 3",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "法律与治理",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "c013",
+   "type": "expression",
+   "headword": "a case in point",
+   "phonetic": "/keɪs/",
+   "pos": "n. phrase",
+   "meaning": "一个恰当的例证",
+   "note": "举例衔接语，比 for example 更强调「典型性」；常与 provide / be 连用。",
+   "quote": "A pair of bills sponsored by Massachusetts state Senator Jason Lewis and House Speaker Pro Tempore Patricia Haddad, to ensure “gender parity” on boards and commissions, provide a case in point.",
+   "quote_zh": "马萨诸塞州参议员杰森·刘易斯与众议院临时议长帕特里夏·哈达德提出的两项旨在确保委员会「性别均等」的法案，正是一个恰当例证。",
+   "source": "2020 英语一 阅读 Text 3",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "法律与治理",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "c014",
+   "type": "expression",
+   "headword": "frown on/upon",
+   "phonetic": "/fraʊn/",
+   "pos": "v. phrase",
+   "meaning": "不赞成、不认可",
+   "note": "表机构态度的书面短语，主语常为 court/regulator；比 disapprove of 更含「皱眉否决」的意味。",
+   "quote": "The US Supreme Court frowns on sex-based classifications unless they are designed to address an “important” policy interest.",
+   "quote_zh": "美国最高法院不认可基于性别的分类，除非这类分类旨在服务于「重大」政策利益。",
+   "source": "2020 英语一 阅读 Text 3",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "法律与治理",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移",
+    "态度词"
+   ]
+  },
+  {
+   "id": "c015",
+   "type": "expression",
+   "headword": "keep up with",
+   "phonetic": "/kiːp/",
+   "pos": "v. phrase",
+   "meaning": "跟上（发展／步伐）",
+   "note": "写作表「制度／法规跟不上现实」用 fail to keep up with；勿与 catch up with（追赶）混用。",
+   "quote": "In other words, they all share a view that the international tax system has failed to keep up with the current economy.",
+   "quote_zh": "换句话说，它们都持有一个共同看法：国际税收体系已未能跟上当前经济的步伐。",
+   "source": "2020 英语一 阅读 Text 4",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c016",
+   "type": "expression",
+   "headword": "follow suit",
+   "phonetic": "/suːt/",
+   "pos": "v. phrase",
+   "meaning": "效仿、照做",
+   "note": "写作表「一国／一企先行、其余跟进」，suit 无冠词、无数变化。",
+   "quote": "France's planned tax is a clear warning: Unless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit",
+   "quote_zh": "法国拟议的税是一项明确警告：除非能就改革国际税收体系达成广泛共识，否则其他国家很可能纷纷效仿。",
+   "source": "2020 英语一 阅读 Text 4",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "c017",
+   "type": "expression",
+   "headword": "on the grounds that",
+   "phonetic": "/ɡraʊndz/",
+   "pos": "conj. phrase",
+   "meaning": "以…为理由／依据",
+   "note": "正式引出论据的连词短语，写作可替换 because 而更显客观；grounds 恒用复数。",
+   "quote": "Successive governments have permitted such increases on the grounds that the cost of investing in and running the rail network should be borne by those who use it, rather than the general taxpayer.",
+   "quote_zh": "历届政府允许此类涨价，理由是铁路网的投资与运营成本应由使用者承担，而非全体纳税人。",
+   "source": "2021 英语一 阅读 Text 1",
+   "year": 2021,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c018",
+   "type": "expression",
+   "headword": "have no option but to",
+   "phonetic": "/ˈɒpʃn/",
+   "pos": "v. phrase",
+   "meaning": "别无选择只能…",
+   "note": "but 后接动词原形（to do）；写作表被动处境，语气强于 have to。",
+   "quote": "It has become a grimly reliable annual ritual: every January the cost of travelling by train rises, imposing a significant extra burden on those who have no option but to use the rail network to get to work or otherwise.",
+   "quote_zh": "这已成了一项残酷而准时的年度惯例：每年一月火车票价上涨，给那些别无选择、只能靠铁路通勤的人增添了沉重负担。",
+   "source": "2021 英语一 阅读 Text 1",
+   "year": 2021,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c019",
+   "type": "expression",
+   "headword": "in the wake of",
+   "phonetic": "/weɪk/",
+   "pos": "prep. phrase",
+   "meaning": "紧随…之后／作为…的后果",
+   "note": "写作表因果兼时间：in the wake of + 事件；勿与 in the wake（在尾流中）混。",
+   "quote": "That means more battles like the one now going on between the Justice Department and California, which enacted a tough net neutrality law in the wake of the FCC's abdication.",
+   "quote_zh": "这意味着还会有更多像司法部与加州之间这样的较量——在 FCC 放弃职责之后，加州通过了一部严厉的网络中立法。",
+   "source": "2021 英语一 阅读 Text 4",
+   "year": 2021,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c020",
+   "type": "expression",
+   "headword": "at stake",
+   "phonetic": "/steɪk/",
+   "pos": "prep. phrase",
+   "meaning": "处于风险／利害攸关",
+   "note": "常与 more / much / something 连用：more is at stake here；写作表「事关重大」。",
+   "quote": "Old objects continue to deteriorate. Worse, biodegradable plastics, designed to disintegrate, are increasingly common. And more is at stake here than individual objects.",
+   "quote_zh": "旧物件持续劣化；更糟的是，为易于降解而设计的可生物降解塑料日益普遍。而这里利害攸关的还不只是单件物品。",
+   "source": "2022 英语一 阅读 Text 1",
+   "year": 2022,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "科学与技术",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c021",
+   "type": "expression",
+   "headword": "pull out (of)",
+   "phonetic": "/pʊl/",
+   "pos": "v. phrase",
+   "meaning": "撤离、退出（军队／协议／市场）",
+   "note": "写作可替换 withdraw from。按公开真题原文校订，取 2024 英语一 Text 1 开头的稳定片段。",
+   "quote": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things.",
+   "quote_zh": "大约两千年前，罗马人开始撤离苏格兰时，留下了一桩奇珍：10 吨钉子，将近一百万颗。",
+   "source": "2024 英语一 阅读 Text 1",
+   "year": 2024,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "科学与技术",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2024
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "c022",
+   "type": "word",
+   "headword": "disproportionately",
+   "phonetic": "/ˌdɪsprəˈpɔːʃənətli/",
+   "pos": "adv.",
+   "meaning": "不成比例地、格外地",
+   "note": "修饰受冲击最重的群体，含「比例失衡」义；另见 2023 英语一 Text 1「a disproportionate influence」。",
+   "quote": "About half of U.S. jobs are at high risk of being automated, according to a University of Oxford study, with the middle class disproportionately squeezed.",
+   "quote_zh": "牛津大学一项研究显示，美国约一半岗位面临被自动化的高风险，其中中产阶级承受的压力格外不成比例。",
+   "source": "2018 英语一 阅读 Text 1",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2018,
+    2023
+   ],
+   "tags": [
+    "写作可迁移",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c023",
+   "type": "word",
+   "headword": "upheaval",
+   "phonetic": "/ʌpˈhiːvl/",
+   "pos": "n.",
+   "meaning": "（社会／技术）剧变、动荡",
+   "note": "比 change 强烈，常搭配 technological / political / economic upheaval。",
+   "quote": "This isn't to be alarmist. Optimists point out that technological upheaval has benefited workers in the past.",
+   "quote_zh": "这并非危言耸听。乐观主义者指出，技术剧变过去曾让劳动者受益。",
+   "source": "2018 英语一 阅读 Text 1",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c024",
+   "type": "word",
+   "headword": "indispensable",
+   "phonetic": "/ˌɪndɪˈspensəbl/",
+   "pos": "adj.",
+   "meaning": "不可或缺的",
+   "note": "语气强于 necessary；常作表语 be indispensable to/for。",
+   "quote": "Destroying the machines that are coming for our jobs would be nuts. But policies to help workers adapt will be indispensable.",
+   "quote_zh": "砸掉那些来抢我们饭碗的机器是疯狂的，但帮助劳动者适应的政策将不可或缺。",
+   "source": "2018 英语一 阅读 Text 1",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "态度词"
+   ]
+  },
+  {
+   "id": "c025",
+   "type": "word",
+   "headword": "dynamism",
+   "phonetic": "/ˈdaɪnəmɪzəm/",
+   "pos": "n.",
+   "meaning": "活力、动能",
+   "note": "经济类抽象名词，常搭配 business / economic dynamism；fading dynamism 表「活力衰退」。",
+   "quote": "The challenge of coping with automation underlines the need for the U.S. to revive its fading business dynamism: Starting new companies must be made easier.",
+   "quote_zh": "应对自动化的挑战凸显出美国重振其日渐衰退的商业活力的必要：必须让创办新公司更容易。",
+   "source": "2018 英语一 阅读 Text 1",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c026",
+   "type": "word",
+   "headword": "dizzying",
+   "phonetic": "/ˈdɪziɪŋ/",
+   "pos": "adj.",
+   "meaning": "令人眼花缭乱的、多得惊人的",
+   "note": "由 dizzy 派生，真题形容「种类之多令人目眩」；写作可替换 staggering / overwhelming。",
+   "quote": "The variety of plastic objects at risk is dizzying: early radios, avant-garde sculptures, celluloid animation stills from Disney films, the first artificial heart.",
+   "quote_zh": "面临风险的塑料制品种类多得令人目眩：早期收音机、先锋派雕塑、迪士尼动画赛璐璐片、第一颗人造心脏。",
+   "source": "2022 英语一 阅读 Text 1",
+   "year": 2022,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "态度词",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c027",
+   "type": "word",
+   "headword": "scrutinise",
+   "phonetic": "/ˈskruːtɪnaɪz/",
+   "pos": "v.",
+   "meaning": "仔细审查",
+   "note": "被动式 be carefully scrutinised 常见于监管语境；名词 scrutiny，美式拼 scrutinize。",
+   "quote": "Further arrangements—and there may be many—between the NHS and DeepMind will be carefully scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned.",
+   "quote_zh": "NHS 与 DeepMind 之间今后的安排——可能还有很多——将被仔细审查，以确保已征得患者一切必要许可、并清除所有不必要的数据。",
+   "source": "2018 英语一 阅读 Text 3",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "长难句",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c028",
+   "type": "word",
+   "headword": "maladapted",
+   "phonetic": "/ˌmæləˈdæptɪd/",
+   "pos": "adj.",
+   "meaning": "不适应的、错配的",
+   "note": "mal- + adapted；真题指「用隐私法约束科技巨头显得不对症」，写作可批评政策工具错配。",
+   "quote": "The use of privacy law to curb the tech giants in this instance feels slightly maladapted. This practice does not address the real worry.",
+   "quote_zh": "在此例中用隐私法来遏制科技巨头，显得有些不对症。这种做法并没有触及真正的担忧。",
+   "source": "2018 英语一 阅读 Text 3",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "c029",
+   "type": "word",
+   "headword": "monopoly",
+   "phonetic": "/məˈnɒpəli/",
+   "pos": "n.",
+   "meaning": "垄断（企业／权力）",
+   "note": "常搭配 private / state monopoly；2018 Text 3 指「用公共资源开发算法的私人垄断企业」。",
+   "quote": "What matters is that they will belong to a private monopoly which developed them using public resources.",
+   "quote_zh": "关键在于，这些算法将归属于一家用公共资源把它们开发出来的私人垄断企业。",
+   "source": "2018 英语一 阅读 Text 3",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c030",
+   "type": "word",
+   "headword": "unanimous",
+   "phonetic": "/juˈnænɪməs/",
+   "pos": "adj.",
+   "meaning": "全体一致的",
+   "note": "法律语境高频：a unanimous ruling / unanimously upheld；另见 2021 英语一 Text 4「the appeals court unanimously upheld the 2017 order」。",
+   "quote": "In a rare unanimous ruling, the US Supreme Court has overturned the corruption conviction of a former Virginia governor, Robert McDonnell.",
+   "quote_zh": "在一项罕见的一致裁决中，美国最高法院推翻了对前弗吉尼亚州州长罗伯特·麦克唐纳的腐败定罪。",
+   "source": "2017 英语一 阅读 Text 4",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 2,
+   "freq": 2,
+   "years_seen": [
+    2017,
+    2021
+   ],
+   "tags": [
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c031",
+   "type": "word",
+   "headword": "favoritism",
+   "phonetic": "/ˈfeɪvərɪtɪzəm/",
+   "pos": "n.",
+   "meaning": "徇私、偏袒",
+   "note": "由 favor 派生；真题刻意区分「favoritism ... is not always corruption」，是治理类写作的精确用词。",
+   "quote": "Favoritism in official access can fan public perceptions of corruption. But it is not always corruption.",
+   "quote_zh": "公务接洽上的偏袒会助长公众对腐败的观感，但它并不总是腐败。",
+   "source": "2017 英语一 阅读 Text 4",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "抽象名词",
+    "态度词"
+   ]
+  },
+  {
+   "id": "c032",
+   "type": "word",
+   "headword": "transparency",
+   "phonetic": "/trænsˈpærənsi/",
+   "pos": "n.",
+   "meaning": "透明度",
+   "note": "治理类抽象名词：government transparency / well-enforced laws；另见 2019 英语一 Text 3「decisions ... should be explainable, transparent, and fair」。",
+   "quote": "This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying, and information about each elected leader's source of wealth.",
+   "quote_zh": "这种廉洁需要政府透明度方面执行有力的法律，例如公务会面记录、游说规则，以及每位民选领导人财富来源的信息公开。",
+   "source": "2017 英语一 阅读 Text 4",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2017,
+    2019
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c033",
+   "type": "word",
+   "headword": "esteemed",
+   "phonetic": "/ɪˈstiːmd/",
+   "pos": "adj.",
+   "meaning": "受尊敬的、德高望重的",
+   "note": "过去分词形容词，常见于 most esteemed members；比 respected 更书面。",
+   "quote": "“The ancient Hawaiians were astronomers,” wrote Queen Liliuokalani, Hawaii's last reigning monarch, in 1897. Star watchers were among the most esteemed members of Hawaiian society.",
+   "quote_zh": "「古夏威夷人都是天文学家，」夏威夷末代君主利留卡拉尼女王在 1897 年写道。观星者曾是夏威夷社会中最受尊敬的成员之一。",
+   "source": "2017 英语一 阅读 Text 2",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "传媒与文化",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "态度词"
+   ]
+  },
+  {
+   "id": "c034",
+   "type": "word",
+   "headword": "renaissance",
+   "phonetic": "/rɪˈneɪsns/",
+   "pos": "n.",
+   "meaning": "复兴、再生",
+   "note": "不只指「文艺复兴」；真题「a living culture undergoing a renaissance」表文化复兴，常搭配 undergo / enjoy a renaissance。",
+   "quote": "Hawaiian culture is not a relic of the past; it is a living culture undergoing a renaissance today.",
+   "quote_zh": "夏威夷文化并非过去的遗物，而是当今正在经历复兴的活态文化。",
+   "source": "2017 英语一 阅读 Text 2",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "抽象名词",
+    "易错义"
+   ]
+  },
+  {
+   "id": "c035",
+   "type": "word",
+   "headword": "predominance",
+   "phonetic": "/prɪˈdɒmɪnəns/",
+   "pos": "n.",
+   "meaning": "主导地位、占优",
+   "note": "抽象名词，动词 predominate；与 at the expense of 同句，写作用 a predominance of A over B。",
+   "quote": "“There seems to be a predominance of short-term thinking at the expense of long-term investing,” said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week.",
+   "quote_zh": "美国证券交易委员会委员丹尼尔·加拉格尔本周在一次演讲中说：「短期思维似乎占据了上风，而这是以牺牲长期投资为代价的。」",
+   "source": "2019 英语一 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c036",
+   "type": "word",
+   "headword": "transient",
+   "phonetic": "/ˈtrænziənt/",
+   "pos": "adj.",
+   "meaning": "短暂的、流动性的",
+   "note": "金融语境指「短线（投资）者」，与 long-term 相对；勿与 transitory 混用。",
+   "quote": "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research or to build up customer loyalty.",
+   "quote_zh": "要求公司交出高额季度利润的短线投资者，会阻碍企业投入长期研究或培养客户忠诚度。",
+   "source": "2019 英语一 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "长难句"
+   ]
+  },
+  {
+   "id": "c037",
+   "type": "word",
+   "headword": "stakeholder",
+   "phonetic": "/ˈsteɪkhəʊldə(r)/",
+   "pos": "n.",
+   "meaning": "利益相关者",
+   "note": "商业伦理高频词，与 shareholder（股东）区分：all stakeholders 覆盖面更广。",
+   "quote": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders.",
+   "quote_zh": "在公司内部，合理的薪酬设计能激励高管不只考虑自己的任期，而是代表全体利益相关者思考。",
+   "source": "2019 英语一 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c038",
+   "type": "word",
+   "headword": "legitimacy",
+   "phonetic": "/lɪˈdʒɪtɪməsi/",
+   "pos": "n.",
+   "meaning": "合法性、正当性",
+   "note": "常搭配 lose / lack / undermine legitimacy；形容词 legitimate。",
+   "quote": "The success of Sci-Hub, which relies on researchers passing on copies they have themselves legally accessed, shows the legal ecosystem has lost legitimacy among its users and must be transformed so that it works for all participants.",
+   "quote_zh": "Sci-Hub 的成功依赖研究者传递自己合法获取的论文副本，这表明合法生态体系已在用户中失去正当性，必须被改造以服务所有参与者。",
+   "source": "2020 英语一 阅读 Text 2",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c039",
+   "type": "word",
+   "headword": "albeit",
+   "phonetic": "/ˌɔːlˈbiːɪt/",
+   "pos": "conj.",
+   "meaning": "尽管、虽然",
+   "note": "正式连词，后接形容词／短语而非完整从句，写作可精简 although 引导的从句。",
+   "quote": "She is proud that several sculptures have even gone on display again, albeit sometimes beneath protective cases.",
+   "quote_zh": "她颇为自豪的是，有几件雕塑甚至重新展出，尽管有时仍罩在保护柜里。",
+   "source": "2022 英语一 阅读 Text 1",
+   "year": 2022,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "逻辑连接",
+    "易错义"
+   ]
+  },
+  {
+   "id": "c040",
+   "type": "word",
+   "headword": "mitigation",
+   "phonetic": "/ˌmɪtɪˈɡeɪʃn/",
+   "pos": "n.",
+   "meaning": "缓解、减轻",
+   "note": "气候政策高频术语：mitigation measures 减缓措施；动词 mitigate，与 adaptation（适应）相对。",
+   "quote": "These would emphasise the primacy of human activity in recent climate change and encourage discussion of mitigation measures.",
+   "quote_zh": "这些标准将强调人类活动在近期气候变化中的首要作用，并鼓励讨论减缓措施。",
+   "source": "2023 英语一 阅读 Text 1",
+   "year": 2023,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2023
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c041",
+   "type": "polyseme",
+   "headword": "drag",
+   "phonetic": "/dræɡ/",
+   "pos": "n.",
+   "meaning": "（僻义）累赘、拖累",
+   "common_meaning": "拖、拽（动词）",
+   "rare_meaning": "阻碍、负担（a drag on + 抽象名词）",
+   "note": "真题「Wasted time is a drag on Americans' economic and private lives」——固定搭配 a drag on sth 表「拖累…」，与「拖曳」义落差明显。",
+   "quote": "Wasted time is a drag on Americans' economic and private lives, not to mention infuriating.",
+   "quote_zh": "浪费的时间是美国人经济与私人生活的累赘，更别提还令人恼火。",
+   "source": "2017 英语一 阅读 Text 1",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "易错义",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c042",
+   "type": "polyseme",
+   "headword": "buy",
+   "phonetic": "/baɪ/",
+   "pos": "v.",
+   "meaning": "（关系 / 人脉）可用钱买到、打通；被收买",
+   "common_meaning": "购买（商品）",
+   "rare_meaning": "（关系 / 人脉）用钱打通、被收买（被动 be bought）",
+   "note": "「If connections can be bought」中 buy 呼应全篇 bribery 语境，指「人脉可用钱买到」，非购物义。",
+   "quote": "If connections can be bought, a basic premise of democratic society—that all are equal in treatment by government—is undermined.",
+   "quote_zh": "如果人脉可以花钱买到，民主社会「政府对所有人都一视同仁」这一基本前提便遭破坏。",
+   "source": "2017 英语一 阅读 Text 4",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c043",
+   "type": "polyseme",
+   "headword": "dismiss",
+   "phonetic": "/dɪsˈmɪs/",
+   "pos": "v.",
+   "meaning": "（僻义）不予考虑、把…斥为",
+   "common_meaning": "解雇、解散",
+   "rare_meaning": "不考虑／驳回；dismiss ... as ... 把…当作…而不屑一顾",
+   "note": "真题两见：2018 英语一 Text 1「Don't dismiss that possibility entirely」（排除可能性）；本句 dismiss ... as ... 表「把…斥为」。",
+   "quote": "“They casually dismiss the career work of scholars and scientists as just another misguided opinion.”",
+   "quote_zh": "「他们轻率地把学者和科学家毕生的研究斥为又一种被误导的见解。」",
+   "source": "2023 英语一 阅读 Text 1",
+   "year": 2023,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2018,
+    2023
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "c044",
+   "type": "polyseme",
+   "headword": "giant",
+   "phonetic": "/ˈdʒaɪənt/",
+   "pos": "n.",
+   "meaning": "（僻义）巨匠、巨头（企业）",
+   "common_meaning": "巨人（童话／身材）",
+   "rare_meaning": "（某领域）巨擘；行业巨头",
+   "note": "2019 Text 1「a giant of classical economics」指马歇尔；2020 Text 2「The Dutch giant Elsevier」指出版巨头 Elsevier。",
+   "quote": "He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like “children who pick the plums out of their pudding to eat them at once” rather than putting them aside to be eaten last.",
+   "quote_zh": "他援引古典经济学巨匠阿尔弗雷德·马歇尔，把这种金融上的急躁比作「小孩把布丁里的李子挑出来立刻吃掉」，而不是留到最后再吃。",
+   "source": "2019 英语一 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2019,
+    2020
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c045",
+   "type": "polyseme",
+   "headword": "code",
+   "phonetic": "/kəʊd/",
+   "pos": "n.",
+   "meaning": "（僻义）法典、法规、行为准则",
+   "common_meaning": "密码、代码、邮政编码",
+   "rare_meaning": "法典（tax code 税法）／准则（voluntary code 自愿行为规范）",
+   "note": "同年两篇互证：2019 Text 1「changes in the tax code」与 2019 Text 3「a voluntary code for the ethical use of AI」；写代码 ≠ code of law。",
+   "quote": "Whenever decisions are based on masses of data, “you quickly get into a lot of ethical questions,” notes Tan Kiat How, chief executive of a Singapore-based agency that is helping the government develop a voluntary code for the ethical use of AI.",
+   "quote_zh": "新加坡一家机构首席执行官陈杰豪指出，每当决策基于海量数据，「你很快就会陷入一大堆伦理问题」；该机构正协助政府制定一套 AI 伦理使用的自愿行为准则。",
+   "source": "2019 英语一 阅读 Text 3",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c046",
+   "type": "polyseme",
+   "headword": "address",
+   "phonetic": "/əˈdres/",
+   "pos": "v.",
+   "meaning": "（僻义）处理、解决（问题）",
+   "common_meaning": "地址；向…发表演讲",
+   "rare_meaning": "处理、应对（问题／担忧／需求）",
+   "note": "三处真题互证：2018 Text 3「does not address the real worry」、2020 Text 3「designed to address an 'important' policy interest」、2021 Text 1「measures to address the long-running problems」；写作高频替换 deal with。",
+   "quote": "The use of privacy law to curb the tech giants in this instance feels slightly maladapted. This practice does not address the real worry.",
+   "quote_zh": "在此例中用隐私法来遏制科技巨头，显得有些不对症。这种做法并没有触及真正的担忧。",
+   "source": "2018 英语一 阅读 Text 3",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 3,
+   "years_seen": [
+    2018,
+    2020,
+    2021
+   ],
+   "tags": [
+    "易错义",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "c047",
+   "type": "polyseme",
+   "headword": "embrace",
+   "phonetic": "/ɪmˈbreɪs/",
+   "pos": "v.",
+   "meaning": "（僻义）欣然接受、信奉（文化／理念）",
+   "common_meaning": "拥抱（肢体动作）",
+   "rare_meaning": "主动接纳、拥抱（抽象事物）",
+   "note": "「to embrace their cultural heritage」非肢体动作；写作可替换 welcome / adopt，带积极态度色彩。",
+   "quote": "There is no reason why everyone cannot be welcomed on Mauna Kea to embrace their cultural heritage and to study the stars.",
+   "quote_zh": "没有理由不让所有人都能在莫纳克亚山上受到欢迎，去拥抱自己的文化遗产、去研究星辰。",
+   "source": "2017 英语一 阅读 Text 2",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "传媒与文化",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "c048",
+   "type": "polyseme",
+   "headword": "sound",
+   "phonetic": "/saʊnd/",
+   "pos": "adj.",
+   "meaning": "（僻义）健全的、可靠的、严谨的",
+   "common_meaning": "声音；听起来（系动词）",
+   "rare_meaning": "（形容词）扎实可靠的、无懈可击的",
+   "note": "「facts and sound scholarship」中 sound 修饰学术研究；同类搭配 sound reasoning / sound judgment。",
+   "quote": "“What millions of Texas kids learn in their public schools is determined too often by the political ideology of partisan board members, rather than facts and sound scholarship.”",
+   "quote_zh": "「数百万得州孩子在公立学校学到什么，往往由党派倾向的委员的政治意识形态决定，而非事实与严谨的学术。」",
+   "source": "2023 英语一 阅读 Text 1",
+   "year": 2023,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2023
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "c049",
+   "type": "polyseme",
+   "headword": "preserve",
+   "phonetic": "/prɪˈzɜːv/",
+   "pos": "n.",
+   "meaning": "（僻义）专属领域、独占之物",
+   "common_meaning": "保护、保存（动词）；果酱",
+   "rare_meaning": "（名词，前加 the）某群体的专属领地／专利",
+   "note": "「the preserve of the super-rich」中 preserve 为名词，必定带 the；常见 the preserve of + 群体。",
+   "quote": "A flashing set of healthy and clean, regular “pearly whites” was a rare sight in Victorian society, the preserve of the super-rich (and even then, dental hygiene was not guaranteed).",
+   "quote_zh": "在维多利亚社会，一口整齐洁净、闪亮的「皓齿」极为罕见，是超级富豪的专属（即便如此，口腔卫生也并无保证）。",
+   "source": "2021 英语一 阅读 Text 3",
+   "year": 2021,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c050",
+   "type": "polyseme",
+   "headword": "becoming",
+   "phonetic": "/bɪˈkʌmɪŋ/",
+   "pos": "adj.",
+   "meaning": "（僻义）得体的、相称的",
+   "common_meaning": "become 的现在分词「变成」",
+   "rare_meaning": "（形容词）合宜的、体面的",
+   "note": "「it was not a becoming look for properly bred persons」中 becoming 是形容词，义为「得体的」，与「变成」无关。",
+   "quote": "A toothy grin (especially when there were gaps or blackened teeth) lacked class: drunks, tramps and music hall performers might gurn and grin with a smile as wide as Lewis Carroll's gum-exposing Cheshire Cat, but it was not a becoming look for properly bred persons.",
+   "quote_zh": "露齿大笑（尤其牙有缺口或发黑时）有失体面：醉汉、流浪汉和歌舞厅艺人或会咧嘴扮鬼脸，笑得像《爱丽丝》里露龈的柴郡猫，但对教养良好之人而言，这并非得体的模样。",
+   "source": "2021 英语一 阅读 Text 3",
+   "year": 2021,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "历史与语言",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c051",
+   "type": "polyseme",
+   "headword": "take",
+   "phonetic": "/teɪk/",
+   "pos": "n.",
+   "meaning": "（僻义）看法、立场、版本",
+   "common_meaning": "拿、取、带（动词）",
+   "rare_meaning": "（名词）立场、诠释，one's take on sth",
+   "note": "「the latest take of the FCC on net neutrality」中 take 为名词，常搭配 take on sth；口语 one's take 亦常见。",
+   "quote": "At issue before the U.S. Court of Appeals for the District of Columbia Circuit was the latest take of the Federal Communications Commission (FCC) on net neutrality, adopted on a party-line vote in 2017.",
+   "quote_zh": "哥伦比亚特区巡回上诉法院审理的争点，是联邦通信委员会 2017 年经党派路线投票通过的、对网络中立性的最新立场。",
+   "source": "2021 英语一 阅读 Text 4",
+   "year": 2021,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c052",
+   "type": "polyseme",
+   "headword": "pen",
+   "phonetic": "/pen/",
+   "pos": "v.",
+   "meaning": "（僻义）撰写、起草",
+   "common_meaning": "钢笔；围栏（名词）",
+   "rare_meaning": "（动词）起草、撰写；过去分词 penned 常作前置定语",
+   "note": "两处真题：2021 Text 4「The Republican-penned order」（共和党人起草的命令）、2022 Text 2「students pen their undergraduate application form」。",
+   "quote": "The Republican-penned order not only eliminated the strict net neutrality rules the FCC had adopted when it had a Democratic majority in 2015, but rejected the commission's authority to require broadband providers to do much of anything.",
+   "quote_zh": "这份由共和党人起草的命令，不仅废除了 FCC 在 2015 年民主党占多数时通过的严格网络中立规则，还否定了该委员会要求宽带商有所作为的权力。",
+   "source": "2021 英语一 阅读 Text 4",
+   "year": 2021,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2021,
+    2022
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c053",
+   "type": "polyseme",
+   "headword": "save (for)",
+   "phonetic": "/seɪv/",
+   "pos": "prep.",
+   "meaning": "（僻义）除了、除…之外",
+   "common_meaning": "拯救、节省、储蓄（动词）",
+   "rare_meaning": "（介词）除…之外，等于 except for",
+   "note": "「save for many selective campuses」= except for；正式书面语，多见于英式文本。",
+   "quote": "But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+   "quote_zh": "但如今除许多选拔性强的院校外，多数高校允许所有本科生、甚至研究生把低分「宽恕」掉。",
+   "source": "2019 英语一 阅读 Text 2",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "教育与人才",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "c054",
+   "type": "polyseme",
+   "headword": "provisions",
+   "phonetic": "/prəˈvɪʒnz/",
+   "pos": "n. pl.",
+   "meaning": "（僻义）法律条款、规定",
+   "common_meaning": "供应、准备；食品储备",
+   "rare_meaning": "（法律文件的）条款、规定",
+   "note": "两处真题：2020 Text 4「new international tax provisions」、2022 Text 4「The personal grievance provisions of ... Act 2000」；单数 provision 亦指「规定」。",
+   "quote": "Instead, the digital services tax is part of a much larger trend, with countries over the past few years proposing or putting in place an alphabet soup of new international tax provisions.",
+   "quote_zh": "相反，数字服务税是一个更大趋势的一部分：过去几年各国纷纷提出或实施一大堆以字母缩写命名的国际税收新条款。",
+   "source": "2020 英语一 阅读 Text 4",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2020,
+    2022
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c055",
+   "type": "polyseme",
+   "headword": "secure",
+   "phonetic": "/sɪˈkjʊə(r)/",
+   "pos": "v.",
+   "meaning": "（僻义）获得、弄到手",
+   "common_meaning": "安全的（形容词）；安保",
+   "rare_meaning": "（动词，经努力）获得、确保取得",
+   "note": "「With the content of papers secured for free」中 secured 是过去分词，表「被免费取得」；商务语境 secure a contract / secure funding。",
+   "quote": "With the content of papers secured for free, the publisher needs only find a market for its journal.",
+   "quote_zh": "论文内容既然免费到手，出版商只需为期刊找到市场即可。",
+   "source": "2020 英语一 阅读 Text 2",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "c056",
+   "type": "polyseme",
+   "headword": "weep",
+   "phonetic": "/wiːp/",
+   "pos": "v.",
+   "meaning": "（僻义）渗出、滴出液体",
+   "common_meaning": "哭泣、流泪",
+   "rare_meaning": "（物体）渗出液体；真题用引号标示拟人化转义",
+   "note": "「They 'weep' out additives」描述塑料老化析出增塑剂，与「流泪」形成义项落差。",
+   "quote": "But some plastic materials change over time. They crack and frizzle. They “weep” out additives. They melt into sludge.",
+   "quote_zh": "但有些塑料材料会随时间变化：开裂、卷曲，把添加剂「渗」出来，最后融成黏泥。",
+   "source": "2022 英语一 阅读 Text 1",
+   "year": 2022,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "科学与技术",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "c057",
+   "type": "theme",
+   "headword": "algorithm",
+   "phonetic": "/ˈælɡərɪðəm/",
+   "pos": "n.",
+   "meaning": "算法；（引申）平台自动化决策规则",
+   "note": "AI 治理主题核心术语，2018 Text 3「the algorithms DeepMind develops will benefit patients」；常搭配 develop / train / bias in algorithms。",
+   "quote": "It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives.",
+   "quote_zh": "仅仅说 DeepMind 开发的算法将造福患者、挽救生命，是不够的。",
+   "source": "2018 英语一 阅读 Text 3",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c058",
+   "type": "theme",
+   "headword": "surveillance",
+   "phonetic": "/sɜːˈveɪləns/",
+   "pos": "n.",
+   "meaning": "监控、监视",
+   "note": "两处真题：2018 Text 3「the surveillance economy」、2019 Text 3「use AI for surveillance that would violate international norms」；搭配 mass / digital surveillance。",
+   "quote": "That misses the way the surveillance economy works. The data of an individual there gains its value only when it is compared with the data of countless millions more.",
+   "quote_zh": "这没有看清「监控经济」的运作方式：在那里，个体数据只有与千百万人的数据比对时才产生价值。",
+   "source": "2018 英语一 阅读 Text 3",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2018,
+    2019
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c059",
+   "type": "theme",
+   "headword": "digital feudalism",
+   "phonetic": "/ˈdɪdʒɪtl ˈfjuːdəlɪzəm/",
+   "pos": "n. phrase",
+   "meaning": "数字封建主义",
+   "note": "2018 Text 3 造词，喻少数科技巨头掌控数据、用户沦为附庸；写作可作数据垄断的批判性术语。",
+   "quote": "We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later. A long struggle will be needed to avoid a future of digital feudalism.",
+   "quote_zh": "我们仍处在这场革命的开端，当下的微小选择日后可能产生巨大后果；要避免「数字封建主义」的未来，仍需长期斗争。",
+   "source": "2018 英语一 阅读 Text 3",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "抽象名词",
+    "态度词"
+   ]
+  },
+  {
+   "id": "c060",
+   "type": "theme",
+   "headword": "short-termism",
+   "phonetic": "/ˌʃɔːt ˈtɜːmɪzəm/",
+   "pos": "n.",
+   "meaning": "短期主义",
+   "note": "2019 Text 1 全文主题词，与 long-termism / quarterly capitalism 同现；-ism 表「…主义」。",
+   "quote": "“Short-termism,” or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England's top economist, Andrew Haldane.",
+   "quote_zh": "英格兰银行首席经济学家安德鲁·霍尔丹说，「短期主义」、即对快速获利的渴求，在上市公司中已愈发严重。",
+   "source": "2019 英语一 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语一",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c061",
+   "type": "theme",
+   "headword": "incentive",
+   "phonetic": "/ɪnˈsentɪv/",
+   "pos": "n.",
+   "meaning": "激励、动机",
+   "note": "两处真题：2019 Text 1「provide incentives for executives」、2021 Text 4「had the power and incentive to favor affiliated websites」；常搭配 provide / create / distort incentives。",
+   "quote": "From the early days of broadband, advocates for consumers and web-based companies worried that the cable and phone companies selling broadband connections had the power and incentive to favor affiliated websites over their rivals'.",
+   "quote_zh": "自宽带出现之初，消费者权益倡导者和网络公司就担心，出售宽带接入的有线与电话公司既有能力、也有动机偏袒关联网站而非竞争对手。",
+   "source": "2021 英语一 阅读 Text 4",
+   "year": 2021,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2019,
+    2021
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c062",
+   "type": "theme",
+   "headword": "profit margin",
+   "phonetic": "/ˈprɒfɪt ˈmɑːdʒɪn/",
+   "pos": "n. phrase",
+   "meaning": "利润率",
+   "note": "2020 Text 2「profit margins approaching 40%」与「existential crisis」对照，写作谈行业暴利可用。",
+   "quote": "Scientific publishers routinely report profit margins approaching 40% on their operations, at a time when the rest of the publishing industry is in an existential crisis.",
+   "quote_zh": "科学出版商通常报出其运营利润率接近 40%，而与此同时出版业其余部分正深陷生存危机。",
+   "source": "2020 英语一 阅读 Text 2",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c063",
+   "type": "theme",
+   "headword": "productivity",
+   "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+   "pos": "n.",
+   "meaning": "生产率",
+   "note": "两处真题：2018 Text 1「automation should eventually boost productivity」、2022 Text 4「a handbrake on boosting productivity」；boost / hamper productivity 是固定评价框架。",
+   "quote": "As countless boards and business owners will attest, constraining firms from firing poorly performing, high-earning managers is a handbrake on boosting productivity and overall performance.",
+   "quote_zh": "正如无数董事会和企业主会证实的那样，限制企业解雇表现不佳的高薪经理，无异于给提升生产率和整体绩效踩了手刹。",
+   "source": "2022 英语一 阅读 Text 4",
+   "year": 2022,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2018,
+    2022
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c064",
+   "type": "theme",
+   "headword": "well-being",
+   "phonetic": "/ˌwel ˈbiːɪŋ/",
+   "pos": "n.",
+   "meaning": "福祉、幸福感",
+   "note": "两处真题：2017 Text 3「convert growth into well-being」「a person's sense of well-being」、2022 Text 4「overall well-being」；GDP 批判与政策评价的核心抽象名词。",
+   "quote": "A recent annual study of countries and their ability to convert growth into well-being sheds some light on that question.",
+   "quote_zh": "一项关于各国把增长转化为福祉之能力的最新年度研究，为这一问题提供了一些线索。",
+   "source": "2017 英语一 阅读 Text 3",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 3",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 2,
+   "years_seen": [
+    2017,
+    2022
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "c065",
+   "type": "theme",
+   "headword": "regulatory",
+   "phonetic": "/ˌreɡjuˈleɪtəri/",
+   "pos": "adj.",
+   "meaning": "监管的、管制的",
+   "note": "两处真题：2018 Text 4「a regulatory structure that denies management the flexibility」、2021 Text 4「anti-regulatory conservatives」「deregulating broadband providers」；反义 deregulatory。",
+   "quote": "Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality.",
+   "quote_zh": "根本上，美国邮政陷入历史性挤压：一边是技术变革永久压低了对其拳头产品——一类邮件——的需求，一边是监管架构剥夺了管理层按新现实调整经营的灵活性。",
+   "source": "2018 英语一 阅读 Text 4",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2018,
+    2021
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c066",
+   "type": "theme",
+   "headword": "consensus",
+   "phonetic": "/kənˈsensəs/",
+   "pos": "n.",
+   "meaning": "共识",
+   "note": "两处真题：2020 Text 4「reach a consensus on an international solution」、2023 Text 1「reflect scientific consensus on climate change」；常搭配 reach / broad / scientific consensus。",
+   "quote": "In response to these many unilateral measures, the Organization for Economic Cooperation and Development (OECD) is currently working with 131 countries to reach a consensus by the end of 2020 on an international solution.",
+   "quote_zh": "为应对这些单边举措，经合组织正与 131 个国家合作，力争在 2020 年底前就国际解决方案达成共识。",
+   "source": "2020 英语一 阅读 Text 4",
+   "year": 2020,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2020,
+    2023
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c067",
+   "type": "theme",
+   "headword": "net neutrality",
+   "phonetic": "/net njuːˈtræləti/",
+   "pos": "n. phrase",
+   "meaning": "网络中立（性）",
+   "note": "2021 Text 4 主题术语：宽带商应平等对待所有流量；常与 deregulation / broadband providers 同现。",
+   "quote": "At issue before the U.S. Court of Appeals for the District of Columbia Circuit was the latest take of the Federal Communications Commission (FCC) on net neutrality, adopted on a party-line vote in 2017.",
+   "quote_zh": "哥伦比亚特区巡回上诉法院审理的争点，是联邦通信委员会 2017 年经党派路线投票通过的、对网络中立性的最新立场。",
+   "source": "2021 英语一 阅读 Text 4",
+   "year": 2021,
+   "paper": "英语一",
+   "section": "阅读 Text 4",
+   "topic": "法律与治理",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "c068",
+   "type": "theme",
+   "headword": "media literacy",
+   "phonetic": "/ˈmiːdiə ˈlɪtərəsi/",
+   "pos": "n. phrase",
+   "meaning": "媒介素养",
+   "note": "假新闻治理主题核心词，2018 Text 2「beef up their media literacy skills」；常搭配 improve / teach media literacy。",
+   "quote": "Yet as distrust has risen toward all media, people may be starting to beef up their media literacy skills. Such a trend is badly needed.",
+   "quote_zh": "然而随着对所有媒体的不信任上升，人们或许正开始增强自身的媒介素养技能；这种趋势亟需。",
+   "source": "2018 英语一 阅读 Text 2",
+   "year": 2018,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "传媒与文化",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "抽象名词",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "c069",
+   "type": "theme",
+   "headword": "cultural heritage",
+   "phonetic": "/ˈkʌltʃərəl ˈherɪtɪdʒ/",
+   "pos": "n. phrase",
+   "meaning": "文化遗产",
+   "note": "2017 Text 2「embrace their cultural heritage」；文化保护主题术语，与 sacred land / renaissance 同篇。",
+   "quote": "There is no reason why everyone cannot be welcomed on Mauna Kea to embrace their cultural heritage and to study the stars.",
+   "quote_zh": "没有理由不让所有人都能在莫纳克亚山上受到欢迎，去拥抱自己的文化遗产、去研究星辰。",
+   "source": "2017 英语一 阅读 Text 2",
+   "year": 2017,
+   "paper": "英语一",
+   "section": "阅读 Text 2",
+   "topic": "传媒与文化",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  }
+ ]
+}

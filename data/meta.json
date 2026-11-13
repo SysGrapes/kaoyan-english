@@ -1,0 +1,84 @@
+{
+  "total": 347,
+  "raw": 411,
+  "sources": 115,
+  "types": {
+    "polyseme": 81,
+    "theme": 65,
+    "expression": 101,
+    "word": 100
+  },
+  "topics": {
+    "科技与AI": 18,
+    "科学与技术": 24,
+    "法律与治理": 44,
+    "经济与商业": 69,
+    "职场与就业": 24,
+    "教育与人才": 16,
+    "传媒与文化": 33,
+    "心理与行为": 41,
+    "社会与人口": 29,
+    "环境与能源": 34,
+    "历史与语言": 10,
+    "医学与健康": 5
+  },
+  "papers": {
+    "英语一": 209,
+    "英语二": 145
+  },
+  "year_min": 2005,
+  "year_max": 2025,
+  "top_freq": [
+    {
+      "headword": "address",
+      "freq": 7,
+      "type": "polyseme"
+    },
+    {
+      "headword": "peer review",
+      "freq": 4,
+      "type": "theme"
+    },
+    {
+      "headword": "court",
+      "freq": 4,
+      "type": "theme"
+    },
+    {
+      "headword": "cure",
+      "freq": 3,
+      "type": "polyseme"
+    },
+    {
+      "headword": "incentive",
+      "freq": 3,
+      "type": "theme"
+    },
+    {
+      "headword": "productivity",
+      "freq": 3,
+      "type": "theme"
+    },
+    {
+      "headword": "at the expense of",
+      "freq": 3,
+      "type": "expression"
+    },
+    {
+      "headword": "thorny",
+      "freq": 3,
+      "type": "word"
+    },
+    {
+      "headword": "provisions",
+      "freq": 3,
+      "type": "polyseme"
+    },
+    {
+      "headword": "legitimacy",
+      "freq": 3,
+      "type": "theme"
+    }
+  ],
+  "problems": []
+}

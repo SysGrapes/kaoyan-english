@@ -1,0 +1,1823 @@
+{
+ "segment": "英语二 2017–2025",
+ "agent": "E",
+ "entries": [
+  {
+   "id": "e001",
+   "type": "expression",
+   "headword": "in conjunction with",
+   "phonetic": "/kənˈdʒʌŋkʃn/",
+   "pos": "prep. phrase",
+   "meaning": "与……一道、连同……（伴随发生）",
+   "note": "书面语中表「伴随/连同」，比 together with 正式；2017 Text3「social pressure ... in conjunction with increasingly high expectations」同考点复现，写作可替换 along with。",
+   "quote": "Unlike so-called basic emotions such as sadness, fear, and anger, guilt emerges a little later, in conjunction with a child's growing grasp of social and moral norms.",
+   "quote_zh": "与悲伤、恐惧、愤怒等所谓的基本情绪不同，内疚感出现得稍晚，是伴随儿童对社会与道德规范的日渐掌握而产生的。",
+   "source": "2019 英语二 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 2,
+   "years_seen": [
+    2017,
+    2019
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "e002",
+   "type": "expression",
+   "headword": "at the expense of",
+   "phonetic": "/ɪkˈspens/",
+   "pos": "prep. phrase",
+   "meaning": "以……为代价、牺牲……",
+   "note": "议论文高频让步框架；原文 it shouldn't come at the expense of the rest of the equation 用 equation（整体权衡）作宾语，形象说明「不能只盯气候这一个因素」。",
+   "quote": "While climate is a key element, Moritz says, it shouldn't come at the expense of the rest of the equation.",
+   "quote_zh": "莫里茨说，气候虽是关键因素，却不应以牺牲其余因素为代价。",
+   "source": "2017 英语二 阅读 Text 4",
+   "year": 2017,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "e003",
+   "type": "expression",
+   "headword": "tease out",
+   "phonetic": "/tiːz/",
+   "pos": "v. phrase",
+   "meaning": "梳理出、厘清（复杂难辨的关系）",
+   "note": "tease 本义「挑线头/梳理毛发」，引申为从纷杂信息中耐心辨明；tease out the connection / the causes 是学术写作高阶动词短语。",
+   "quote": "It is really important to understand and try and tease out what is the human connection with fire today.",
+   "quote_zh": "理解并设法厘清当今人与火之间的联系，确实十分重要。",
+   "source": "2017 英语二 阅读 Text 4",
+   "year": 2017,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e004",
+   "type": "expression",
+   "headword": "pick up momentum",
+   "phonetic": "/məˈmentəm/",
+   "pos": "v. phrase",
+   "meaning": "势头渐增、加速推进",
+   "note": "由物理「动量」引申为趋势的推进力；a movement / a trend picks up momentum 可直接迁移到图表作文与议论文。",
+   "quote": "The move to renewables is picking up momentum around the world: They now account for more than half of new power sources going on line.",
+   "quote_zh": "向可再生能源的转型在全球范围内势头渐增：它们如今占新增电力来源的一半以上。",
+   "source": "2018 英语二 阅读 Text 2",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e005",
+   "type": "expression",
+   "headword": "place big bets on",
+   "phonetic": "/bet/",
+   "pos": "v. phrase",
+   "meaning": "在……上下重注、重金押注（看好某前景）",
+   "note": "由「下赌注」引申为「大规模投入/押宝」，比 invest heavily in 更具画面感；原文指车企押注电池电动车。",
+   "quote": "The advance is driven in part by vehicle manufacturers, who are placing big bets on battery-powered electric vehicles.",
+   "quote_zh": "这一进展部分由汽车制造商推动，他们正重金押注电池驱动的电动汽车。",
+   "source": "2018 英语二 阅读 Text 2",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e006",
+   "type": "expression",
+   "headword": "dismiss ... as",
+   "phonetic": "/dɪsˈmɪs/",
+   "pos": "v. structure",
+   "meaning": "把……轻视为、以……为由不予考虑",
+   "note": "dismiss A as B 是「把 A 当作 B 而打发掉」的及物框架；2018 Text2「dismissed wind power as an unreliable energy source」与 2022 Text1「dismissed as a niche product」两处复现，均含「当初不被看好」的今昔反差。",
+   "quote": "In a recent speech in Iowa, he dismissed wind power as an unreliable energy source.",
+   "quote_zh": "他近期在艾奥瓦州的一次演讲中，把风能斥为一种不可靠的能源而不予考虑。",
+   "source": "2018 英语二 阅读 Text 2",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 2,
+   "years_seen": [
+    2018,
+    2022
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e007",
+   "type": "expression",
+   "headword": "be attuned to",
+   "phonetic": "/əˈtjuːnd/",
+   "pos": "adj. phrase",
+   "meaning": "对……高度敏感、与……协调一致",
+   "note": "attune 由「调音」引申；be highly attuned to social signals 指动物对社交信号的敏锐捕捉，写作可迁移为 be attuned to market changes / public opinion。",
+   "quote": "Rats and other animals need to be highly attuned to social signals from others so they can identify friends to cooperate with and enemies to avoid.",
+   "quote_zh": "老鼠及其他动物需要对同类的社交信号高度敏感，才能辨明哪些是可与之合作的朋友、哪些是须躲避的敌人。",
+   "source": "2020 英语二 阅读 Text 1",
+   "year": 2020,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e008",
+   "type": "expression",
+   "headword": "return the favour",
+   "phonetic": "/ˈfeɪvə(r)/",
+   "pos": "v. phrase",
+   "meaning": "回报、还人情",
+   "note": "固定搭配，与 do sb a favour 同源；原文用于「互惠」假设：老鼠期待机器鼠投桃报李，是解释合作行为的关键词。",
+   "quote": "This could lead to the rats better remembering having freed it earlier, and wanting the robot to return the favour when they get trapped, she says.",
+   "quote_zh": "她说，这可能使老鼠更好地记住自己此前曾解救过它，并在自己被困时希望机器鼠回报这份人情。",
+   "source": "2020 英语二 阅读 Text 1",
+   "year": 2020,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e009",
+   "type": "expression",
+   "headword": "in lockstep with",
+   "phonetic": "/ˈlɒkstep/",
+   "pos": "prep. phrase",
+   "meaning": "与……步调一致、同步变动",
+   "note": "lockstep 本义「齐步行进」；rise in lockstep with 是经济评论高频表达，指两个变量高度同步，比 in line with 更强调「亦步亦趋」。",
+   "quote": "In fact, overall CEO compensation for the top companies rises pretty much in lockstep with the value of those companies on the stock market.",
+   "quote_zh": "事实上，头部公司 CEO 的整体薪酬，几乎与这些公司在股市上的市值同步上涨。",
+   "source": "2020 英语二 阅读 Text 2",
+   "year": 2020,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e010",
+   "type": "expression",
+   "headword": "up one's game",
+   "phonetic": "/ɡeɪm/",
+   "pos": "v. phrase",
+   "meaning": "提升水平、拿出更好表现",
+   "note": "口语化但已进入财经评论；upped their game relative to ... 意为「相较……大幅提高了本事」，为 CEO 高薪辩护。写作可迁移为 firms / students up their game。",
+   "quote": "It's not popular to say, but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U.S. economy.",
+   "quote_zh": "这话不太中听，但他们薪酬涨得如此之多的一个原因是：相较美国经济中的许多其他劳动者，CEO 们确实大幅提升了自身本事。",
+   "source": "2020 英语二 阅读 Text 2",
+   "year": 2020,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e011",
+   "type": "expression",
+   "headword": "buy one's way out of",
+   "phonetic": "/weɪ/",
+   "pos": "v. phrase",
+   "meaning": "靠花钱摆脱（问题）、用钱摆平",
+   "note": "buy 后接 way out of，含明显反讽；原文以 except we can't 自我否定，直击「靠消费解决环境危机」的虚妄，与文中「Lead with your wallets」呼应。",
+   "quote": "If only I'd realized that we can buy our way out of the problem—except we can't.",
+   "quote_zh": "要是我早意识到能靠花钱摆平这个问题就好了——可惜我们并不能。",
+   "source": "2019 英语二 阅读 Text 4",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "写作可迁移",
+    "态度词"
+   ]
+  },
+  {
+   "id": "e012",
+   "type": "expression",
+   "headword": "put ... into perspective",
+   "phonetic": "/pəˈspektɪv/",
+   "pos": "v. phrase",
+   "meaning": "客观看待、摆正……的位置（不夸大也不抹杀）",
+   "note": "固定搭配 put sth into / in perspective；原文与 None of this is about writing off the individual 连用，用于收束全文、平衡语气。",
+   "quote": "None of this is about writing off the individual. It's just about putting things into perspective.",
+   "quote_zh": "这一切并非要否定个人的作用，只是要把事情摆到恰当的位置来看。",
+   "source": "2019 英语二 阅读 Text 4",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e013",
+   "type": "expression",
+   "headword": "rein in",
+   "phonetic": "/reɪn/",
+   "pos": "v. phrase",
+   "meaning": "抑制、约束（冲动/势力）",
+   "note": "rein 本义「缰绳」，rein in one's impulses / rein in polluting businesses 是「勒住」的形象表达；2019 Text1 与 Text4 分别用于约束冲动与约束污染企业。",
+   "quote": "Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses.",
+   "quote_zh": "一些共情能力较低的孩子，可能通过体验更多内疚来弥补这一不足，而内疚能约束他们较为恶劣的冲动。",
+   "source": "2019 英语二 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e014",
+   "type": "expression",
+   "headword": "to the benefit of all concerned",
+   "phonetic": "/kənˈsɜːnd/",
+   "pos": "prep. phrase",
+   "meaning": "对有关各方都有利",
+   "note": "concerned 作后置定语意为「相关的」；to the benefit of all concerned / to everyone's benefit 是议论文收尾的高阶表达，比 good for everyone 正式。",
+   "quote": "But even if you cannot close that gap, maybe you can close others, and doing so would be to the benefit of all concerned.",
+   "quote_zh": "但即便你无法弥合那一缺口，或许能弥合其他缺口，而这样做对所有相关方都有好处。",
+   "source": "2021 英语二 阅读 Text 1",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e015",
+   "type": "expression",
+   "headword": "keep pace",
+   "phonetic": "/peɪs/",
+   "pos": "v. phrase",
+   "meaning": "跟上（变化/增长的）步伐",
+   "note": "keep pace with 表「与……同步」；原文 double to keep pace 指农业产量须翻倍才能跟上需求，写作可迁移为 supply / skills must keep pace with demand。",
+   "quote": "With the global population predicted to hit close to 10 billion by 2050, and forecasts that agricultural production in some regions will need to nearly double to keep pace, food security is increasingly making headlines.",
+   "quote_zh": "据预测，到 2050 年全球人口将逼近 100 亿，且有预测称部分地区农业产量需接近翻倍才能跟上步伐，粮食安全正日益成为头条话题。",
+   "source": "2021 英语二 阅读 Text 2",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e016",
+   "type": "expression",
+   "headword": "open the floodgates for",
+   "phonetic": "/ˈflʌdɡeɪt/",
+   "pos": "v. phrase",
+   "meaning": "为……打开闸门、使……大量涌现",
+   "note": "floodgate 本义「防洪闸」；open the floodgates for / to 常接后续连锁事物，含「一发不可收」之意，写作可用于技术/政策的外溢效应。",
+   "quote": "If the sustainable-egg rollout is successful, it could open the floodgates for regenerative beef, broccoli, and beyond.",
+   "quote_zh": "倘若这种可持续鸡蛋的推广取得成功，便可能为再生牛肉、西兰花乃至更多品类打开闸门。",
+   "source": "2022 英语二 阅读 Text 1",
+   "year": 2022,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e017",
+   "type": "expression",
+   "headword": "be chalked up to",
+   "phonetic": "/tʃɔːk/",
+   "pos": "v. phrase",
+   "meaning": "被归因于、被算作……的结果",
+   "note": "chalk up 本义「用粉笔记（分数）」，chalk sth up to 引申为「把……归于」；原文用于分析植物肉走红的成因，比 be attributed to 更轻巧。",
+   "quote": "some of the success of plant-based meat can be chalked up to shoppers wanting to signal their desire to protect the environment.",
+   "quote_zh": "植物肉的部分成功，可归因于购物者想借此表明自己保护环境的意愿。",
+   "source": "2022 英语二 阅读 Text 1",
+   "year": 2022,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e018",
+   "type": "expression",
+   "headword": "in anticipation of",
+   "phonetic": "/ænˌtɪsɪˈpeɪʃn/",
+   "pos": "prep. phrase",
+   "meaning": "预期到、为……预先做准备",
+   "note": "正式书面语，in anticipation of a longer life / rising demand 表「未雨绸缪」；比 expecting 更书面，可用于图表与政策作文。",
+   "quote": "Six in 10 \"unretirees\" are increasing their savings in anticipation of a longer life, according to the survey.",
+   "quote_zh": "调查显示，六成「不退休者」正因预期寿命更长而增加储蓄。",
+   "source": "2022 英语二 阅读 Text 2",
+   "year": 2022,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "职场与就业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "e019",
+   "type": "expression",
+   "headword": "comply with",
+   "phonetic": "/kəmˈplaɪ/",
+   "pos": "v. phrase",
+   "meaning": "遵守、符合（法规/标准）",
+   "note": "正式法律语体，comply with the safeguards / regulations；原文 must comply with the legal and policy safeguards in place 中 in place 意为「现行的」。",
+   "quote": "However, the use of artificial grass must comply with the legal and policy safeguards in place to protect biodiversity and ensure sustainable drainage",
+   "quote_zh": "然而，人造草坪的使用仍须遵守现行的法律与政策保障，以保护生物多样性并确保可持续排水。",
+   "source": "2023 英语二 阅读 Text 1",
+   "year": 2023,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2023
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e020",
+   "type": "expression",
+   "headword": "at the conclusion of",
+   "phonetic": "/kənˈkluːʒn/",
+   "pos": "prep. phrase",
+   "meaning": "在……结束时",
+   "note": "正式书面语，比 at the end of 更正式；原文列举用餐、理发、送披萨三个「服务完成」时点，与下文 tips to be requested beforehand（预先索要）形成鲜明对照。",
+   "quote": "Customers in the past nearly always paid tips after receiving a service, such as at the conclusion of a restaurant meal, after getting a haircut or once a pizza was delivered.",
+   "quote_zh": "过去，顾客几乎总是在接受服务之后才付小费，比如在餐厅用餐结束、理完发，或披萨送到之后。",
+   "source": "2025 英语二 阅读 Text 1",
+   "year": 2025,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2025
+   ],
+   "tags": [
+    "写作可迁移",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "e021",
+   "type": "word",
+   "headword": "insidious",
+   "phonetic": "/ɪnˈsɪdiəs/",
+   "pos": "adj.",
+   "meaning": "潜伏而有害的、暗中侵蚀的",
+   "note": "常修饰 prejudice / influence / decline，强调「不易察觉却有害」；原文 a kind of insidious prejudice 写出「动手做工被视为低人一等」这根深蒂固的偏见。",
+   "quote": "But he's also found a kind of insidious prejudice. Working with your hands is seen as almost a mark of inferiority.",
+   "quote_zh": "但他还发现一种不易察觉的偏见：靠双手干活儿几乎被看作低人一等的标志。",
+   "source": "2018 英语二 阅读 Text 1",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "教育与人才",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "态度词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e022",
+   "type": "word",
+   "headword": "one-size-fits-all",
+   "phonetic": "/wʌn/",
+   "pos": "adj. phrase",
+   "meaning": "一刀切的、无视差异统一套用的",
+   "note": "复合形容词，常用于批评教育/政策缺乏弹性；原文 When education becomes one-size-fits-all, it risks overlooking a nation's diversity of gifts 是全篇论点句。",
+   "quote": "When education becomes one-size-fits-all, it risks overlooking a nation's diversity of gifts.",
+   "quote_zh": "当教育变成一刀切，就有可能忽视一个国度里禀赋的多样性。",
+   "source": "2018 英语二 阅读 Text 1",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "教育与人才",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "态度词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e023",
+   "type": "word",
+   "headword": "plummeting",
+   "phonetic": "/ˈplʌmɪtɪŋ/",
+   "pos": "adj.",
+   "meaning": "（价格）暴跌的、直线下降的",
+   "note": "2018 Text2 词义题考点（plummeting = falling）；plummet 强调「垂直坠落」，与 soaring / spiking 方向相反，勿混。",
+   "quote": "But increasingly the story is about the plummeting prices of renewables, especially wind and solar.",
+   "quote_zh": "但越来越多地，话题转向了可再生能源——尤其是风能与太阳能——价格的暴跌。",
+   "source": "2018 英语二 阅读 Text 2",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "e024",
+   "type": "word",
+   "headword": "intricate",
+   "phonetic": "/ˈɪntrɪkət/",
+   "pos": "adj.",
+   "meaning": "错综精细的、盘根错节的",
+   "note": "修饰 web / network / system，强调细节交织难解；an intricate and finely detailed web of its users' friendships 写数据之精细。",
+   "quote": "What WhatsApp offered Facebook was an intricate and finely detailed web of its users' friendships and social lives.",
+   "quote_zh": "WhatsApp 提供给 Facebook 的，是一张关于其用户朋友圈与社会生活、错综而精细入微的关系网。",
+   "source": "2018 英语二 阅读 Text 3",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e025",
+   "type": "word",
+   "headword": "minimalist",
+   "phonetic": "/ˈmɪnɪməlɪst/",
+   "pos": "adj.",
+   "meaning": "极简的、只保留最基本要素的",
+   "note": "由 minimal + -ist 构成，常修饰 design / architecture；原文机器人鼠 quite minimalist 与下文 simple plastic box on wheels 呼应，反衬实验结论的意外。",
+   "quote": "The robot rats were quite minimalist, resembling a chunkier version of a computer mouse with wheels to move around and colourful markings.",
+   "quote_zh": "这些机器鼠做得相当简陋，活像一只加了轮子、涂了彩色标记、更厚实些的电脑鼠标。",
+   "source": "2020 英语二 阅读 Text 1",
+   "year": 2020,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e026",
+   "type": "word",
+   "headword": "detrimental",
+   "phonetic": "/ˌdetrɪˈmentl/",
+   "pos": "adj.",
+   "meaning": "有害的、不利的",
+   "note": "be detrimental to 是正式搭配；原文反讽「小善举甚至可能有碍」，因为它让人满足于「尽了自己的本分」而止步不前。",
+   "quote": "They could even be detrimental, satisfying a need to have \"done our bit\" without ever progressing onto bigger, bolder, more effective actions",
+   "quote_zh": "它们甚至可能有反效果：满足了「我尽了一份力」的心理，却再不会迈向更大、更大胆、更有效的行动。",
+   "source": "2019 英语二 阅读 Text 4",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "态度词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e027",
+   "type": "word",
+   "headword": "implausible",
+   "phonetic": "/ɪmˈplɔːzəbl/",
+   "pos": "adj.",
+   "meaning": "难以置信的、站不住脚的",
+   "note": "plausible（貌似合理的）加否定前缀；an implausible cure / explanation 表「经不起推敲」，是评价对策的高阶态度词。",
+   "quote": "One oft-debated cure for this labor shortage remains as implausible as it's been all along: Native U.S. workers won't be returning to the farm.",
+   "quote_zh": "针对这一劳动力短缺，一个被反复讨论的对策始终一如既往地不切实际：美国本土工人不会重返农田。",
+   "source": "2019 英语二 阅读 Text 3",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "态度词",
+    "易错义"
+   ]
+  },
+  {
+   "id": "e028",
+   "type": "word",
+   "headword": "buzzword",
+   "phonetic": "/ˈbʌzwɜːd/",
+   "pos": "n.",
+   "meaning": "时髦口号词、流行 buzz 词（常华而不实）",
+   "note": "buzz + word，多含轻微贬义；sounds like a buzzword but is actually a requirement 用「看似口号实为刚需」制造转折，全文末句 more than a buzzword 与之呼应。",
+   "quote": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind.",
+   "quote_zh": "「再培训」听上去像个时髦口号，但如果我们希望未来大量准劳动者不掉队，它其实是一项硬性要求。",
+   "source": "2021 英语二 阅读 Text 1",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "态度词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e029",
+   "type": "word",
+   "headword": "thorny",
+   "phonetic": "/ˈθɔːni/",
+   "pos": "adj.",
+   "meaning": "棘手的、难处理的（问题）",
+   "note": "thorn（刺）+ -y；a thorny one 指代上句「谁为再培训买单」，是议论文引出难题的高阶形容词，可迁移 a thorny issue / question。",
+   "quote": "The question of who should pay for reskilling is a thorny one.",
+   "quote_zh": "究竟该由谁为再培训买单，是个棘手的问题。",
+   "source": "2021 英语二 阅读 Text 1",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "态度词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e030",
+   "type": "word",
+   "headword": "languid",
+   "phonetic": "/ˈlæŋɡwɪd/",
+   "pos": "adj.",
+   "meaning": "迟缓无力的、怠惰的（缺乏力度）",
+   "note": "多形容动作/努力「有气无力」，非单纯「疲倦」；arguably languid at best 意为「往好里说也不过是慢吞吞」，含明显批评态度。",
+   "quote": "Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers",
+   "quote_zh": "加拿大等地的相关努力，往好里说也不过是慢吞吞，以致我们常听到雇主苦求工人却仍一工难求。",
+   "source": "2021 英语二 阅读 Text 1",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "态度词",
+    "易错义"
+   ]
+  },
+  {
+   "id": "e031",
+   "type": "word",
+   "headword": "buy-in",
+   "phonetic": "/ˈbaɪ ɪn/",
+   "pos": "n.",
+   "meaning": "（利益相关者的）认可、支持、接纳",
+   "note": "由动词短语 buy in 转来的抽象名词；social buy-in 指「社会层面的认同」，是政策/变革语境高频词，need social buy-in 可直接迁移到写作。",
+   "quote": "\"These are transformative technologies that change the ways we spend our time every day, that change business models that succeed.\" To make such \"tremendous changes,\" she adds, you need social buy-in.",
+   "quote_zh": "「这些是变革性技术，会改变我们每天支配时间的方式，也会改变得以成功的商业模式。」她补充说，要促成这类「巨变」，你需要社会的认同与支持。",
+   "source": "2024 英语二 阅读 Text 1",
+   "year": 2024,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2024
+   ],
+   "tags": [
+    "抽象名词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e032",
+   "type": "word",
+   "headword": "stranglehold",
+   "phonetic": "/ˈstræŋɡlhəʊld/",
+   "pos": "n.",
+   "meaning": "掐脖式的控制、垄断性钳制",
+   "note": "strangle（勒）+ hold；loosening the stranglehold that Big Tech has on defining the AI agenda 用「松绑」比喻打破科技巨头对议题的垄断。",
+   "quote": "Part of the solution could lie in somehow loosening the stranglehold that Big Tech has on defining the AI agenda.",
+   "quote_zh": "部分解决办法，或许在于设法松动大型科技公司对 AI 议程定义权的钳制。",
+   "source": "2024 英语二 阅读 Text 1",
+   "year": 2024,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2024
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e033",
+   "type": "word",
+   "headword": "onslaught",
+   "phonetic": "/ˈɒnslɔːt/",
+   "pos": "n.",
+   "meaning": "猛烈冲击、攻势（常指来势汹汹之物）",
+   "note": "the onslaught of digital technologies 把技术浪潮写成「猛攻」，与 and the trend reversed itself 共现，是段落由「趋同」转「分化」的关键词。",
+   "quote": "Then, in the 1980s, came the onslaught of digital technologies, and the trend reversed itself.",
+   "quote_zh": "随后，20 世纪 80 年代数字技术汹涌而来，这一趋势随之逆转。",
+   "source": "2024 英语二 阅读 Text 1",
+   "year": 2024,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2024
+   ],
+   "tags": [
+    "抽象名词",
+    "态度词"
+   ]
+  },
+  {
+   "id": "e034",
+   "type": "word",
+   "headword": "converge",
+   "phonetic": "/kənˈvɜːdʒ/",
+   "pos": "v.",
+   "meaning": "（地区差距）趋同、收敛（经济学术语）",
+   "note": "常见义「汇聚于一点」，经济学中指落后地区向发达地区靠拢、差距缩小，与同句 financial disparities decreased 同义呼应，in the language of economists 已点明术语身份。",
+   "quote": "In the US, for instance, during much of the 20th century the various regions of the country were—in the language of economists—\"converging,\" and financial disparities decreased.",
+   "quote_zh": "以美国为例，20 世纪大部分时间里，用经济学家的话说，各地区一直在「趋同」，财力差距不断缩小。",
+   "source": "2024 英语二 阅读 Text 1",
+   "year": 2024,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2024
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e035",
+   "type": "word",
+   "headword": "roadblock",
+   "phonetic": "/ˈrəʊdblɒk/",
+   "pos": "n.",
+   "meaning": "障碍、拦路虎（本义路障）",
+   "note": "由「路障」引申为「推行某事受阻」；a roadblock to deploying AI 指不平等问题会成为 AI 落地的阻力，可迁移 a roadblock to reform / growth。",
+   "quote": "In a recent interview, Coyle said she fears that tech's inequality problem could be a roadblock to deploying AI.",
+   "quote_zh": "在近期一次访谈中，科伊尔表示担心科技业的不平等问题会成为部署 AI 的拦路虎。",
+   "source": "2024 英语二 阅读 Text 1",
+   "year": 2024,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "科技与AI",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2024
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e036",
+   "type": "word",
+   "headword": "simmer",
+   "phonetic": "/ˈsɪmə(r)/",
+   "pos": "v.",
+   "meaning": "（情绪）酝酿、暗自积聚（本义文火慢炖）",
+   "note": "resentment is simmering 用「文火慢炖」写怨气持续积聚、尚未爆发却已到临界，比 is growing 更具张力，是态度词链的高阶一环。",
+   "quote": "Instead, says Coyle, resentment is simmering among many as the benefits are perceived to go to elites in a handful of prosperous cities.",
+   "quote_zh": "科伊尔说，现实恰恰相反：由于人们认为好处都流向了少数繁荣城市的精英，怨气正在许多人心中暗暗积聚。",
+   "source": "2024 英语二 阅读 Text 1",
+   "year": 2024,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2024
+   ],
+   "tags": [
+    "态度词",
+    "易错义"
+   ]
+  },
+  {
+   "id": "e037",
+   "type": "word",
+   "headword": "caveat",
+   "phonetic": "/ˈkæviæt/",
+   "pos": "n.",
+   "meaning": "警示、附带说明、须留意之处",
+   "note": "源自拉丁语「让他当心」；There are many caveats to those figures, but they are still grave 提示数据需谨慎解读，是学术写作高频抽象名词。",
+   "quote": "There are many caveats to those figures, but they are still grave.",
+   "quote_zh": "对这些数字固然有诸多需要留意之处，但形势依然严峻。",
+   "source": "2021 英语二 阅读 Text 2",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "抽象名词",
+    "态度词"
+   ]
+  },
+  {
+   "id": "e038",
+   "type": "word",
+   "headword": "extraneous",
+   "phonetic": "/ɪkˈstreɪniəs/",
+   "pos": "adj.",
+   "meaning": "无关的、多余的（外来干扰）",
+   "note": "与 intrusive（侵入的）并列：deliberation can be not only extraneous but intrusive，写「深思熟虑」对直觉判断既多余又添乱；常与 to 连用。",
+   "quote": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to a five-minute interaction, and deliberation can be not only extraneous but intrusive.",
+   "quote_zh": "我们相当擅长依据第一印象——从瞥一眼照片到五分钟交谈这类「薄片式」经验——来判断人，而反复斟酌非但多余，反而会添乱。",
+   "source": "2021 英语二 阅读 Text 4",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "态度词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e039",
+   "type": "word",
+   "headword": "holistic",
+   "phonetic": "/həʊˈlɪstɪk/",
+   "pos": "adj.",
+   "meaning": "整体的、全盘的（而非拆解成细节）",
+   "note": "与 cues / interplay 对举：form a holistic impression 指靠微妙信号的交互形成整体印象，与「逐条分析」相反；a holistic approach 可迁移写作。",
+   "quote": "Ambady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than letting the complex interplay of subtle signals form a holistic impression.",
+   "quote_zh": "安巴迪推测，反复斟酌使他们只盯着某些生动却有误导性的线索（如某个手势或某句话），反而没能让微妙信号的复杂交互形成整体印象。",
+   "source": "2021 英语二 阅读 Text 4",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e040",
+   "type": "word",
+   "headword": "regenerative",
+   "phonetic": "/rɪˈdʒenərətɪv/",
+   "pos": "adj.",
+   "meaning": "再生的（指修复土壤/生态的农法）",
+   "note": "regenerative agriculture 是 2022 Text1 主题术语，指以培肥土壤、固碳为目标的耕作方式，区别于仅维持现状的「可持续」农业。",
+   "quote": "These eggs, which are making their debut now on shelves for as much as $8 a dozen, are still labeled organic and animal-friendly, but they're also from birds that live on farms using regenerative agriculture",
+   "quote_zh": "这些鸡蛋如今初登货架，一打售价高达 8 美元，仍贴着有机、动物友好的标签，但它们还来自采用再生农业的农场。",
+   "source": "2022 英语二 阅读 Text 1",
+   "year": 2022,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e041",
+   "type": "word",
+   "headword": "prevalence",
+   "phonetic": "/ˈprevələns/",
+   "pos": "n.",
+   "meaning": "普遍、盛行（某现象的广泛存在）",
+   "note": "由 prevalent 派生的抽象名词；The prevalence of digital payment devices ... 用「设备的普及」解释小费请求蔓延，写作可迁移 the prevalence of ...。",
+   "quote": "The prevalence of digital payment devices has made it easier to ask customers for a tip.",
+   "quote_zh": "数字支付设备的普及，让向顾客索要小费变得更容易了。",
+   "source": "2025 英语二 阅读 Text 1",
+   "year": 2025,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2025
+   ],
+   "tags": [
+    "抽象名词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e042",
+   "type": "word",
+   "headword": "deteriorating",
+   "phonetic": "/dɪˈtɪəriəreɪtɪŋ/",
+   "pos": "adj.",
+   "meaning": "退化的、恶化的",
+   "note": "human memory is not deteriorating but「adapting to ...」用 not ... but ... 否定「退化论」、提出「适应论」，是全文论点句；deteriorate 常搭配 conditions / health / memory。",
+   "quote": "In other words, human memory is not deteriorating but \"adapting to new communications technology,\" Sparrow says.",
+   "quote_zh": "斯帕罗说，换句话说，人类记忆并非在退化，而是在「适应新的通信技术」。",
+   "source": "2023 英语二 阅读 Text 3",
+   "year": 2023,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2023
+   ],
+   "tags": [
+    "态度词",
+    "逻辑连接"
+   ]
+  },
+  {
+   "id": "e043",
+   "type": "polyseme",
+   "headword": "game",
+   "phonetic": "/ɡeɪm/",
+   "pos": "n.",
+   "meaning": "（事态发展的）进程、局面；too late in the game 意为「为时已晚、拖到后期」",
+   "note": "2017 Text3「switching too late in the game」指换专业换得太晚，与「游戏/比赛」无关；in the game / ahead of the game 均可迁移到写作。",
+   "common_meaning": "游戏、比赛、一局",
+   "rare_meaning": "（事务的）进程、局面（in / late in the game）",
+   "quote": "It's not necessarily a bad thing, but depending on the school, it can be costly to make up credits after switching too late in the game.",
+   "quote_zh": "这未必是坏事，但视学校而定，若换专业换得太晚，补修学分可能代价不菲。",
+   "source": "2017 英语二 阅读 Text 3",
+   "year": 2017,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "教育与人才",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "e044",
+   "type": "polyseme",
+   "headword": "legacy",
+   "phonetic": "/ˈleɡəsi/",
+   "pos": "n.",
+   "meaning": "（重大事件留下的）长远影响、后续效应",
+   "note": "London's Olympic「legacy」指申办时承诺的「全民运动风潮」等长期效应，而非具体遗物；a legacy of ... 可迁移到写作。该段后句各转载页 lever/level 措辞不一，故只取无争议的连续原句。",
+   "common_meaning": "遗产（法律/财物上的遗留）",
+   "rare_meaning": "（重大事件的）长远影响、遗留效应",
+   "quote": "Parkrun is succeeding where London's Olympic \"legacy\" is failing. Ten years ago on Monday, it was announced that the Games of the 30th Olympiad would be in London.",
+   "quote_zh": "「公园跑」正取得成功，而伦敦奥运会的「遗产」却未能见效。十年前的周一，第 30 届奥运会宣布花落伦敦。",
+   "source": "2017 英语二 阅读 Text 1",
+   "year": 2017,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "社会与人口",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2017
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e045",
+   "type": "polyseme",
+   "headword": "cure",
+   "phonetic": "/kjʊə(r)/",
+   "pos": "n.",
+   "meaning": "（解决问题的）对策、办法（常含「想当然」意味）",
+   "note": "One oft-debated cure for this labor shortage 中 cure 的宾语是「劳动力短缺」而非疾病；a cure for unemployment / a cure-all 同此抽象义。",
+   "common_meaning": "v./n. 治愈、疗法（医学）",
+   "rare_meaning": "n. （社会问题的）对策、解决办法",
+   "quote": "One oft-debated cure for this labor shortage remains as implausible as it's been all along: Native U.S. workers won't be returning to the farm.",
+   "quote_zh": "针对这一劳动力短缺，一个被反复讨论的对策始终一如既往地不切实际：美国本土工人不会重返农田。",
+   "source": "2019 英语二 阅读 Text 3",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e046",
+   "type": "polyseme",
+   "headword": "grasp",
+   "phonetic": "/ɡrɑːsp/",
+   "pos": "n.",
+   "meaning": "理解、掌握（a grasp of ...）",
+   "note": "词性与义项双变：a child's growing grasp of social and moral norms 中 grasp 为名词后接 of 短语，have a good grasp of 是高频搭配，勿按「抓住」理解。",
+   "common_meaning": "v. 抓牢、紧握",
+   "rare_meaning": "n. 理解、掌握（a grasp of）",
+   "quote": "Unlike so-called basic emotions such as sadness, fear, and anger, guilt emerges a little later, in conjunction with a child's growing grasp of social and moral norms.",
+   "quote_zh": "与悲伤、恐惧、愤怒等所谓的基本情绪不同，内疚感出现得稍晚，是伴随儿童对社会与道德规范的日渐掌握而产生的。",
+   "source": "2019 英语二 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "e047",
+   "type": "polyseme",
+   "headword": "rap",
+   "phonetic": "/ræp/",
+   "pos": "n.",
+   "meaning": "（a bad rap）不公正的恶名、无端指责",
+   "note": "guilt still gets a bad rap 意为「内疚仍背负恶名」，rap 与「叩击/说唱」无关；give sth a bad rap / take the rap 可迁移。",
+   "common_meaning": "叩击（声）；说唱乐",
+   "rare_meaning": "不公正的指责、恶名（a bad rap）",
+   "quote": "In the popular imagination, of course, guilt still gets a bad rap.",
+   "quote_zh": "当然，在大众想象中，内疚感至今仍背负着恶名。",
+   "source": "2019 英语二 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "e048",
+   "type": "polyseme",
+   "headword": "equivalent",
+   "phonetic": "/ɪˈkwɪvələnt/",
+   "pos": "n.",
+   "meaning": "等同物、对应物（the equivalent of ...）",
+   "note": "形容词转名词，常与 of 连用；the emotional equivalent of wearing a jacket weighted with stones 用「穿一件缀满石头的夹克」把内疚之沉重具象化。",
+   "common_meaning": "adj. 相等的、等同的",
+   "rare_meaning": "n. 等同物、对应物（the equivalent of）",
+   "quote": "It is deeply uncomfortable—it's the emotional equivalent of wearing a jacket weighted with stones.",
+   "quote_zh": "它令人极不自在——在情绪上，就像穿着一件缀满石头的夹克。",
+   "source": "2019 英语二 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e049",
+   "type": "polyseme",
+   "headword": "glue",
+   "phonetic": "/ɡluː/",
+   "pos": "n.",
+   "meaning": "凝聚力、把群体粘合起来的力量",
+   "note": "It is a kind of social glue 把「内疚」比作维系合作物种的「社会黏合剂」，是抽象比喻义；the glue that holds ... together 可迁移写作。",
+   "common_meaning": "胶水、胶（黏合材料）",
+   "rare_meaning": "凝聚力、纽带（social glue）",
+   "quote": "Guilt, in other words, can help hold a cooperative species together. It is a kind of social glue.",
+   "quote_zh": "换言之，内疚有助于把一个合作型物种凝聚在一起，它就是一种社会黏合剂。",
+   "source": "2019 英语二 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e050",
+   "type": "polyseme",
+   "headword": "binary",
+   "phonetic": "/ˈbaɪnəri/",
+   "pos": "adj.",
+   "meaning": "非此即彼的、只有两极的（emotions aren't binary）",
+   "note": "由计算机「二进制」引申到情感判断：情绪并非非好即坏，在不同情境可能利弊互转；binary thinking / a binary view 可迁移到议论文。",
+   "common_meaning": "二进制的、由两部分组成的",
+   "rare_meaning": "非此即彼的、二元对立的",
+   "quote": "adding that this revival is part of a larger recognition that emotions aren't binary—feelings that may be advantageous in one context may be harmful in another.",
+   "quote_zh": "他补充说，这一反思源于一种更广的共识：情绪并非非此即彼——在某种情境有利的情感，在另一情境可能有害。",
+   "source": "2019 英语二 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e051",
+   "type": "polyseme",
+   "headword": "brush",
+   "phonetic": "/brʌʃ/",
+   "pos": "n.",
+   "meaning": "灌木丛、柴草（不可数；clear brush 清理灌木）",
+   "note": "thin out young trees and clear brush 中 brush 与 trees 并列指林地植被，若按「刷子」理解全句不通；为森林管理语境高频义。",
+   "common_meaning": "刷子、画笔；v. 刷、拂",
+   "rare_meaning": "灌木丛、低矮植被（不可数）",
+   "quote": "The state's proposed Forest Carbon Plan aims to double efforts to thin out young trees and clear brush in parts of the forest.",
+   "quote_zh": "该州拟议的「森林碳计划」旨在加倍努力，在部分林区疏伐幼树、清理灌木。",
+   "source": "2019 英语二 阅读 Text 2",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "e052",
+   "type": "polyseme",
+   "headword": "farm",
+   "phonetic": "/fɑːm/",
+   "pos": "v.",
+   "meaning": "像放牧/养殖一样从……持续采集（数据等）",
+   "note": "ants farm aphids for the honeydew ... so Google farms us for the data 以「蚂蚁放牧蚜虫取蜜露」类比「谷歌养殖用户取数据」，farm 的宾语是「人」，讽刺力极强。",
+   "common_meaning": "n. 农场；v. 务农、种地",
+   "rare_meaning": "v. 养殖式地从……持续采集（数据/资源）",
+   "quote": "Just as some ants farm the bugs called aphids for the honeydew they produce when they feed, so Google farms us for the data that our digital lives yield.",
+   "quote_zh": "正如某些蚂蚁「放牧」蚜虫、取其进食时分泌的蜜露，谷歌也「放牧」我们，收割我们数字生活所产出的数据。",
+   "source": "2018 英语二 阅读 Text 3",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e053",
+   "type": "polyseme",
+   "headword": "put-down",
+   "phonetic": "/ˈpʊt daʊn/",
+   "pos": "n.",
+   "meaning": "贬损的话、轻蔑的驳斥",
+   "note": "a quick put-down for skeptics 指「无风无光怎么办」那一问成了怀疑论者顺手抛出的奚落；由短语动词 put down 转名词，重音落在首音节。",
+   "common_meaning": "put down：放下、写下、镇压",
+   "rare_meaning": "n. 奚落、贬损的话",
+   "quote": "The question \"what happens when the wind doesn't blow or the sun doesn't shine?\" has provided a quick put-down for skeptics.",
+   "quote_zh": "「无风无光时怎么办？」这一问，成了怀疑论者随口抛出的一句轻蔑反驳。",
+   "source": "2018 英语二 阅读 Text 2",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2018
+   ],
+   "tags": [
+    "易错义"
+   ]
+  },
+  {
+   "id": "e054",
+   "type": "polyseme",
+   "headword": "culprit",
+   "phonetic": "/ˈkʌlprɪt/",
+   "pos": "n.",
+   "meaning": "（问题的）元凶、起因、症结",
+   "note": "Financial needs aren't the only culprit 中 culprit 指「成因」而非「人」；the main culprit behind ... 是归因写作高频框架。",
+   "common_meaning": "罪犯、肇事者",
+   "rare_meaning": "（问题的）元凶、起因",
+   "quote": "Financial needs aren't the only culprit for the \"unretirement\" trend. Other reasons, according to the study, include personal fulfillment such as staying mentally fit, preventing boredom or avoiding depression.",
+   "quote_zh": "财务需求并非「不退休」趋势的唯一成因；研究还列出其他原因，如保持脑力活跃、排遣无聊或避免抑郁等个人满足感。",
+   "source": "2022 英语二 阅读 Text 2",
+   "year": 2022,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "职场与就业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e055",
+   "type": "polyseme",
+   "headword": "nest eggs",
+   "phonetic": "/nest/",
+   "pos": "n. phrase",
+   "meaning": "积蓄、养老储备金",
+   "note": "preserve their nest eggs 指「守住养老积蓄」；nest egg 为可数习语，由「窝里留存之蛋」引申，勿按字面「巢中的蛋」理解。",
+   "common_meaning": "巢中之蛋（字面）",
+   "rare_meaning": "个人积蓄、养老储备金",
+   "quote": "Because of longer life spans, Americans are also boosting their savings to preserve their nest eggs",
+   "quote_zh": "由于寿命延长，美国人也在增加储蓄，以守住自己的养老本钱。",
+   "source": "2022 英语二 阅读 Text 2",
+   "year": 2022,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "易错义",
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e056",
+   "type": "polyseme",
+   "headword": "spike",
+   "phonetic": "/spaɪk/",
+   "pos": "v.",
+   "meaning": "急剧上升、飙升",
+   "note": "2018 Text2「the trend lines for renewables are spiking」与 2021 Text1「those rates had spiked up to 13.3 per cent」两处动词义复现；与「长钉/尖峰」名词义落差大，图表作文可迁移。",
+   "common_meaning": "n. 长钉、尖状物；图表的尖峰",
+   "rare_meaning": "v. 急剧上升、飙升（spike up to）",
+   "quote": "While there's a long way to go, the trend lines for renewables are spiking.",
+   "quote_zh": "尽管仍有很长的路要走，可再生能源的趋势线正在陡然上扬。",
+   "source": "2018 英语二 阅读 Text 2",
+   "year": 2018,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 2,
+   "years_seen": [
+    2018,
+    2021
+   ],
+   "tags": [
+    "易错义",
+    "态度词"
+   ]
+  },
+  {
+   "id": "e057",
+   "type": "polyseme",
+   "headword": "unleash",
+   "phonetic": "/ʌnˈliːʃ/",
+   "pos": "v.",
+   "meaning": "释放、使（力量/火/潜能）得以发挥",
+   "note": "2017 Text4「fire ... unleashed only out of necessity」与 2021 Text4「Intuition's special powers are unleashed」两处复现，前者是「放火」、后者是「释放潜能」，均由「解链放出」引申。",
+   "common_meaning": "解开皮带/锁链把（狗等）放出",
+   "rare_meaning": "释放（力量、火、潜能）",
+   "quote": "At the same time, people continue to treat fire as an event that needs to be wholly controlled and unleashed only out of necessity",
+   "quote_zh": "与此同时，人们仍把火看作一桩须被完全控制、只在万不得已时才「放出来」的事。",
+   "source": "2017 英语二 阅读 Text 4",
+   "year": 2017,
+   "paper": "英语二",
+   "section": "阅读 Text 4",
+   "topic": "环境与能源",
+   "difficulty": 2,
+   "freq": 2,
+   "years_seen": [
+    2017,
+    2021
+   ],
+   "tags": [
+    "易错义",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e058",
+   "type": "polyseme",
+   "headword": "tip",
+   "phonetic": "/tɪp/",
+   "pos": "v./n.",
+   "meaning": "小费；给小费",
+   "note": "2025 Text1 全篇主题词：tipped people / tip requests / tipflation；由「小额给付」义贯穿，与「尖端/提示」无关，且派生 tip creep / tipflation。",
+   "common_meaning": "尖端；小提示；倾斜",
+   "rare_meaning": "小费；给小费（并派生 tipflation）",
+   "quote": "U.S. customers historically tipped people they assumed were earning most of their income via tips, such as restaurant servers earning less than the minimum wage.",
+   "quote_zh": "美国顾客历来会给那些他们认定主要靠小费挣收入的人付小费，比如收入低于最低工资的餐馆服务员。",
+   "source": "2025 英语二 阅读 Text 1",
+   "year": 2025,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2025
+   ],
+   "tags": [
+    "易错义",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e059",
+   "type": "theme",
+   "headword": "skills mismatch",
+   "phonetic": "/ˈmɪsmætʃ/",
+   "pos": "n. phrase",
+   "meaning": "技能错配（劳动者技能与岗位需求脱节）",
+   "note": "2021 Text1 再培训议题的核心术语；When the skills mismatch is in the broader economy, the focus usually turns to government 点明「个体公司 vs 政府」的责任分界。",
+   "quote": "When the skills mismatch is in the broader economy, though, the focus usually turns to government to handle.",
+   "quote_zh": "不过，当技能错配出现在更广泛的经济层面时，焦点通常就转向由政府来应对。",
+   "source": "2021 英语二 阅读 Text 1",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e060",
+   "type": "theme",
+   "headword": "carbon sink",
+   "phonetic": "/sɪŋk/",
+   "pos": "n. phrase",
+   "meaning": "碳汇（吸收并储存二氧化碳的森林、海洋等）",
+   "note": "2019 Text2 森林与气候主题核心词，与 soak up carbon dioxide / emit more carbon than they absorb 构成词网；valuable「carbon sinks」加引号表术语。",
+   "quote": "Helping forests flourish as valuable \"carbon sinks\" long into the future may require reducing their capacity to absorb carbon now.",
+   "quote_zh": "要让森林长久地作为宝贵的「碳汇」繁茂生长，或许反而需要先降低它们当下吸碳的能力。",
+   "source": "2019 英语二 阅读 Text 2",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e061",
+   "type": "theme",
+   "headword": "niche product",
+   "phonetic": "/niːʃ/",
+   "pos": "n. phrase",
+   "meaning": "小众产品、利基产品",
+   "note": "商业主题术语；organic eggs went from being dismissed as a niche product ... to being sold at Walmart 用「从小众到大众」的时间线论证新品类的市场潜力。",
+   "quote": "In barely more than a decade, organic eggs went from being dismissed as a niche product in natural foods stores to being sold at Walmart.",
+   "quote_zh": "不过短短十余年，有机鸡蛋就从天然食品店里被视作小众产品，一路走进了沃尔玛。",
+   "source": "2022 英语二 阅读 Text 1",
+   "year": 2022,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2022
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e062",
+   "type": "theme",
+   "headword": "cognitive offloading",
+   "phonetic": "/ˈkɒɡnətɪv/",
+   "pos": "n. phrase",
+   "meaning": "认知卸载（把记忆任务外包给外部工具）",
+   "note": "2023 Text3 主题术语，原文以 a process known as「cognitive offloading」括注；与 external hard drive、data banks、adapting to new communications technology 构成同一主题域。",
+   "quote": "In a very practical way, the Internet is becoming an external hard drive for our memories, a process known as \"cognitive offloading.\"",
+   "quote_zh": "从很实际的意义上说，互联网正成为我们记忆的「外接硬盘」——这一过程被称为「认知卸载」。",
+   "source": "2023 英语二 阅读 Text 3",
+   "year": 2023,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "科技与AI",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2023
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e063",
+   "type": "theme",
+   "headword": "gig worker",
+   "phonetic": "/ɡɪɡ/",
+   "pos": "n. phrase",
+   "meaning": "零工经济从业者（短期、灵活接单的劳动者）",
+   "note": "数字经济与就业主题词；An economy of tech millionaires ... and gig workers, with middle-income jobs undercut by automation 勾勒「两头大、中间塌」的就业结构。",
+   "quote": "\"An economy of tech millionaires or billionaires and gig workers, with middle-income jobs undercut by automation, will not be politically sustainable.\"",
+   "quote_zh": "「一个由科技富豪与零工从业者构成、中等收入岗位被自动化掏空的经济体，在政治上是难以为继的。」",
+   "source": "2024 英语二 阅读 Text 1",
+   "year": 2024,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2024
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e064",
+   "type": "theme",
+   "headword": "disparity",
+   "phonetic": "/dɪˈspærəti/",
+   "pos": "n.",
+   "meaning": "（财富/机会的）差距、不均",
+   "note": "社会经济域高阶抽象名词；geographical disparities in wealth / financial disparities decreased 在 2024 Text1 两处出现，与 inequality、converging 构成反义/同义词网。",
+   "quote": "The dominance of a few cities in the invention and commercialization of AI means that geographical disparities in wealth will continue to soar.",
+   "quote_zh": "少数城市垄断了 AI 的发明与商业化，这意味着财富的地域差距将继续急剧扩大。",
+   "source": "2024 英语二 阅读 Text 1",
+   "year": 2024,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2024
+   ],
+   "tags": [
+    "抽象名词",
+    "写作可迁移"
+   ]
+  },
+  {
+   "id": "e065",
+   "type": "theme",
+   "headword": "social cues",
+   "phonetic": "/kjuː/",
+   "pos": "n. phrase",
+   "meaning": "社交信号、社会性线索",
+   "note": "心理与行为域术语；how sensitive rats are to social cues 与前文 detect social signals from robotic rats 呼应，cue 指「可据以作出反应的提示信号」。",
+   "quote": "The finding shows how sensitive rats are to social cues, even when they come from basic robots.",
+   "quote_zh": "这一发现表明，老鼠对社交信号何其敏感——即便这些信号来自简陋的机器人。",
+   "source": "2020 英语二 阅读 Text 1",
+   "year": 2020,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e066",
+   "type": "theme",
+   "headword": "reciprocity",
+   "phonetic": "/ˌresɪˈprɒsəti/",
+   "pos": "n.",
+   "meaning": "互惠、投桃报李（合作行为的机制）",
+   "note": "行为科学/进化心理学术语；direct reciprocity 指「你帮我、我帮你」的直接互惠，与同句 reciprocal help and cooperation 同根，是老鼠共情实验的解释框架。",
+   "quote": "\"Rats have been shown to engage in multiple forms of reciprocal help and cooperation, including what is referred to as direct reciprocity where a rat will help another rat that has previously helped them,\" says Quinn.",
+   "quote_zh": "奎恩说：「已有研究表明，老鼠会进行多种形式的互惠互助与合作，其中包括所谓的『直接互惠』——即一只老鼠会帮助先前帮过自己的同伴。」",
+   "source": "2020 英语二 阅读 Text 1",
+   "year": 2020,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2020
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e067",
+   "type": "theme",
+   "headword": "self-sufficiency",
+   "phonetic": "/ˌself səˈfɪʃnsi/",
+   "pos": "n.",
+   "meaning": "自给自足（尤指粮食/能源不依赖进口）",
+   "note": "农业与贸易政策主题词；A move back to self-sufficiency ... would boost the farming industry, political sovereignty and even the nation's health 列出主张方的三重论据。",
+   "quote": "A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health.",
+   "quote_zh": "主张者认为，重回自给自足将提振农业、巩固政治主权，甚至增进国民健康。",
+   "source": "2021 英语二 阅读 Text 2",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 2",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e068",
+   "type": "theme",
+   "headword": "biodiversity",
+   "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+   "pos": "n.",
+   "meaning": "生物多样性",
+   "note": "环境与能源域核心术语；2023 Text1 禁假草的官方理由即 the damage plastic grass does to the environment and biodiversity，与 sustainable drainage、habitat 同域。",
+   "quote": "The Royal Horticultural Society (RHS), which runs the annual show in west London, says it has introduced the ban because of the damage plastic grass does to the environment and biodiversity.",
+   "quote_zh": "负责在伦敦西区举办这一年度花展的英国皇家园艺学会表示，之所以出台禁令，是因为塑料草坪对环境与生物多样性有害。",
+   "source": "2023 英语二 阅读 Text 1",
+   "year": 2023,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "环境与能源",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2023
+   ],
+   "tags": [
+    "抽象名词",
+    "长难句"
+   ]
+  },
+  {
+   "id": "e069",
+   "type": "theme",
+   "headword": "labor-intensive",
+   "phonetic": "/ˌleɪbər ɪnˈtensɪv/",
+   "pos": "adj.",
+   "meaning": "劳动密集型的（需大量人工）",
+   "note": "农业经济/产业主题词，与 mechanized 对举：many high-value, labor-intensive crops, such as strawberries, need labor，点明机械化尚无法替代人工的环节。",
+   "quote": "Production of corn, cotton, rice, soybeans, and wheat has been largely mechanized, but many high-value, labor-intensive crops, such as strawberries, need labor.",
+   "quote_zh": "玉米、棉花、水稻、大豆和小麦的生产已基本实现机械化，但许多高价值、劳动密集型的作物（如草莓）仍需人工。",
+   "source": "2019 英语二 阅读 Text 3",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 3",
+   "topic": "经济与商业",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e070",
+   "type": "theme",
+   "headword": "tipflation",
+   "phonetic": "/ˈtɪpfleɪʃn/",
+   "pos": "n.",
+   "meaning": "小费通胀（小费金额与预期比例持续上涨）",
+   "note": "2025 Text1 造词，由 tip + -flation（仿 inflation）合成；与 tip creep 并列，指数字支付时代小费比例越抬越高，是全文收束的主题词。",
+   "quote": "The amounts have risen from 10% or less in the 1950s to 15% around the year 2000 to 20% or higher today. This increase is sometimes called tipflation—the expectation of ever-higher tip amounts.",
+   "quote_zh": "小费金额从 20 世纪 50 年代的 10% 或更低，升至 2000 年前后的 15%，再到如今的 20% 甚至更高。这种上涨有时被称为「小费通胀」——即人们对越抬越高的小费金额的预期。",
+   "source": "2025 英语二 阅读 Text 1",
+   "year": 2025,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "经济与商业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2025
+   ],
+   "tags": [
+    "抽象名词"
+   ]
+  },
+  {
+   "id": "e071",
+   "type": "word",
+   "headword": "appease",
+   "phonetic": "/əˈpiːz/",
+   "pos": "v.",
+   "meaning": "安抚、平息（使不再生气或内疚）",
+   "note": "appease 后接人，还可接抽象宾语：such statements appease parents and friends—and their own consciences，宾语由他人延伸到「自己的良心」，点出内疚的社会功能；比 calm down 正式。",
+   "quote": "Children aren't born knowing how to say \"I'm sorry\"; rather, they learn over time that such statements appease parents and friends—and their own consciences.",
+   "quote_zh": "孩子并非生来就会说「对不起」；相反，他们逐渐习得，这类话能安抚父母与朋友——也安抚自己的良心。",
+   "source": "2019 英语二 阅读 Text 1",
+   "year": 2019,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "心理与行为",
+   "difficulty": 2,
+   "freq": 1,
+   "years_seen": [
+    2019
+   ],
+   "tags": [
+    "写作可迁移",
+    "高频搭配"
+   ]
+  },
+  {
+   "id": "e072",
+   "type": "theme",
+   "headword": "fire-and-hire strategy",
+   "phonetic": "/ˈfaɪər ənd ˈhaɪə/",
+   "pos": "n. phrase",
+   "meaning": "「解雇—招聘」策略（裁掉技能过时者、直接另招新人，而非再培训）",
+   "note": "与 reskilling 对举的用工策略术语：AT&T 被树为放弃 fire-and-hire、转向大规模再培训的 gold standard；retain / retrain / fire-and-hire 构成职场与就业主题词网。",
+   "quote": "AT&T is often given as the gold standard of a company that decided to do a massive reskilling program rather than go with a fire-and-hire strategy.",
+   "quote_zh": "AT&T 常被视为典范：它决定开展大规模再培训项目，而不是采取「解雇—招聘」策略。",
+   "source": "2021 英语二 阅读 Text 1",
+   "year": 2021,
+   "paper": "英语二",
+   "section": "阅读 Text 1",
+   "topic": "职场与就业",
+   "difficulty": 3,
+   "freq": 1,
+   "years_seen": [
+    2021
+   ],
+   "tags": [
+    "抽象名词",
+    "写作可迁移"
+   ]
+  }
+ ]
+}
