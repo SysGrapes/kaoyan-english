@@ -17,34 +17,88 @@
       return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
     });
   }
-  function tokens(hw) {
-    return String(hw || '').split(/[\s/·]+/)
-      .map(function (t) { return t.replace(/[^A-Za-z-]/g, ''); })
-      .filter(function (t) { return t.length >= 2; });
+  var FUNC_WORD = { the: 1, of: 1, to: 1, a: 1, an: 1, in: 1, on: 1, at: 1, for: 1,
+    with: 1, and: 1, or: 1, as: 1, from: 1, into: 1, out: 1, off: 1, by: 1,
+    more: 1, no: 1, than: 1, one: 1, that: 1 };
+  var IRREGULAR = {
+    buy: '(?:buy|bought)', spell: '(?:spel\\w*)', make: '(?:mak\\w*)',
+    give: '(?:giv\\w*)', lose: '(?:los\\w*)', up: '(?:up\\w{0,4})'
+  };
+  // 单个锚点：精确词形优先，词干兜底，覆盖真题里的屈折与不规则变化
+  function stemAlt(w) {
+    var s = String(w).toLowerCase();
+    if (s === 'be') return '(?:be|am|is|are|was|were|been|being)';
+    if (IRREGULAR[s]) return IRREGULAR[s];
+    if (FUNC_WORD[s]) return s + '(?![A-Za-z])';
+    var exact = s.replace(/[^A-Za-z]/g, '');
+    if (exact.length <= 2) return exact + '\\w*';
+    var core = exact;
+    if (exact.length > 4 && /e$/.test(exact)) core = exact.slice(0, -1);
+    var stem = exact.length > 6 ? core.slice(0, 4) : core;
+    if (stem === exact) return exact + '\\w*';
+    return '(?:' + exact + '\\w*|' + stem + '\\w*)';
   }
-  var PHRASE_STOP = { to: 1, as: 1, on: 1, in: 1, of: 1, at: 1, by: 1, for: 1, with: 1,
-    than: 1, no: 1, more: 1, and: 1, or: 1, the: 1, a: 1, an: 1, from: 1, into: 1, out: 1, one: 1 };
-  function hwRegex(hw) {
-    var dotted = String(hw).indexOf('...') >= 0;
-    var ts = tokens(hw);
-    if (dotted) {
-      // 含 "..." 的短语只高亮/挖空最具辨识度的核心词，避免把 to/as/on/than 等虚词误判为词条
-      ts = ts.filter(function (t) { return t.length >= 3 && !PHRASE_STOP[t.toLowerCase()]; })
-        .sort(function (a, b) { return b.length - a.length; }).slice(0, 1);
+  // 把词条拆成锚点序列；括号备注、sth / sb / one's / ... 视作可通配的空位
+  function anchors(hw) {
+    var raw = String(hw || '').trim()
+      .replace(/\([^)]*\)/g, ' ')
+      .replace(/\bdo\s+sth\b/gi, ' \u0001 ')
+      .replace(/\b(?:sth|sb)\b/gi, ' ')
+      .replace(/one['\u2019]s/gi, ' \u0001 ')
+      .replace(/\.\.\.+/g, ' \u0001 ');
+    var out = [];
+    raw.split(/\s+/).forEach(function (t) {
+      if (!t) return;
+      if (t === '\u0001') { out.push({ wild: true }); return; }
+      if (t.indexOf('/') >= 0) {
+        out.push({ alt: t.split('/').filter(Boolean).map(function (x) {
+          return '(?:' + stemAlt(x) + ')';
+        }).join('|') });
+        return;
+      }
+      if (t.indexOf('-') >= 0) {
+        out.push({ alt: t.split(/-+/).filter(Boolean).map(function (x) {
+          return '(?:' + stemAlt(x) + ')';
+        }).join('[\\-\\s]+') });
+        return;
+      }
+      var s = t.replace(/[^A-Za-z]/g, '');
+      if (s) out.push({ w: s });
+    });
+    while (out.length && out[out.length - 1].wild) out.pop();
+    return out;
+  }
+  function buildRegex(hw, gap) {
+    var a = anchors(hw), parts = [];
+    // 通配空位必须短，否则会从前面的同形词一路吞到后面的目标词
+    var wildPat = gap === '[\\s\\-]+' ? '[^.!?]{0,25}?' : '[^.!?]{0,35}?';
+    a.forEach(function (x, i) {
+      if (x.wild) { parts.push(wildPat); return; }
+      if (i > 0 && !a[i - 1].wild) parts.push(gap);
+      parts.push(x.alt ? '(?:' + x.alt + ')' : '(?:' + stemAlt(x.w) + ')');
+    });
+    if (!parts.length) return null;
+    try { return new RegExp('\\b(' + parts.join('') + ')\\b', 'i'); }
+    catch (e) { return null; }
+  }
+  // 只标记第一个「整体」片段：严格相邻优先，允许少量插入词兜底；绝不逐词标记
+  function markOnce(q, hw, open, close) {
+    var raw = String(q == null ? '' : q);
+    var regs = [buildRegex(hw, '[\\s\\-]+'), buildRegex(hw, '[^.!?]{0,30}?')];
+    for (var r = 0; r < regs.length; r++) {
+      var re = regs[r]; if (!re) continue;
+      var m = re.exec(raw); if (!m || m[0].length > 160) continue;
+      var i = m.index, end = i + m[0].length;
+      return esc(raw.slice(0, i)) + open + esc(raw.slice(i, end)) + close + esc(raw.slice(end));
     }
-    if (!ts.length) return null;
-    var parts = ts.map(function (t) { return esc(t) + (t.length >= 4 ? '\\w{0,3}' : ''); });
-    return new RegExp('\\b(' + parts.join('|') + ')\\b', 'gi');
+    return null;
   }
   function hl(q, hw) {
-    var safe = esc(q), re = hwRegex(hw);
-    return re ? safe.replace(re, '<mark>$1</mark>') : safe;
+    return markOnce(q, hw, '<mark>', '</mark>') || esc(q);
   }
-  function blank(q, hw) {
-    var safe = esc(q), re = hwRegex(hw);
-    if (!re || !re.test(safe)) return null;
-    re.lastIndex = 0;
-    return safe.replace(re, '<span class="blank">&nbsp;&nbsp;&nbsp;&nbsp;</span>');
+  // 语境选义题：完整真题原句 + 考查词整体划线（不挖空）
+  function underline(q, hw) {
+    return markOnce(q, hw, '<span class="underline-target">', '</span>');
   }
   function shuffle(a) {
     for (var i = a.length - 1; i > 0; i--) {
@@ -341,21 +395,45 @@
     while (out.length < n) out.push('—');
     return out;
   }
+  // 语境题的干扰项优先取「同一个词的其他义项」，让熟词僻义真正被辨析
+  function meaningOptions(pool, e, n) {
+    var seen = {}, out = [];
+    seen[String(e.meaning).toLowerCase()] = 1;
+    ALL.filter(function (x) {
+      return x.uid !== e.uid &&
+        String(x.headword).toLowerCase() === String(e.headword).toLowerCase();
+    }).forEach(function (x) {
+      if (!x.meaning) return;
+      var k = String(x.meaning).toLowerCase();
+      if (!seen[k]) { seen[k] = 1; out.push(x.meaning); }
+    });
+    var rest = distractors(pool, 'meaning', e.meaning, n, true, e.type);
+    for (var i = 0; i < rest.length && out.length < n; i++) {
+      var k2 = String(rest[i]).toLowerCase();
+      if (!seen[k2]) { seen[k2] = 1; out.push(rest[i]); }
+    }
+    while (out.length < n) out.push('—');
+    return out;
+  }
   function makeQuestions(pool, n) {
     var qs = [], cand = shuffle(pool.slice());
     for (var i = 0; i < cand.length && qs.length < n; i++) {
       var e = cand[i];
-      var kinds = e.type === 'polyseme' ? shuffle(['context', 'poly', 'reverse']) : shuffle(['context', 'reverse']);
+      var kinds = e.type === 'polyseme'
+        ? shuffle(['context', 'poly', 'reverse'])
+        : shuffle(['context', 'reverse']);
       var made = null;
       for (var k = 0; k < kinds.length && !made; k++) {
         var kind = kinds[k];
         if (kind === 'context') {
-          var b = blank(e.quote, e.headword); if (!b) continue;
+          var marked = underline(e.quote, e.headword);
+          if (!marked) continue;
           made = {
-            kind: kind, label: '语境选义 · 在真题原句中判断划线部分的含义', entry: e,
-            stem: b, sub: '出处：' + e.source + '　·　先读原句，再选最贴切的释义',
+            kind: kind, label: '语境选义 · 判断原句中划线部分的含义', entry: e,
+            stem: marked,
+            sub: '出处：' + e.source + '　·　划线部分在此语境中取哪个义项？',
             answer: e.meaning,
-            options: shuffle([e.meaning].concat(distractors(pool, 'meaning', e.meaning, 3, true, e.type)))
+            options: shuffle([e.meaning].concat(meaningOptions(pool, e, 3)))
           };
         } else if (kind === 'poly') {
           if (!e.rare_meaning) continue;
